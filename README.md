@@ -189,13 +189,13 @@ trakt-graph/
 ├── .github/            # GitHub Actions workflows
 │   └── workflows/
 │       └── update-trakt-graph.yml
-├── index.js            # Main script
+├── standalone.js            # Main script
 ├── package.json        # Dependencies and scripts
 ├── package-lock.json   # Dependency lock file
 └── README.md           # This file
 ```
 
-- **`index.js`**: Core logic for fetching Trakt data, processing it, and generating SVGs.
+- **`standalone.js`**: Core logic for fetching Trakt data, processing it, and generating SVGs.
 - **`images/`**: Default output directory for `github-trakt-dark.svg` and `github-trakt-light.svg`.
 
 ## API Routes
