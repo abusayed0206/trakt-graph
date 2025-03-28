@@ -9,7 +9,7 @@
 Generates a GitHub-style contribution graph from your Trakt watch history.
 
 <p align="left">
-  <a href="https://trakt.tv/users/YOUR_TRAKT_USERNAME/" target="_blank">
+  <a href="https://trakt.tv/users/hdlists/" target="_blank">
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
