@@ -9,7 +9,11 @@
 Generates a GitHub-style contribution graph from your Trakt watch history.
 
 <p align="left">
+<<<<<<< HEAD
   <a href="https://trakt.tv/users/TheLagacyMiner/" target="_blank">
+=======
+  <a href="https://trakt.tv/users/hdlists/" target="_blank">
+>>>>>>> d23925ce21ee8580a18a6dbf5b48e8c85c7a56eb
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
