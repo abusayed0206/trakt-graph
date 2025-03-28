@@ -24,7 +24,7 @@ jobs:
 
       - run: npm ci
 
-      - run: node standalone.js -u hdlists
+      - run: node standalone.js -u TheLagacyMiner
 
       - run: |
           git config --global user.name 'github-actions[bot]'
