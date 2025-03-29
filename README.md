@@ -61,17 +61,17 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
-          node-version: '18'
+          node-version: '20'
           cache: 'npm'
       - run: npm ci
-      - run: npm start -u YOUR_TRAKT_USERNAME
+      - run: npm start -u YOUR_TRAKT_USERNAME -a
         env:
           TRAKT_API_KEY: ${{ secrets.TRAKT_API_KEY }}
       - run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add images/github-trakt-dark.svg images/github-trakt-light.svg
-          git commit --allow-empty -m "Update Trakt contribution graph"
+          git add images/github-trakt-*.svg
+          git commit --allow-empty -m "🔄 Update Trakt contribution graph"
           git push
 ```
 
