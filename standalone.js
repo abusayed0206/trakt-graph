@@ -5,8 +5,6 @@ const fetch = require('node-fetch');
 
 const TRAKT_API_KEY = process.env.TRAKT_API_KEY;
 const OUTPUT_DIR = 'images';
-const OUTPUT_FILE_DARK = `${OUTPUT_DIR}/github-trakt-dark.svg`;
-const OUTPUT_FILE_LIGHT = `${OUTPUT_DIR}/github-trakt-light.svg`;
 
 // Fetch user profile data from Trakt API
 async function fetchProfileData(username) {
@@ -255,7 +253,7 @@ function generateSvg(entries, itemsPerDay, options = {}) {
       ${logoBase64 ? `<image href="${logoBase64}" x="0" y="-12" width="15" height="15"/>` : ''}
       <text x="${logoBase64 ? 20 : 0}" y="0" class="title-text">Trakt ${year}</text>
     </g>
-    <text x="30" y="30" class="subtitle-text">${totalItemsWatched} items watched</text>
+    <text x="30" y="30" class="subtitle-text">${totalItemsWatched} ${options.watchedLabel || 'items'} watched</text>
     <g transform="translate(${SVG_WIDTH - 160}, 10)">
       <text x="0" y="10">Less</text>`;
 
@@ -352,30 +350,52 @@ async function main() {
       case 'u':
         if (nextArg) { username = nextArg; i++; }
         break;
+      case 'a':
+        type = 'all'; // We'll handle this below
+        break;
       default: console.warn(`Unknown flag "-${flag}", ignoring`);
     }
   }
 
   if (!username) throw new Error('Username is required. Use -u flag to specify.');
-  
-  console.log(`Configuration: Username=${username}, Type=${type}, Year=${targetYear}, Week Start=${weekStart}`);
+
+  const renderAll = args.includes('-a') || args.includes('--all');
+  const typesToRender = renderAll ? ['movies', 'shows', 'all'] : [type];
+
+  console.log(`Configuration: Username=${username}, Types=${typesToRender.join(', ')}, Year=${targetYear}, Week Start=${weekStart}`);
 
   if (!fs.existsSync(OUTPUT_DIR)) fs.mkdirSync(OUTPUT_DIR);
 
   const { displayName, profileImage } = await fetchProfileData(username);
   const profileImageBase64 = profileImage ? await imageToBase64(profileImage) : null;
   const logoBase64 = await imageToBase64('https://trakt.tv/assets/logos/logomark.square.gradient-b644b16c38ff775861b4b1f58c1230f6a097a2466ab33ae00445a505c33fcb91.svg');
-  const history = await fetchTraktHistory(username, type, targetYear);
-  const { entries, itemsPerDay, year, totalItemsWatched, dayCountStats } = processTraktHistory(history, targetYear);
 
-  const svgOptions = { 
-    year, weekStart, username, profileImage: profileImageBase64, displayName, logoBase64, totalItemsWatched, dayCountStats 
-  };
+  for (const t of typesToRender) {
+    const history = await fetchTraktHistory(username, t, targetYear);
+    const { entries, itemsPerDay, year, totalItemsWatched, dayCountStats } = processTraktHistory(history, targetYear);
 
-  fs.writeFileSync(OUTPUT_FILE_DARK, generateSvg(entries, itemsPerDay, { ...svgOptions, theme: 'dark' }));
-  fs.writeFileSync(OUTPUT_FILE_LIGHT, generateSvg(entries, itemsPerDay, { ...svgOptions, theme: 'light' }));
+    const watchedLabel = t === 'movies' ? 'movies' : t === 'shows' ? 'episodes' : 'items';
 
-  console.log(`SVGs generated: ${OUTPUT_FILE_DARK}, ${OUTPUT_FILE_LIGHT}`);
+    const svgOptions = {
+      year,
+      weekStart,
+      username,
+      profileImage: profileImageBase64,
+      displayName,
+      logoBase64,
+      totalItemsWatched,
+      dayCountStats,
+      watchedLabel,
+    };
+
+    // Default filenames for "all"
+    const baseName = t === 'all' ? 'github-trakt' : `github-trakt-${t}`;
+    fs.writeFileSync(`${OUTPUT_DIR}/${baseName}-dark.svg`, generateSvg(entries, itemsPerDay, { ...svgOptions, theme: 'dark' }));
+    fs.writeFileSync(`${OUTPUT_DIR}/${baseName}-light.svg`, generateSvg(entries, itemsPerDay, { ...svgOptions, theme: 'light' }));
+
+    console.log(`SVGs generated for ${t}: ${baseName}-dark.svg & -light.svg`);
+  }
 }
+
 
 main().catch(err => console.error('Error:', err));

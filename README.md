@@ -32,10 +32,13 @@ Turn your Trakt watch history (movies and TV shows) into a visually appealing he
 ## Features
 
 - Fetches your Trakt watch history via the Trakt API.
-- Generates SVG graphs in both light and dark themes, including your profile image and the Trakt logo.
-- Supports customization: choose a specific year, set the week start (Sunday/Monday), and filter by movies or shows.
-- Interactive tooltips: Hover over a cell to see details of items watched on that day (viewable in a browser).
-- Detailed logging for debugging and monitoring.
+- Generates SVG graphs in both light and dark themes for:
+  - Movies only
+  - Shows only
+  - All watch history combined
+- Includes your Trakt profile image and the Trakt logo.
+- Supports customization: choose a specific year, set the week start (Sunday/Monday), and select content types.
+- Interactive tooltips: Hover over a cell to see details of what was watched on that day (viewable in a browser).
 
 ## Usage
 
@@ -97,9 +100,10 @@ jobs:
      - `-w monday`: Start weeks on Monday (default: `sunday`).
      - `-m`: Filter to movies only.
      - `-s`: Filter to shows only.
+     - `-a`: Generate all types (`movies`, `shows`, and `all`) at once.
      Example:
      ```yaml
-     run: npm start -u YOUR_TRAKT_USERNAME -y 2024 -w monday -m
+     run: npm start -u YOUR_TRAKT_USERNAME -y 2024 -a
      ```
 
 6. **Update the README**:
@@ -221,15 +225,67 @@ These logs are useful for troubleshooting API issues or verifying data processin
 
 ## Screenshots
 
-Below are example outputs:
+Below are example outputs with automatic light/dark switching:
 
-**Dark Theme**  
-![Trakt Contribution Graph - Dark Theme](images/github-trakt-dark.svg)
+### All (Default View)
+<p align="left">
+  <a href="https://trakt.tv/users/TheLagacyMiner" target="_blank">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="images/github-trakt-dark.svg"
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="images/github-trakt-light.svg"
+      />
+      <img
+        alt="Trakt contribution graph (all)"
+        src="images/github-trakt-light.svg"
+      />
+    </picture>
+  </a>
+</p>
 
-**Light Theme**  
-![Trakt Contribution Graph - Light Theme](images/github-trakt-light.svg)
+### Movies Only
+<p align="left">
+  <a href="https://trakt.tv/users/TheLagacyMiner" target="_blank">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="images/github-trakt-movies-dark.svg"
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="images/github-trakt-movies-light.svg"
+      />
+      <img
+        alt="Trakt contribution graph (movies)"
+        src="images/github-trakt-movies-light.svg"
+      />
+    </picture>
+  </a>
+</p>
 
-*Note*: Hover over cells in a browser to see detailed tooltips with watch history for each day.
+### Shows Only
+<p align="left">
+  <a href="https://trakt.tv/users/TheLagacyMiner" target="_blank">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="images/github-trakt-shows-dark.svg"
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="images/github-trakt-shows-light.svg"
+      />
+      <img
+        alt="Trakt contribution graph (shows)"
+        src="images/github-trakt-shows-light.svg"
+      />
+    </picture>
+  </a>
+</p>
 
 ## Contributing
 
