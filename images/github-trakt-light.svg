@@ -918,9 +918,9 @@
           <rect x="0" y="0" width="300" height="56" rx="4" fill="#f6f8fa" stroke="#d1d5da" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-03-20: 1 item watched</tspan><tspan x="10" dy="18">• Talladega Nights: The Ballad of Ricky Bobby (2006)</tspan></text></g>
         <rect x="156" y="52" width="11" height="11" rx="2" ry="2" fill="#216e39" opacity="1" data-date="2025-03-27" data-count="4"/>
-        <g class="tooltip" transform="translate(14.5, -68)">
-          <rect x="0" y="0" width="294" height="110" rx="4" fill="#f6f8fa" stroke="#d1d5da" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-03-27: 4 items watched</tspan><tspan x="10" dy="18">• 1x The Day of the Jackal (2024)</tspan><tspan x="10" dy="18">• Wayne&#39;s World (1992)</tspan><tspan x="10" dy="18">• You, Me and Dupree (2006)</tspan><tspan x="10" dy="18">• Reefer Madness: The Movie Musical (2006)</tspan></text></g>
+        <g class="tooltip" transform="translate(46, -68)">
+          <rect x="0" y="0" width="231" height="110" rx="4" fill="#f6f8fa" stroke="#d1d5da" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-03-27: 4 items watched</tspan><tspan x="10" dy="18">• 1x The Day of the Jackal (2024)</tspan><tspan x="10" dy="18">• Wayne&#39;s World (1992)</tspan><tspan x="10" dy="18">• You, Me and Dupree (2006)</tspan><tspan x="10" dy="18">• Reefer Madness (2006)</tspan></text></g>
         <rect x="169" y="52" width="11" height="11" rx="2" ry="2" fill="#9be9a8" opacity="1" data-date="2025-04-03" data-count="1"/>
         <g class="tooltip" transform="translate(83.5, -14)">
           <rect x="0" y="0" width="182" height="56" rx="4" fill="#f6f8fa" stroke="#d1d5da" stroke-width="0.5" opacity="0.95"/>
