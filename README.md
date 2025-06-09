@@ -1,7 +1,7 @@
 # Trakt Contribution Graph
 
-[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/nichtlegacy/trakt-graph/update-trakt-graph.yml?label=action&style=flat-square)](https://github.com/nichtlegacy/trakt-graph/actions/workflows/update-trakt-graph.yml)
-[![GitHub release](https://img.shields.io/github/release/nichtlegacy/trakt-graph.svg?style=flat-square)](https://github.com/nichtlegacy/trakt-graph/releases/latest)
+[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/abusayed0206/trakt-graph/update-trakt-graph.yml?label=action&style=flat-square)](https://github.com/abusayed0206/trakt-graph/actions/workflows/update-trakt-graph.yml)
+[![GitHub release](https://img.shields.io/github/release/abusayed0206/trakt-graph.svg?style=flat-square)](https://github.com/abusayed0206/trakt-graph/releases/latest)
 ![Made with Node.js](https://img.shields.io/badge/Made%20with-Node.js-green?style=flat-square)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)
@@ -9,25 +9,25 @@
 Generates a GitHub-style contribution graph from your Trakt watch history.
 
 <p align="left">
-  <a href="https://trakt.tv/users/TheLagacyMiner/" target="_blank">
+  <a href="https://trakt.tv/users/lrs/" target="_blank">
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://github.com/nichtlegacy/trakt-graph/blob/main/images/github-trakt-dark.svg"
+        srcset="https://github.com/abusayed0206/trakt-graph/blob/main/images/github-trakt-dark.svg"
       />
       <source
         media="(prefers-color-scheme: light)"
-        srcset="https://github.com/nichtlegacy/trakt-graph/blob/main/images/github-trakt-light.svg"
+        srcset="https://github.com/abusayed0206/trakt-graph/blob/main/images/github-trakt-light.svg"
       />
       <img
         alt="Trakt contribution graph"
-        src="https://github.com/nichtlegacy/trakt-graph/blob/main/images/github-trakt-light.svg"
+        src="https://github.com/abusayed0206/trakt-graph/blob/main/images/github-trakt-light.svg"
       />
     </picture>
   </a>
 </p>
 
-Turn your Trakt watch history (movies and TV shows) into a visually appealing heatmap, styled like GitHub's contribution graph. Display your viewing habits in your GitHub profile README or share them anywhere with light and dark theme SVGs!
+Turn your Trakt watch history (movies and TV shows) into a visually appealing heatmap, styled like GitHub's contribution graph. Display your viewing habits in your GitHub profile README or share them elsewhere!
 
 ## Features
 
@@ -64,7 +64,7 @@ jobs:
           node-version: '20'
           cache: 'npm'
       - run: npm ci
-      - run: npm start -u YOUR_TRAKT_USERNAME -a
+      - run: npm start -u lrs -a
         env:
           TRAKT_API_KEY: ${{ secrets.TRAKT_API_KEY }}
       - run: |
@@ -88,7 +88,7 @@ jobs:
    - Open `.github/workflows/update-trakt-graph.yml`.
    - Replace `YOUR_TRAKT_USERNAME` with your Trakt username:
      ```yaml
-     run: npm start -u YOUR_TRAKT_USERNAME
+     run: npm start -u lrs
      ```
 
 4. **Enable GitHub Actions**:
@@ -103,26 +103,26 @@ jobs:
      - `-a`: Generate all types (`movies`, `shows`, and `all`) at once.
      Example:
      ```yaml
-     run: npm start -u YOUR_TRAKT_USERNAME -y 2024 -a
+     run: npm start -u lrs -y 2024 -a
      ```
 
 6. **Update the README**:
    - Replace placeholders in the `<picture>` tag with your GitHub and Trakt usernames:
      ```html
      <p align="left">
-       <a href="https://trakt.tv/users/YOUR_TRAKT_USERNAME/" target="_blank">
+       <a href="https://trakt.tv/users/lrs/" target="_blank">
          <picture>
            <source
              media="(prefers-color-scheme: dark)"
-             srcset="https://github.com/YOUR_USERNAME/trakt-graph/blob/main/images/github-trakt-dark.svg"
+             srcset="https://github.com/abusayed0206/trakt-graph/blob/main/images/github-trakt-dark.svg"
            />
            <source
              media="(prefers-color-scheme: light)"
-             srcset="https://github.com/YOUR_USERNAME/trakt-graph/blob/main/images/github-trakt-light.svg"
+             srcset="https://github.com/abusayed0206/trakt-graph/blob/main/images/github-trakt-light.svg"
            />
            <img
              alt="Trakt contribution graph"
-             src="https://github.com/YOUR_USERNAME/trakt-graph/blob/main/images/github-trakt-light.svg"
+             src="https://github.com/abusayed0206/trakt-graph/blob/main/images/github-trakt-light.svg"
            />
          </picture>
        </a>
@@ -138,14 +138,14 @@ Generate the graph locally:
 
 ```bash
 # Clone the repo
-git clone https://github.com/nichtlegacy/trakt-graph.git
+git clone https://github.com/abusayed0206/trakt-graph.git
 cd trakt-graph
 
 # Install dependencies
 npm install
 
 # Generate the graph
-npm start -u YOUR_TRAKT_USERNAME
+npm start -u lrs
 ```
 
 The SVGs will be saved to the `images/` directory. Add optional flags like `-y 2024` or `-w monday`.
@@ -229,7 +229,7 @@ Below are example outputs with automatic light/dark switching:
 
 ### All (Default View)
 <p align="left">
-  <a href="https://trakt.tv/users/TheLagacyMiner" target="_blank">
+  <a href="https://trakt.tv/users/lrs" target="_blank">
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
@@ -249,7 +249,7 @@ Below are example outputs with automatic light/dark switching:
 
 ### Movies Only
 <p align="left">
-  <a href="https://trakt.tv/users/TheLagacyMiner" target="_blank">
+  <a href="https://trakt.tv/users/lrs" target="_blank">
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
@@ -269,7 +269,7 @@ Below are example outputs with automatic light/dark switching:
 
 ### Shows Only
 <p align="left">
-  <a href="https://trakt.tv/users/TheLagacyMiner" target="_blank">
+  <a href="https://trakt.tv/users/lrs" target="_blank">
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
