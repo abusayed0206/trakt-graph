@@ -17,7 +17,7 @@
       <image href="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyBpZD0iTGF5ZXJfMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgdmlld0JveD0iMCAwIDQ4IDQ4Ij4KICA8ZGVmcz4KICAgIDxzdHlsZT4KICAgICAgLmNscy0xIHsKICAgICAgICBmaWxsOiB1cmwoI3JhZGlhbC1ncmFkaWVudCk7CiAgICAgIH0KCiAgICAgIC5jbHMtMiB7CiAgICAgICAgZmlsbDogI2ZmZjsKICAgICAgfQogICAgPC9zdHlsZT4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0icmFkaWFsLWdyYWRpZW50IiBjeD0iNDguNDYiIGN5PSItLjk1IiBmeD0iNDguNDYiIGZ5PSItLjk1IiByPSI2NC44NCIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiM5ZjQyYzYiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIuMjciIHN0b3AtY29sb3I9IiNhMDQxYzMiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIuNDIiIHN0b3AtY29sb3I9IiNhNDNlYmIiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIuNTMiIHN0b3AtY29sb3I9IiNhYTM5YWQiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIuNjQiIHN0b3AtY29sb3I9IiNiNDMzOWEiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIuNzMiIHN0b3AtY29sb3I9IiNjMDJiODEiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIuODIiIHN0b3AtY29sb3I9IiNjZjIwNjEiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIuOSIgc3RvcC1jb2xvcj0iI2UxMTQzYyIvPgogICAgICA8c3RvcCBvZmZzZXQ9Ii45NyIgc3RvcC1jb2xvcj0iI2Y1MDYxMyIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9InJlZCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICA8L2RlZnM+CiAgPGcgaWQ9Il94MkRfLXByb2R1Y3Rpb24iPgogICAgPGcgaWQ9ImxvZ29tYXJrLnNxdWFyZS5ncmFkaWVudCI+CiAgICAgIDxwYXRoIGlkPSJiYWNrZ3JvdW5kIiBjbGFzcz0iY2xzLTEiIGQ9Ik00OCwxMS4yNnYyNS40N2MwLDYuMjItNS4wNSwxMS4yNy0xMS4yNywxMS4yN0gxMS4yNmMtNi4yMiwwLTExLjI2LTUuMDUtMTEuMjYtMTEuMjdWMTEuMjZDMCw1LjA0LDUuMDQsMCwxMS4yNiwwaDI1LjQ3YzMuMzIsMCw2LjMsMS40Myw4LjM3LDMuNzIuNDcuNTIuODksMS4wOCwxLjI1LDEuNjguMTguMjkuMzQuNTkuNS44OS4zMy42OC42LDEuMzkuNzksMi4xNC4xLjM3LjE4Ljc2LjIzLDEuMTUuMDkuNTQuMTMsMS4xMS4xMywxLjY4WiIvPgogICAgICA8ZyBpZD0iY2hlY2tib3giPgogICAgICAgIDxwYXRoIGNsYXNzPSJjbHMtMiIgZD0iTTEzLjYyLDE3Ljk3bDcuOTIsNy45MiwxLjQ3LTEuNDctNy45Mi03LjkyLTEuNDcsMS40N1pNMjguMDEsMzIuMzdsMS40Ny0xLjQ2LTIuMTYtMi4xNiwyMC4zMi0yMC4zMmMtLjE5LS43NS0uNDYtMS40Ni0uNzktMi4xNGwtMjIuNDYsMjIuNDYsMy42MiwzLjYyWk0xMi45MiwxOC42N2wtMS40NiwxLjQ2LDE0LjQsMTQuNCwxLjQ2LTEuNDctNC4zMi00LjMxTDQ2LjM1LDUuNGMtLjM2LS42LS43OC0xLjE2LTEuMjUtMS42OGwtMjMuNTYsMjMuNTYtOC42Mi04LjYxWk00Ny44Nyw5LjU4bC0xOS4xNywxOS4xNywxLjQ3LDEuNDYsMTcuODMtMTcuODN2LTEuMTJjMC0uNTctLjA0LTEuMTQtLjEzLTEuNjhaTTI1LjE2LDIyLjI3bC03LjkyLTcuOTItMS40NywxLjQ3LDcuOTIsNy45MiwxLjQ3LTEuNDdaTTQxLjMyLDM1LjEyYzAsMy40Mi0yLjc4LDYuMi02LjIsNi4ySDEyLjg4Yy0zLjQyLDAtNi4yLTIuNzgtNi4yLTYuMlYxMi44OGMwLTMuNDIsMi43OC02LjIxLDYuMi02LjIxaDIwLjc4di0yLjA3SDEyLjg4Yy00LjU2LDAtOC4yOCwzLjcxLTguMjgsOC4yOHYyMi4yNGMwLDQuNTYsMy43MSw4LjI4LDguMjgsOC4yOGgyMi4yNGM0LjU2LDAsOC4yOC0zLjcxLDguMjgtOC4yOHYtMy41MWgtMi4wN3YzLjUxWiIvPgogICAgICA8L2c+CiAgICA8L2c+CiAgPC9nPgo8L3N2Zz4=" x="0" y="-12" width="15" height="15"/>
       <text x="20" y="0" class="title-text">Trakt 2025</text>
     </g>
-    <text x="30" y="30" class="subtitle-text">216 episodes watched</text>
+    <text x="30" y="30" class="subtitle-text">0 episodes watched</text>
     <g transform="translate(589, 10)">
       <text x="0" y="10">Less</text><rect x="40" y="2" width="10" height="10" rx="2" ry="2" fill="#161b22"/><rect x="55" y="2" width="10" height="10" rx="2" ry="2" fill="#0e4429"/><rect x="70" y="2" width="10" height="10" rx="2" ry="2" fill="#006d32"/><rect x="85" y="2" width="10" height="10" rx="2" ry="2" fill="#26a641"/><rect x="100" y="2" width="10" height="10" rx="2" ry="2" fill="#39d353"/><text x="120" y="10">More</text></g>
     <g transform="translate(30, 50)"><text x="0" y="0">Jan</text><text x="52" y="0">Feb</text><text x="104" y="0">Mar</text><text x="169" y="0">Apr</text><text x="221" y="0">May</text><text x="286" y="0">Jun</text><text x="338" y="0">Jul</text><text x="390" y="0">Aug</text><text x="455" y="0">Sep</text><text x="507" y="0">Oct</text><text x="559" y="0">Nov</text><text x="624" y="0">Dec</text></g><g transform="translate(10, 60)"><text x="0" y="9.5">S</text><text x="0" y="22.5">M</text><text x="0" y="35.5">T</text><text x="0" y="48.5">W</text><text x="0" y="61.5">T</text><text x="0" y="74.5">F</text><text x="0" y="87.5">S</text></g><g transform="translate(30, 60)">
@@ -25,10 +25,10 @@
         <g class="tooltip" transform="translate(-89, -48)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2024-12-29: 0 items watched</tspan></text></g>
-        <rect x="13" y="0" width="11" height="11" rx="2" ry="2" fill="#0e4429" opacity="1" data-date="2025-01-05" data-count="1"/>
-        <g class="tooltip" transform="translate(-72.5, -66)">
-          <rect x="0" y="0" width="182" height="56" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-01-05: 1 item watched</tspan><tspan x="10" dy="18">• 1x Silo (2023)</tspan></text></g>
+        <rect x="13" y="0" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-01-05" data-count="0"/>
+        <g class="tooltip" transform="translate(-76, -48)">
+          <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-01-05: 0 items watched</tspan></text></g>
         <rect x="26" y="0" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-01-12" data-count="0"/>
         <g class="tooltip" transform="translate(-63, -48)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
@@ -41,42 +41,42 @@
         <g class="tooltip" transform="translate(-37, -48)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-01-26: 0 items watched</tspan></text></g>
-        <rect x="65" y="0" width="11" height="11" rx="2" ry="2" fill="#0e4429" opacity="1" data-date="2025-02-02" data-count="1"/>
-        <g class="tooltip" transform="translate(-20.5, -66)">
-          <rect x="0" y="0" width="182" height="56" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-02-02: 1 item watched</tspan><tspan x="10" dy="18">• 1x iCarly (2007)</tspan></text></g>
-        <rect x="78" y="0" width="11" height="11" rx="2" ry="2" fill="#006d32" opacity="1" data-date="2025-02-09" data-count="2"/>
-        <g class="tooltip" transform="translate(-21.5, -66)">
-          <rect x="0" y="0" width="210" height="56" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-02-09: 2 items watched</tspan><tspan x="10" dy="18">• 2x Two and a Half Men (2003)</tspan></text></g>
-        <rect x="91" y="0" width="11" height="11" rx="2" ry="2" fill="#006d32" opacity="1" data-date="2025-02-16" data-count="2"/>
-        <g class="tooltip" transform="translate(-19, -66)">
-          <rect x="0" y="0" width="231" height="56" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-02-16: 2 items watched</tspan><tspan x="10" dy="18">• 2x Malcolm in the Middle (2000)</tspan></text></g>
-        <rect x="104" y="0" width="11" height="11" rx="2" ry="2" fill="#39d353" opacity="1" data-date="2025-02-23" data-count="4"/>
-        <g class="tooltip" transform="translate(-6, -84)">
-          <rect x="0" y="0" width="231" height="74" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-02-23: 4 items watched</tspan><tspan x="10" dy="18">• 3x Two and a Half Men (2003)</tspan><tspan x="10" dy="18">• 1x Malcolm in the Middle (2000)</tspan></text></g>
+        <rect x="65" y="0" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-02-02" data-count="0"/>
+        <g class="tooltip" transform="translate(-24, -48)">
+          <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-02-02: 0 items watched</tspan></text></g>
+        <rect x="78" y="0" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-02-09" data-count="0"/>
+        <g class="tooltip" transform="translate(-11, -48)">
+          <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-02-09: 0 items watched</tspan></text></g>
+        <rect x="91" y="0" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-02-16" data-count="0"/>
+        <g class="tooltip" transform="translate(2, -48)">
+          <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-02-16: 0 items watched</tspan></text></g>
+        <rect x="104" y="0" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-02-23" data-count="0"/>
+        <g class="tooltip" transform="translate(15, -48)">
+          <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-02-23: 0 items watched</tspan></text></g>
         <rect x="117" y="0" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-03-02" data-count="0"/>
         <g class="tooltip" transform="translate(28, -48)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-03-02: 0 items watched</tspan></text></g>
-        <rect x="130" y="0" width="11" height="11" rx="2" ry="2" fill="#39d353" opacity="1" data-date="2025-03-09" data-count="6"/>
-        <g class="tooltip" transform="translate(41, -66)">
-          <rect x="0" y="0" width="189" height="56" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-03-09: 6 items watched</tspan><tspan x="10" dy="18">• 6x Severance (2022)</tspan></text></g>
-        <rect x="143" y="0" width="11" height="11" rx="2" ry="2" fill="#39d353" opacity="1" data-date="2025-03-16" data-count="4"/>
-        <g class="tooltip" transform="translate(33, -102)">
-          <rect x="0" y="0" width="231" height="92" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-03-16: 4 items watched</tspan><tspan x="10" dy="18">• 1x Severance (2022)</tspan><tspan x="10" dy="18">• 1x Two and a Half Men (2003)</tspan><tspan x="10" dy="18">• 2x Malcolm in the Middle (2000)</tspan></text></g>
+        <rect x="130" y="0" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-03-09" data-count="0"/>
+        <g class="tooltip" transform="translate(41, -48)">
+          <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-03-09: 0 items watched</tspan></text></g>
+        <rect x="143" y="0" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-03-16" data-count="0"/>
+        <g class="tooltip" transform="translate(54, -48)">
+          <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-03-16: 0 items watched</tspan></text></g>
         <rect x="156" y="0" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-03-23" data-count="0"/>
         <g class="tooltip" transform="translate(67, -48)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-03-23: 0 items watched</tspan></text></g>
-        <rect x="169" y="0" width="11" height="11" rx="2" ry="2" fill="#006d32" opacity="1" data-date="2025-03-30" data-count="2"/>
-        <g class="tooltip" transform="translate(59, -84)">
-          <rect x="0" y="0" width="231" height="74" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-03-30: 2 items watched</tspan><tspan x="10" dy="18">• 1x The Day of the Jackal (2024)</tspan><tspan x="10" dy="18">• 1x Angie Tribeca (2016)</tspan></text></g>
+        <rect x="169" y="0" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-03-30" data-count="0"/>
+        <g class="tooltip" transform="translate(80, -48)">
+          <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-03-30: 0 items watched</tspan></text></g>
         <rect x="182" y="0" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-04-06" data-count="0"/>
         <g class="tooltip" transform="translate(93, -48)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
@@ -89,14 +89,14 @@
         <g class="tooltip" transform="translate(119, -48)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-04-20: 0 items watched</tspan></text></g>
-        <rect x="221" y="0" width="11" height="11" rx="2" ry="2" fill="#0e4429" opacity="1" data-date="2025-04-27" data-count="1"/>
-        <g class="tooltip" transform="translate(135.5, -66)">
-          <rect x="0" y="0" width="182" height="56" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-04-27: 1 item watched</tspan><tspan x="10" dy="18">• 1x Intimate. (2023)</tspan></text></g>
-        <rect x="234" y="0" width="11" height="11" rx="2" ry="2" fill="#006d32" opacity="1" data-date="2025-05-04" data-count="2"/>
-        <g class="tooltip" transform="translate(145, -66)">
-          <rect x="0" y="0" width="189" height="56" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-05-04: 2 items watched</tspan><tspan x="10" dy="18">• 2x Intimate. (2023)</tspan></text></g>
+        <rect x="221" y="0" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-04-27" data-count="0"/>
+        <g class="tooltip" transform="translate(132, -48)">
+          <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-04-27: 0 items watched</tspan></text></g>
+        <rect x="234" y="0" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-05-04" data-count="0"/>
+        <g class="tooltip" transform="translate(145, -48)">
+          <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-05-04: 0 items watched</tspan></text></g>
         <rect x="247" y="0" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-05-11" data-count="0"/>
         <g class="tooltip" transform="translate(158, -48)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
@@ -133,18 +133,18 @@
         <g class="tooltip" transform="translate(262, -48)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-07-06: 0 items watched</tspan></text></g>
-        <rect x="364" y="0" width="11" height="11" rx="2" ry="2" fill="#006d32" opacity="1" data-date="2025-07-13" data-count="2"/>
-        <g class="tooltip" transform="translate(254, -66)">
-          <rect x="0" y="0" width="231" height="56" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-07-13: 2 items watched</tspan><tspan x="10" dy="18">• 2x Malcolm in the Middle (2000)</tspan></text></g>
-        <rect x="377" y="0" width="11" height="11" rx="2" ry="2" fill="#006d32" opacity="1" data-date="2025-07-20" data-count="2"/>
-        <g class="tooltip" transform="translate(267, -66)">
-          <rect x="0" y="0" width="231" height="56" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-07-20: 2 items watched</tspan><tspan x="10" dy="18">• 2x Malcolm in the Middle (2000)</tspan></text></g>
-        <rect x="390" y="0" width="11" height="11" rx="2" ry="2" fill="#0e4429" opacity="1" data-date="2025-07-27" data-count="1"/>
-        <g class="tooltip" transform="translate(304.5, -66)">
-          <rect x="0" y="0" width="182" height="56" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-07-27: 1 item watched</tspan><tspan x="10" dy="18">• 1x The Boondocks (2005)</tspan></text></g>
+        <rect x="364" y="0" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-07-13" data-count="0"/>
+        <g class="tooltip" transform="translate(275, -48)">
+          <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-07-13: 0 items watched</tspan></text></g>
+        <rect x="377" y="0" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-07-20" data-count="0"/>
+        <g class="tooltip" transform="translate(288, -48)">
+          <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-07-20: 0 items watched</tspan></text></g>
+        <rect x="390" y="0" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-07-27" data-count="0"/>
+        <g class="tooltip" transform="translate(301, -48)">
+          <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-07-27: 0 items watched</tspan></text></g>
         <rect x="403" y="0" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-08-03" data-count="0"/>
         <g class="tooltip" transform="translate(314, -48)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
@@ -253,10 +253,10 @@
         <g class="tooltip" transform="translate(-37, -35)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-01-27: 0 items watched</tspan></text></g>
-        <rect x="65" y="13" width="11" height="11" rx="2" ry="2" fill="#0e4429" opacity="1" data-date="2025-02-03" data-count="1"/>
-        <g class="tooltip" transform="translate(-20.5, -53)">
-          <rect x="0" y="0" width="182" height="56" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-02-03: 1 item watched</tspan><tspan x="10" dy="18">• 1x iCarly (2007)</tspan></text></g>
+        <rect x="65" y="13" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-02-03" data-count="0"/>
+        <g class="tooltip" transform="translate(-24, -35)">
+          <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-02-03: 0 items watched</tspan></text></g>
         <rect x="78" y="13" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-02-10" data-count="0"/>
         <g class="tooltip" transform="translate(-11, -35)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
@@ -265,26 +265,26 @@
         <g class="tooltip" transform="translate(2, -35)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-02-17: 0 items watched</tspan></text></g>
-        <rect x="104" y="13" width="11" height="11" rx="2" ry="2" fill="#006d32" opacity="1" data-date="2025-02-24" data-count="2"/>
-        <g class="tooltip" transform="translate(4.5, -53)">
-          <rect x="0" y="0" width="210" height="56" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-02-24: 2 items watched</tspan><tspan x="10" dy="18">• 2x Two and a Half Men (2003)</tspan></text></g>
+        <rect x="104" y="13" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-02-24" data-count="0"/>
+        <g class="tooltip" transform="translate(15, -35)">
+          <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-02-24: 0 items watched</tspan></text></g>
         <rect x="117" y="13" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-03-03" data-count="0"/>
         <g class="tooltip" transform="translate(28, -35)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-03-03: 0 items watched</tspan></text></g>
-        <rect x="130" y="13" width="11" height="11" rx="2" ry="2" fill="#39d353" opacity="1" data-date="2025-03-10" data-count="4"/>
-        <g class="tooltip" transform="translate(30.5, -53)">
-          <rect x="0" y="0" width="210" height="56" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-03-10: 4 items watched</tspan><tspan x="10" dy="18">• 4x Two and a Half Men (2003)</tspan></text></g>
-        <rect x="143" y="13" width="11" height="11" rx="2" ry="2" fill="#0e4429" opacity="1" data-date="2025-03-17" data-count="1"/>
-        <g class="tooltip" transform="translate(57.5, -53)">
-          <rect x="0" y="0" width="182" height="56" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-03-17: 1 item watched</tspan><tspan x="10" dy="18">• 1x Severance (2022)</tspan></text></g>
-        <rect x="156" y="13" width="11" height="11" rx="2" ry="2" fill="#006d32" opacity="1" data-date="2025-03-24" data-count="2"/>
-        <g class="tooltip" transform="translate(46, -71)">
-          <rect x="0" y="0" width="231" height="74" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-03-24: 2 items watched</tspan><tspan x="10" dy="18">• 1x Severance (2022)</tspan><tspan x="10" dy="18">• 1x The Day of the Jackal (2024)</tspan></text></g>
+        <rect x="130" y="13" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-03-10" data-count="0"/>
+        <g class="tooltip" transform="translate(41, -35)">
+          <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-03-10: 0 items watched</tspan></text></g>
+        <rect x="143" y="13" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-03-17" data-count="0"/>
+        <g class="tooltip" transform="translate(54, -35)">
+          <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-03-17: 0 items watched</tspan></text></g>
+        <rect x="156" y="13" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-03-24" data-count="0"/>
+        <g class="tooltip" transform="translate(67, -35)">
+          <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-03-24: 0 items watched</tspan></text></g>
         <rect x="169" y="13" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-03-31" data-count="0"/>
         <g class="tooltip" transform="translate(80, -35)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
@@ -301,14 +301,14 @@
         <g class="tooltip" transform="translate(119, -35)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-04-21: 0 items watched</tspan></text></g>
-        <rect x="221" y="13" width="11" height="11" rx="2" ry="2" fill="#39d353" opacity="1" data-date="2025-04-28" data-count="9"/>
-        <g class="tooltip" transform="translate(132, -89)">
-          <rect x="0" y="0" width="189" height="92" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-04-28: 9 items watched</tspan><tspan x="10" dy="18">• 2x The Good Wife (2009)</tspan><tspan x="10" dy="18">• 6x Angie Tribeca (2016)</tspan><tspan x="10" dy="18">• 1x Intimate. (2023)</tspan></text></g>
-        <rect x="234" y="13" width="11" height="11" rx="2" ry="2" fill="#006d32" opacity="1" data-date="2025-05-05" data-count="2"/>
-        <g class="tooltip" transform="translate(145, -53)">
-          <rect x="0" y="0" width="189" height="56" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-05-05: 2 items watched</tspan><tspan x="10" dy="18">• 2x Intimate. (2023)</tspan></text></g>
+        <rect x="221" y="13" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-04-28" data-count="0"/>
+        <g class="tooltip" transform="translate(132, -35)">
+          <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-04-28: 0 items watched</tspan></text></g>
+        <rect x="234" y="13" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-05-05" data-count="0"/>
+        <g class="tooltip" transform="translate(145, -35)">
+          <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-05-05: 0 items watched</tspan></text></g>
         <rect x="247" y="13" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-05-12" data-count="0"/>
         <g class="tooltip" transform="translate(158, -35)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
@@ -317,10 +317,10 @@
         <g class="tooltip" transform="translate(171, -35)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-05-19: 0 items watched</tspan></text></g>
-        <rect x="273" y="13" width="11" height="11" rx="2" ry="2" fill="#39d353" opacity="1" data-date="2025-05-26" data-count="4"/>
-        <g class="tooltip" transform="translate(184, -53)">
-          <rect x="0" y="0" width="189" height="56" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-05-26: 4 items watched</tspan><tspan x="10" dy="18">• 4x Angie Tribeca (2016)</tspan></text></g>
+        <rect x="273" y="13" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-05-26" data-count="0"/>
+        <g class="tooltip" transform="translate(184, -35)">
+          <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-05-26: 0 items watched</tspan></text></g>
         <rect x="286" y="13" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-06-02" data-count="0"/>
         <g class="tooltip" transform="translate(197, -35)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
@@ -341,22 +341,22 @@
         <g class="tooltip" transform="translate(249, -35)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-06-30: 0 items watched</tspan></text></g>
-        <rect x="351" y="13" width="11" height="11" rx="2" ry="2" fill="#006d32" opacity="1" data-date="2025-07-07" data-count="2"/>
-        <g class="tooltip" transform="translate(262, -53)">
-          <rect x="0" y="0" width="189" height="56" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-07-07: 2 items watched</tspan><tspan x="10" dy="18">• 2x The Office (2005)</tspan></text></g>
-        <rect x="364" y="13" width="11" height="11" rx="2" ry="2" fill="#39d353" opacity="1" data-date="2025-07-14" data-count="8"/>
-        <g class="tooltip" transform="translate(254, -71)">
-          <rect x="0" y="0" width="231" height="74" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-07-14: 8 items watched</tspan><tspan x="10" dy="18">• 2x Malcolm in the Middle (2000)</tspan><tspan x="10" dy="18">• 6x Love, Death &amp; Robots (2019)</tspan></text></g>
-        <rect x="377" y="13" width="11" height="11" rx="2" ry="2" fill="#26a641" opacity="1" data-date="2025-07-21" data-count="3"/>
-        <g class="tooltip" transform="translate(267, -71)">
-          <rect x="0" y="0" width="231" height="74" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-07-21: 3 items watched</tspan><tspan x="10" dy="18">• 1x Malcolm in the Middle (2000)</tspan><tspan x="10" dy="18">• 2x Freaks and Geeks (1999)</tspan></text></g>
-        <rect x="390" y="13" width="11" height="11" rx="2" ry="2" fill="#39d353" opacity="1" data-date="2025-07-28" data-count="5"/>
-        <g class="tooltip" transform="translate(245.5, -71)">
-          <rect x="0" y="0" width="300" height="74" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-07-28: 5 items watched</tspan><tspan x="10" dy="18">• 4x Malcolm in the Middle (2000)</tspan><tspan x="10" dy="18">• 1x Georgie &amp; Mandy&#39;s First Marriage (2024)</tspan></text></g>
+        <rect x="351" y="13" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-07-07" data-count="0"/>
+        <g class="tooltip" transform="translate(262, -35)">
+          <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-07-07: 0 items watched</tspan></text></g>
+        <rect x="364" y="13" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-07-14" data-count="0"/>
+        <g class="tooltip" transform="translate(275, -35)">
+          <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-07-14: 0 items watched</tspan></text></g>
+        <rect x="377" y="13" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-07-21" data-count="0"/>
+        <g class="tooltip" transform="translate(288, -35)">
+          <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-07-21: 0 items watched</tspan></text></g>
+        <rect x="390" y="13" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-07-28" data-count="0"/>
+        <g class="tooltip" transform="translate(301, -35)">
+          <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-07-28: 0 items watched</tspan></text></g>
         <rect x="403" y="13" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-08-04" data-count="0"/>
         <g class="tooltip" transform="translate(314, -35)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
@@ -453,10 +453,10 @@
         <g class="tooltip" transform="translate(-76, -22)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-01-07: 0 items watched</tspan></text></g>
-        <rect x="26" y="26" width="11" height="11" rx="2" ry="2" fill="#26a641" opacity="1" data-date="2025-01-14" data-count="3"/>
-        <g class="tooltip" transform="translate(-63, -40)">
-          <rect x="0" y="0" width="189" height="56" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-01-14: 3 items watched</tspan><tspan x="10" dy="18">• 3x The Discounters (2021)</tspan></text></g>
+        <rect x="26" y="26" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-01-14" data-count="0"/>
+        <g class="tooltip" transform="translate(-63, -22)">
+          <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-01-14: 0 items watched</tspan></text></g>
         <rect x="39" y="26" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-01-21" data-count="0"/>
         <g class="tooltip" transform="translate(-50, -22)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
@@ -465,14 +465,14 @@
         <g class="tooltip" transform="translate(-37, -22)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-01-28: 0 items watched</tspan></text></g>
-        <rect x="65" y="26" width="11" height="11" rx="2" ry="2" fill="#26a641" opacity="1" data-date="2025-02-04" data-count="3"/>
-        <g class="tooltip" transform="translate(-24, -40)">
-          <rect x="0" y="0" width="189" height="56" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-02-04: 3 items watched</tspan><tspan x="10" dy="18">• 3x iCarly (2007)</tspan></text></g>
-        <rect x="78" y="26" width="11" height="11" rx="2" ry="2" fill="#0e4429" opacity="1" data-date="2025-02-11" data-count="1"/>
-        <g class="tooltip" transform="translate(-32, -40)">
-          <rect x="0" y="0" width="231" height="56" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-02-11: 1 item watched</tspan><tspan x="10" dy="18">• 1x Malcolm in the Middle (2000)</tspan></text></g>
+        <rect x="65" y="26" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-02-04" data-count="0"/>
+        <g class="tooltip" transform="translate(-24, -22)">
+          <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-02-04: 0 items watched</tspan></text></g>
+        <rect x="78" y="26" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-02-11" data-count="0"/>
+        <g class="tooltip" transform="translate(-11, -22)">
+          <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-02-11: 0 items watched</tspan></text></g>
         <rect x="91" y="26" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-02-18" data-count="0"/>
         <g class="tooltip" transform="translate(2, -22)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
@@ -485,18 +485,18 @@
         <g class="tooltip" transform="translate(28, -22)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-03-04: 0 items watched</tspan></text></g>
-        <rect x="130" y="26" width="11" height="11" rx="2" ry="2" fill="#006d32" opacity="1" data-date="2025-03-11" data-count="2"/>
-        <g class="tooltip" transform="translate(30.5, -40)">
-          <rect x="0" y="0" width="210" height="56" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-03-11: 2 items watched</tspan><tspan x="10" dy="18">• 2x Two and a Half Men (2003)</tspan></text></g>
+        <rect x="130" y="26" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-03-11" data-count="0"/>
+        <g class="tooltip" transform="translate(41, -22)">
+          <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-03-11: 0 items watched</tspan></text></g>
         <rect x="143" y="26" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-03-18" data-count="0"/>
         <g class="tooltip" transform="translate(54, -22)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-03-18: 0 items watched</tspan></text></g>
-        <rect x="156" y="26" width="11" height="11" rx="2" ry="2" fill="#39d353" opacity="1" data-date="2025-03-25" data-count="8"/>
-        <g class="tooltip" transform="translate(46, -58)">
-          <rect x="0" y="0" width="231" height="74" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-03-25: 8 items watched</tspan><tspan x="10" dy="18">• 1x The Day of the Jackal (2024)</tspan><tspan x="10" dy="18">• 7x Angie Tribeca (2016)</tspan></text></g>
+        <rect x="156" y="26" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-03-25" data-count="0"/>
+        <g class="tooltip" transform="translate(67, -22)">
+          <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-03-25: 0 items watched</tspan></text></g>
         <rect x="169" y="26" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-04-01" data-count="0"/>
         <g class="tooltip" transform="translate(80, -22)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
@@ -517,10 +517,10 @@
         <g class="tooltip" transform="translate(132, -22)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-04-29: 0 items watched</tspan></text></g>
-        <rect x="234" y="26" width="11" height="11" rx="2" ry="2" fill="#006d32" opacity="1" data-date="2025-05-06" data-count="2"/>
-        <g class="tooltip" transform="translate(145, -40)">
-          <rect x="0" y="0" width="189" height="56" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-05-06: 2 items watched</tspan><tspan x="10" dy="18">• 2x Intimate. (2023)</tspan></text></g>
+        <rect x="234" y="26" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-05-06" data-count="0"/>
+        <g class="tooltip" transform="translate(145, -22)">
+          <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-05-06: 0 items watched</tspan></text></g>
         <rect x="247" y="26" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-05-13" data-count="0"/>
         <g class="tooltip" transform="translate(158, -22)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
@@ -677,18 +677,18 @@
         <g class="tooltip" transform="translate(-37, -9)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-01-29: 0 items watched</tspan></text></g>
-        <rect x="65" y="39" width="11" height="11" rx="2" ry="2" fill="#26a641" opacity="1" data-date="2025-02-05" data-count="3"/>
-        <g class="tooltip" transform="translate(-45, -27)">
-          <rect x="0" y="0" width="231" height="56" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-02-05: 3 items watched</tspan><tspan x="10" dy="18">• 3x SpongeBob SquarePants (1999)</tspan></text></g>
-        <rect x="78" y="39" width="11" height="11" rx="2" ry="2" fill="#39d353" opacity="1" data-date="2025-02-12" data-count="4"/>
-        <g class="tooltip" transform="translate(-32, -27)">
-          <rect x="0" y="0" width="231" height="56" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-02-12: 4 items watched</tspan><tspan x="10" dy="18">• 4x Malcolm in the Middle (2000)</tspan></text></g>
-        <rect x="91" y="39" width="11" height="11" rx="2" ry="2" fill="#0e4429" opacity="1" data-date="2025-02-19" data-count="1"/>
-        <g class="tooltip" transform="translate(5.5, -27)">
-          <rect x="0" y="0" width="182" height="56" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-02-19: 1 item watched</tspan><tspan x="10" dy="18">• 1x The Simpsons (1989)</tspan></text></g>
+        <rect x="65" y="39" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-02-05" data-count="0"/>
+        <g class="tooltip" transform="translate(-24, -9)">
+          <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-02-05: 0 items watched</tspan></text></g>
+        <rect x="78" y="39" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-02-12" data-count="0"/>
+        <g class="tooltip" transform="translate(-11, -9)">
+          <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-02-12: 0 items watched</tspan></text></g>
+        <rect x="91" y="39" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-02-19" data-count="0"/>
+        <g class="tooltip" transform="translate(2, -9)">
+          <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-02-19: 0 items watched</tspan></text></g>
         <rect x="104" y="39" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-02-26" data-count="0"/>
         <g class="tooltip" transform="translate(15, -9)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
@@ -697,18 +697,18 @@
         <g class="tooltip" transform="translate(28, -9)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-03-05: 0 items watched</tspan></text></g>
-        <rect x="130" y="39" width="11" height="11" rx="2" ry="2" fill="#0e4429" opacity="1" data-date="2025-03-12" data-count="1"/>
-        <g class="tooltip" transform="translate(44.5, -27)">
-          <rect x="0" y="0" width="182" height="56" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-03-12: 1 item watched</tspan><tspan x="10" dy="18">• 1x Severance (2022)</tspan></text></g>
+        <rect x="130" y="39" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-03-12" data-count="0"/>
+        <g class="tooltip" transform="translate(41, -9)">
+          <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-03-12: 0 items watched</tspan></text></g>
         <rect x="143" y="39" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-03-19" data-count="0"/>
         <g class="tooltip" transform="translate(54, -9)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-03-19: 0 items watched</tspan></text></g>
-        <rect x="156" y="39" width="11" height="11" rx="2" ry="2" fill="#26a641" opacity="1" data-date="2025-03-26" data-count="3"/>
-        <g class="tooltip" transform="translate(46, -45)">
-          <rect x="0" y="0" width="231" height="74" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-03-26: 3 items watched</tspan><tspan x="10" dy="18">• 1x The Day of the Jackal (2024)</tspan><tspan x="10" dy="18">• 2x Angie Tribeca (2016)</tspan></text></g>
+        <rect x="156" y="39" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-03-26" data-count="0"/>
+        <g class="tooltip" transform="translate(67, -9)">
+          <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-03-26: 0 items watched</tspan></text></g>
         <rect x="169" y="39" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-04-02" data-count="0"/>
         <g class="tooltip" transform="translate(80, -9)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
@@ -717,30 +717,30 @@
         <g class="tooltip" transform="translate(93, -9)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-04-09: 0 items watched</tspan></text></g>
-        <rect x="195" y="39" width="11" height="11" rx="2" ry="2" fill="#0e4429" opacity="1" data-date="2025-04-16" data-count="1"/>
-        <g class="tooltip" transform="translate(109.5, -27)">
-          <rect x="0" y="0" width="182" height="56" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-04-16: 1 item watched</tspan><tspan x="10" dy="18">• 1x The Newsroom (2012)</tspan></text></g>
+        <rect x="195" y="39" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-04-16" data-count="0"/>
+        <g class="tooltip" transform="translate(106, -9)">
+          <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-04-16: 0 items watched</tspan></text></g>
         <rect x="208" y="39" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-04-23" data-count="0"/>
         <g class="tooltip" transform="translate(119, -9)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-04-23: 0 items watched</tspan></text></g>
-        <rect x="221" y="39" width="11" height="11" rx="2" ry="2" fill="#0e4429" opacity="1" data-date="2025-04-30" data-count="1"/>
-        <g class="tooltip" transform="translate(135.5, -27)">
-          <rect x="0" y="0" width="182" height="56" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-04-30: 1 item watched</tspan><tspan x="10" dy="18">• 1x The Good Wife (2009)</tspan></text></g>
-        <rect x="234" y="39" width="11" height="11" rx="2" ry="2" fill="#0e4429" opacity="1" data-date="2025-05-07" data-count="1"/>
-        <g class="tooltip" transform="translate(148.5, -27)">
-          <rect x="0" y="0" width="182" height="56" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-05-07: 1 item watched</tspan><tspan x="10" dy="18">• 1x Intimate. (2023)</tspan></text></g>
+        <rect x="221" y="39" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-04-30" data-count="0"/>
+        <g class="tooltip" transform="translate(132, -9)">
+          <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-04-30: 0 items watched</tspan></text></g>
+        <rect x="234" y="39" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-05-07" data-count="0"/>
+        <g class="tooltip" transform="translate(145, -9)">
+          <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-05-07: 0 items watched</tspan></text></g>
         <rect x="247" y="39" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-05-14" data-count="0"/>
         <g class="tooltip" transform="translate(158, -9)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-05-14: 0 items watched</tspan></text></g>
-        <rect x="260" y="39" width="11" height="11" rx="2" ry="2" fill="#006d32" opacity="1" data-date="2025-05-21" data-count="2"/>
-        <g class="tooltip" transform="translate(150, -27)">
-          <rect x="0" y="0" width="231" height="56" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-05-21: 2 items watched</tspan><tspan x="10" dy="18">• 2x Malcolm in the Middle (2000)</tspan></text></g>
+        <rect x="260" y="39" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-05-21" data-count="0"/>
+        <g class="tooltip" transform="translate(171, -9)">
+          <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-05-21: 0 items watched</tspan></text></g>
         <rect x="273" y="39" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-05-28" data-count="0"/>
         <g class="tooltip" transform="translate(184, -9)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
@@ -753,10 +753,10 @@
         <g class="tooltip" transform="translate(210, -9)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-06-11: 0 items watched</tspan></text></g>
-        <rect x="312" y="39" width="11" height="11" rx="2" ry="2" fill="#0e4429" opacity="1" data-date="2025-06-18" data-count="1"/>
-        <g class="tooltip" transform="translate(202, -27)">
-          <rect x="0" y="0" width="231" height="56" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-06-18: 1 item watched</tspan><tspan x="10" dy="18">• 1x SpongeBob SquarePants (1999)</tspan></text></g>
+        <rect x="312" y="39" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-06-18" data-count="0"/>
+        <g class="tooltip" transform="translate(223, -9)">
+          <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-06-18: 0 items watched</tspan></text></g>
         <rect x="325" y="39" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-06-25" data-count="0"/>
         <g class="tooltip" transform="translate(236, -9)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
@@ -769,14 +769,14 @@
         <g class="tooltip" transform="translate(262, -9)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-07-09: 0 items watched</tspan></text></g>
-        <rect x="364" y="39" width="11" height="11" rx="2" ry="2" fill="#26a641" opacity="1" data-date="2025-07-16" data-count="3"/>
-        <g class="tooltip" transform="translate(257.5, -45)">
-          <rect x="0" y="0" width="224" height="74" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-07-16: 3 items watched</tspan><tspan x="10" dy="18">• 1x South Park (1997)</tspan><tspan x="10" dy="18">• 2x Love, Death &amp; Robots (2019)</tspan></text></g>
-        <rect x="377" y="39" width="11" height="11" rx="2" ry="2" fill="#0e4429" opacity="1" data-date="2025-07-23" data-count="1"/>
-        <g class="tooltip" transform="translate(267, -27)">
-          <rect x="0" y="0" width="231" height="56" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-07-23: 1 item watched</tspan><tspan x="10" dy="18">• 1x Malcolm in the Middle (2000)</tspan></text></g>
+        <rect x="364" y="39" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-07-16" data-count="0"/>
+        <g class="tooltip" transform="translate(275, -9)">
+          <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-07-16: 0 items watched</tspan></text></g>
+        <rect x="377" y="39" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-07-23" data-count="0"/>
+        <g class="tooltip" transform="translate(288, -9)">
+          <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-07-23: 0 items watched</tspan></text></g>
         <rect x="390" y="39" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-07-30" data-count="0"/>
         <g class="tooltip" transform="translate(301, -9)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
@@ -873,14 +873,14 @@
         <g class="tooltip" transform="translate(-89, 4)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-01-02: 0 items watched</tspan></text></g>
-        <rect x="13" y="52" width="11" height="11" rx="2" ry="2" fill="#0e4429" opacity="1" data-date="2025-01-09" data-count="1"/>
-        <g class="tooltip" transform="translate(-72.5, -14)">
-          <rect x="0" y="0" width="182" height="56" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-01-09: 1 item watched</tspan><tspan x="10" dy="18">• 1x Secret Level (2024)</tspan></text></g>
-        <rect x="26" y="52" width="11" height="11" rx="2" ry="2" fill="#0e4429" opacity="1" data-date="2025-01-16" data-count="1"/>
-        <g class="tooltip" transform="translate(-63, -14)">
-          <rect x="0" y="0" width="189" height="56" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-01-16: 1 item watched</tspan><tspan x="10" dy="18">• 1x The Discounters (2021)</tspan></text></g>
+        <rect x="13" y="52" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-01-09" data-count="0"/>
+        <g class="tooltip" transform="translate(-76, 4)">
+          <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-01-09: 0 items watched</tspan></text></g>
+        <rect x="26" y="52" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-01-16" data-count="0"/>
+        <g class="tooltip" transform="translate(-63, 4)">
+          <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-01-16: 0 items watched</tspan></text></g>
         <rect x="39" y="52" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-01-23" data-count="0"/>
         <g class="tooltip" transform="translate(-50, 4)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
@@ -889,18 +889,18 @@
         <g class="tooltip" transform="translate(-37, 4)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-01-30: 0 items watched</tspan></text></g>
-        <rect x="65" y="52" width="11" height="11" rx="2" ry="2" fill="#006d32" opacity="1" data-date="2025-02-06" data-count="2"/>
-        <g class="tooltip" transform="translate(-45, -14)">
-          <rect x="0" y="0" width="231" height="56" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-02-06: 2 items watched</tspan><tspan x="10" dy="18">• 2x SpongeBob SquarePants (1999)</tspan></text></g>
+        <rect x="65" y="52" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-02-06" data-count="0"/>
+        <g class="tooltip" transform="translate(-24, 4)">
+          <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-02-06: 0 items watched</tspan></text></g>
         <rect x="78" y="52" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-02-13" data-count="0"/>
         <g class="tooltip" transform="translate(-11, 4)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-02-13: 0 items watched</tspan></text></g>
-        <rect x="91" y="52" width="11" height="11" rx="2" ry="2" fill="#0e4429" opacity="1" data-date="2025-02-20" data-count="1"/>
-        <g class="tooltip" transform="translate(5.5, -14)">
-          <rect x="0" y="0" width="182" height="56" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-02-20: 1 item watched</tspan><tspan x="10" dy="18">• 1x The Simpsons (1989)</tspan></text></g>
+        <rect x="91" y="52" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-02-20" data-count="0"/>
+        <g class="tooltip" transform="translate(2, 4)">
+          <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-02-20: 0 items watched</tspan></text></g>
         <rect x="104" y="52" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-02-27" data-count="0"/>
         <g class="tooltip" transform="translate(15, 4)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
@@ -909,18 +909,18 @@
         <g class="tooltip" transform="translate(28, 4)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-03-06: 0 items watched</tspan></text></g>
-        <rect x="130" y="52" width="11" height="11" rx="2" ry="2" fill="#0e4429" opacity="1" data-date="2025-03-13" data-count="1"/>
-        <g class="tooltip" transform="translate(44.5, -14)">
-          <rect x="0" y="0" width="182" height="56" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-03-13: 1 item watched</tspan><tspan x="10" dy="18">• 1x Prison Break (2005)</tspan></text></g>
+        <rect x="130" y="52" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-03-13" data-count="0"/>
+        <g class="tooltip" transform="translate(41, 4)">
+          <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-03-13: 0 items watched</tspan></text></g>
         <rect x="143" y="52" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-03-20" data-count="0"/>
         <g class="tooltip" transform="translate(54, 4)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-03-20: 0 items watched</tspan></text></g>
-        <rect x="156" y="52" width="11" height="11" rx="2" ry="2" fill="#0e4429" opacity="1" data-date="2025-03-27" data-count="1"/>
-        <g class="tooltip" transform="translate(46, -14)">
-          <rect x="0" y="0" width="231" height="56" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-03-27: 1 item watched</tspan><tspan x="10" dy="18">• 1x The Day of the Jackal (2024)</tspan></text></g>
+        <rect x="156" y="52" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-03-27" data-count="0"/>
+        <g class="tooltip" transform="translate(67, 4)">
+          <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-03-27: 0 items watched</tspan></text></g>
         <rect x="169" y="52" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-04-03" data-count="0"/>
         <g class="tooltip" transform="translate(80, 4)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
@@ -937,18 +937,18 @@
         <g class="tooltip" transform="translate(119, 4)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-04-24: 0 items watched</tspan></text></g>
-        <rect x="221" y="52" width="11" height="11" rx="2" ry="2" fill="#39d353" opacity="1" data-date="2025-05-01" data-count="4"/>
-        <g class="tooltip" transform="translate(132, -14)">
-          <rect x="0" y="0" width="189" height="56" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-05-01: 4 items watched</tspan><tspan x="10" dy="18">• 4x Intimate. (2023)</tspan></text></g>
+        <rect x="221" y="52" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-05-01" data-count="0"/>
+        <g class="tooltip" transform="translate(132, 4)">
+          <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-05-01: 0 items watched</tspan></text></g>
         <rect x="234" y="52" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-05-08" data-count="0"/>
         <g class="tooltip" transform="translate(145, 4)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-05-08: 0 items watched</tspan></text></g>
-        <rect x="247" y="52" width="11" height="11" rx="2" ry="2" fill="#006d32" opacity="1" data-date="2025-05-15" data-count="2"/>
-        <g class="tooltip" transform="translate(140.5, -14)">
-          <rect x="0" y="0" width="224" height="56" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-05-15: 2 items watched</tspan><tspan x="10" dy="18">• 2x Love, Death &amp; Robots (2019)</tspan></text></g>
+        <rect x="247" y="52" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-05-15" data-count="0"/>
+        <g class="tooltip" transform="translate(158, 4)">
+          <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-05-15: 0 items watched</tspan></text></g>
         <rect x="260" y="52" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-05-22" data-count="0"/>
         <g class="tooltip" transform="translate(171, 4)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
@@ -973,10 +973,10 @@
         <g class="tooltip" transform="translate(236, 4)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-06-26: 0 items watched</tspan></text></g>
-        <rect x="338" y="52" width="11" height="11" rx="2" ry="2" fill="#006d32" opacity="1" data-date="2025-07-03" data-count="2"/>
-        <g class="tooltip" transform="translate(249, -14)">
-          <rect x="0" y="0" width="189" height="56" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-07-03: 2 items watched</tspan><tspan x="10" dy="18">• 2x The Office (2005)</tspan></text></g>
+        <rect x="338" y="52" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-07-03" data-count="0"/>
+        <g class="tooltip" transform="translate(249, 4)">
+          <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-07-03: 0 items watched</tspan></text></g>
         <rect x="351" y="52" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-07-10" data-count="0"/>
         <g class="tooltip" transform="translate(262, 4)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
@@ -985,14 +985,14 @@
         <g class="tooltip" transform="translate(275, 4)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-07-17: 0 items watched</tspan></text></g>
-        <rect x="377" y="52" width="11" height="11" rx="2" ry="2" fill="#0e4429" opacity="1" data-date="2025-07-24" data-count="1"/>
-        <g class="tooltip" transform="translate(267, -14)">
-          <rect x="0" y="0" width="231" height="56" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-07-24: 1 item watched</tspan><tspan x="10" dy="18">• 1x Malcolm in the Middle (2000)</tspan></text></g>
-        <rect x="390" y="52" width="11" height="11" rx="2" ry="2" fill="#39d353" opacity="1" data-date="2025-07-31" data-count="5"/>
-        <g class="tooltip" transform="translate(245.5, -32)">
-          <rect x="0" y="0" width="300" height="74" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-07-31: 5 items watched</tspan><tspan x="10" dy="18">• 1x Georgie &amp; Mandy&#39;s First Marriage (2024)</tspan><tspan x="10" dy="18">• 4x Malcolm in the Middle (2000)</tspan></text></g>
+        <rect x="377" y="52" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-07-24" data-count="0"/>
+        <g class="tooltip" transform="translate(288, 4)">
+          <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-07-24: 0 items watched</tspan></text></g>
+        <rect x="390" y="52" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-07-31" data-count="0"/>
+        <g class="tooltip" transform="translate(301, 4)">
+          <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-07-31: 0 items watched</tspan></text></g>
         <rect x="403" y="52" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-08-07" data-count="0"/>
         <g class="tooltip" transform="translate(314, 4)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
@@ -1085,34 +1085,34 @@
         <g class="tooltip" transform="translate(-89, 17)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-01-03: 0 items watched</tspan></text></g>
-        <rect x="13" y="65" width="11" height="11" rx="2" ry="2" fill="#0e4429" opacity="1" data-date="2025-01-10" data-count="1"/>
-        <g class="tooltip" transform="translate(-72.5, -1)">
-          <rect x="0" y="0" width="182" height="56" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-01-10: 1 item watched</tspan><tspan x="10" dy="18">• 1x Silo (2023)</tspan></text></g>
-        <rect x="26" y="65" width="11" height="11" rx="2" ry="2" fill="#0e4429" opacity="1" data-date="2025-01-17" data-count="1"/>
-        <g class="tooltip" transform="translate(-59.5, -1)">
-          <rect x="0" y="0" width="182" height="56" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-01-17: 1 item watched</tspan><tspan x="10" dy="18">• 1x Silo (2023)</tspan></text></g>
+        <rect x="13" y="65" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-01-10" data-count="0"/>
+        <g class="tooltip" transform="translate(-76, 17)">
+          <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-01-10: 0 items watched</tspan></text></g>
+        <rect x="26" y="65" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-01-17" data-count="0"/>
+        <g class="tooltip" transform="translate(-63, 17)">
+          <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-01-17: 0 items watched</tspan></text></g>
         <rect x="39" y="65" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-01-24" data-count="0"/>
         <g class="tooltip" transform="translate(-50, 17)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-01-24: 0 items watched</tspan></text></g>
-        <rect x="52" y="65" width="11" height="11" rx="2" ry="2" fill="#006d32" opacity="1" data-date="2025-01-31" data-count="2"/>
-        <g class="tooltip" transform="translate(-37, -1)">
-          <rect x="0" y="0" width="189" height="56" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-01-31: 2 items watched</tspan><tspan x="10" dy="18">• 2x iCarly (2007)</tspan></text></g>
-        <rect x="65" y="65" width="11" height="11" rx="2" ry="2" fill="#26a641" opacity="1" data-date="2025-02-07" data-count="3"/>
-        <g class="tooltip" transform="translate(-34.5, -19)">
-          <rect x="0" y="0" width="210" height="74" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-02-07: 3 items watched</tspan><tspan x="10" dy="18">• 2x Two and a Half Men (2003)</tspan><tspan x="10" dy="18">• 1x iCarly (2007)</tspan></text></g>
-        <rect x="78" y="65" width="11" height="11" rx="2" ry="2" fill="#26a641" opacity="1" data-date="2025-02-14" data-count="3"/>
-        <g class="tooltip" transform="translate(-11, -1)">
-          <rect x="0" y="0" width="189" height="56" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-02-14: 3 items watched</tspan><tspan x="10" dy="18">• 3x The Simpsons (1989)</tspan></text></g>
-        <rect x="91" y="65" width="11" height="11" rx="2" ry="2" fill="#0e4429" opacity="1" data-date="2025-02-21" data-count="1"/>
-        <g class="tooltip" transform="translate(5.5, -1)">
-          <rect x="0" y="0" width="182" height="56" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-02-21: 1 item watched</tspan><tspan x="10" dy="18">• 1x The Simpsons (1989)</tspan></text></g>
+        <rect x="52" y="65" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-01-31" data-count="0"/>
+        <g class="tooltip" transform="translate(-37, 17)">
+          <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-01-31: 0 items watched</tspan></text></g>
+        <rect x="65" y="65" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-02-07" data-count="0"/>
+        <g class="tooltip" transform="translate(-24, 17)">
+          <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-02-07: 0 items watched</tspan></text></g>
+        <rect x="78" y="65" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-02-14" data-count="0"/>
+        <g class="tooltip" transform="translate(-11, 17)">
+          <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-02-14: 0 items watched</tspan></text></g>
+        <rect x="91" y="65" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-02-21" data-count="0"/>
+        <g class="tooltip" transform="translate(2, 17)">
+          <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-02-21: 0 items watched</tspan></text></g>
         <rect x="104" y="65" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-02-28" data-count="0"/>
         <g class="tooltip" transform="translate(15, 17)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
@@ -1121,18 +1121,18 @@
         <g class="tooltip" transform="translate(28, 17)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-03-07: 0 items watched</tspan></text></g>
-        <rect x="130" y="65" width="11" height="11" rx="2" ry="2" fill="#26a641" opacity="1" data-date="2025-03-14" data-count="3"/>
-        <g class="tooltip" transform="translate(41, -1)">
-          <rect x="0" y="0" width="189" height="56" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-03-14: 3 items watched</tspan><tspan x="10" dy="18">• 3x Severance (2022)</tspan></text></g>
-        <rect x="143" y="65" width="11" height="11" rx="2" ry="2" fill="#39d353" opacity="1" data-date="2025-03-21" data-count="5"/>
-        <g class="tooltip" transform="translate(43.5, -1)">
-          <rect x="0" y="0" width="210" height="56" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-03-21: 5 items watched</tspan><tspan x="10" dy="18">• 5x Two and a Half Men (2003)</tspan></text></g>
-        <rect x="156" y="65" width="11" height="11" rx="2" ry="2" fill="#006d32" opacity="1" data-date="2025-03-28" data-count="2"/>
-        <g class="tooltip" transform="translate(46, -1)">
-          <rect x="0" y="0" width="231" height="56" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-03-28: 2 items watched</tspan><tspan x="10" dy="18">• 2x The Day of the Jackal (2024)</tspan></text></g>
+        <rect x="130" y="65" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-03-14" data-count="0"/>
+        <g class="tooltip" transform="translate(41, 17)">
+          <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-03-14: 0 items watched</tspan></text></g>
+        <rect x="143" y="65" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-03-21" data-count="0"/>
+        <g class="tooltip" transform="translate(54, 17)">
+          <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-03-21: 0 items watched</tspan></text></g>
+        <rect x="156" y="65" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-03-28" data-count="0"/>
+        <g class="tooltip" transform="translate(67, 17)">
+          <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-03-28: 0 items watched</tspan></text></g>
         <rect x="169" y="65" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-04-04" data-count="0"/>
         <g class="tooltip" transform="translate(80, 17)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
@@ -1145,14 +1145,14 @@
         <g class="tooltip" transform="translate(106, 17)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-04-18: 0 items watched</tspan></text></g>
-        <rect x="208" y="65" width="11" height="11" rx="2" ry="2" fill="#0e4429" opacity="1" data-date="2025-04-25" data-count="1"/>
-        <g class="tooltip" transform="translate(122.5, -1)">
-          <rect x="0" y="0" width="182" height="56" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-04-25: 1 item watched</tspan><tspan x="10" dy="18">• 1x Intimate. (2023)</tspan></text></g>
-        <rect x="221" y="65" width="11" height="11" rx="2" ry="2" fill="#26a641" opacity="1" data-date="2025-05-02" data-count="3"/>
-        <g class="tooltip" transform="translate(132, -1)">
-          <rect x="0" y="0" width="189" height="56" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-05-02: 3 items watched</tspan><tspan x="10" dy="18">• 3x Intimate. (2023)</tspan></text></g>
+        <rect x="208" y="65" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-04-25" data-count="0"/>
+        <g class="tooltip" transform="translate(119, 17)">
+          <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-04-25: 0 items watched</tspan></text></g>
+        <rect x="221" y="65" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-05-02" data-count="0"/>
+        <g class="tooltip" transform="translate(132, 17)">
+          <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-05-02: 0 items watched</tspan></text></g>
         <rect x="234" y="65" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-05-09" data-count="0"/>
         <g class="tooltip" transform="translate(145, 17)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
@@ -1161,10 +1161,10 @@
         <g class="tooltip" transform="translate(158, 17)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-05-16: 0 items watched</tspan></text></g>
-        <rect x="260" y="65" width="11" height="11" rx="2" ry="2" fill="#0e4429" opacity="1" data-date="2025-05-23" data-count="1"/>
-        <g class="tooltip" transform="translate(174.5, -1)">
-          <rect x="0" y="0" width="182" height="56" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-05-23: 1 item watched</tspan><tspan x="10" dy="18">• 1x Sweetpea (2024)</tspan></text></g>
+        <rect x="260" y="65" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-05-23" data-count="0"/>
+        <g class="tooltip" transform="translate(171, 17)">
+          <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-05-23: 0 items watched</tspan></text></g>
         <rect x="273" y="65" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-05-30" data-count="0"/>
         <g class="tooltip" transform="translate(184, 17)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
@@ -1181,26 +1181,26 @@
         <g class="tooltip" transform="translate(223, 17)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-06-20: 0 items watched</tspan></text></g>
-        <rect x="325" y="65" width="11" height="11" rx="2" ry="2" fill="#39d353" opacity="1" data-date="2025-06-27" data-count="4"/>
-        <g class="tooltip" transform="translate(236, -1)">
-          <rect x="0" y="0" width="189" height="56" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-06-27: 4 items watched</tspan><tspan x="10" dy="18">• 4x Squid Game (2021)</tspan></text></g>
-        <rect x="338" y="65" width="11" height="11" rx="2" ry="2" fill="#39d353" opacity="1" data-date="2025-07-04" data-count="6"/>
-        <g class="tooltip" transform="translate(249, -1)">
-          <rect x="0" y="0" width="189" height="56" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-07-04: 6 items watched</tspan><tspan x="10" dy="18">• 6x The Office (2005)</tspan></text></g>
+        <rect x="325" y="65" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-06-27" data-count="0"/>
+        <g class="tooltip" transform="translate(236, 17)">
+          <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-06-27: 0 items watched</tspan></text></g>
+        <rect x="338" y="65" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-07-04" data-count="0"/>
+        <g class="tooltip" transform="translate(249, 17)">
+          <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-07-04: 0 items watched</tspan></text></g>
         <rect x="351" y="65" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-07-11" data-count="0"/>
         <g class="tooltip" transform="translate(262, 17)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-07-11: 0 items watched</tspan></text></g>
-        <rect x="364" y="65" width="11" height="11" rx="2" ry="2" fill="#006d32" opacity="1" data-date="2025-07-18" data-count="2"/>
-        <g class="tooltip" transform="translate(254, -1)">
-          <rect x="0" y="0" width="231" height="56" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-07-18: 2 items watched</tspan><tspan x="10" dy="18">• 2x Malcolm in the Middle (2000)</tspan></text></g>
-        <rect x="377" y="65" width="11" height="11" rx="2" ry="2" fill="#26a641" opacity="1" data-date="2025-07-25" data-count="3"/>
-        <g class="tooltip" transform="translate(267, -1)">
-          <rect x="0" y="0" width="231" height="56" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-07-25: 3 items watched</tspan><tspan x="10" dy="18">• 3x Malcolm in the Middle (2000)</tspan></text></g>
+        <rect x="364" y="65" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-07-18" data-count="0"/>
+        <g class="tooltip" transform="translate(275, 17)">
+          <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-07-18: 0 items watched</tspan></text></g>
+        <rect x="377" y="65" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-07-25" data-count="0"/>
+        <g class="tooltip" transform="translate(288, 17)">
+          <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-07-25: 0 items watched</tspan></text></g>
         <rect x="390" y="65" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-08-01" data-count="0"/>
         <g class="tooltip" transform="translate(301, 17)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
@@ -1309,42 +1309,42 @@
         <g class="tooltip" transform="translate(-50, 30)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-01-25: 0 items watched</tspan></text></g>
-        <rect x="52" y="78" width="11" height="11" rx="2" ry="2" fill="#006d32" opacity="1" data-date="2025-02-01" data-count="2"/>
-        <g class="tooltip" transform="translate(-37, 12)">
-          <rect x="0" y="0" width="189" height="56" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-02-01: 2 items watched</tspan><tspan x="10" dy="18">• 2x iCarly (2007)</tspan></text></g>
-        <rect x="65" y="78" width="11" height="11" rx="2" ry="2" fill="#0e4429" opacity="1" data-date="2025-02-08" data-count="1"/>
-        <g class="tooltip" transform="translate(-34.5, 12)">
-          <rect x="0" y="0" width="210" height="56" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-02-08: 1 item watched</tspan><tspan x="10" dy="18">• 1x Two and a Half Men (2003)</tspan></text></g>
+        <rect x="52" y="78" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-02-01" data-count="0"/>
+        <g class="tooltip" transform="translate(-37, 30)">
+          <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-02-01: 0 items watched</tspan></text></g>
+        <rect x="65" y="78" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-02-08" data-count="0"/>
+        <g class="tooltip" transform="translate(-24, 30)">
+          <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-02-08: 0 items watched</tspan></text></g>
         <rect x="78" y="78" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-02-15" data-count="0"/>
         <g class="tooltip" transform="translate(-11, 30)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-02-15: 0 items watched</tspan></text></g>
-        <rect x="91" y="78" width="11" height="11" rx="2" ry="2" fill="#39d353" opacity="1" data-date="2025-02-22" data-count="5"/>
-        <g class="tooltip" transform="translate(2, 12)">
-          <rect x="0" y="0" width="189" height="56" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-02-22: 5 items watched</tspan><tspan x="10" dy="18">• 5x The Simpsons (1989)</tspan></text></g>
+        <rect x="91" y="78" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-02-22" data-count="0"/>
+        <g class="tooltip" transform="translate(2, 30)">
+          <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-02-22: 0 items watched</tspan></text></g>
         <rect x="104" y="78" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-03-01" data-count="0"/>
         <g class="tooltip" transform="translate(15, 30)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-03-01: 0 items watched</tspan></text></g>
-        <rect x="117" y="78" width="11" height="11" rx="2" ry="2" fill="#39d353" opacity="1" data-date="2025-03-08" data-count="5"/>
-        <g class="tooltip" transform="translate(28, 12)">
-          <rect x="0" y="0" width="189" height="56" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-03-08: 5 items watched</tspan><tspan x="10" dy="18">• 5x Severance (2022)</tspan></text></g>
-        <rect x="130" y="78" width="11" height="11" rx="2" ry="2" fill="#0e4429" opacity="1" data-date="2025-03-15" data-count="1"/>
-        <g class="tooltip" transform="translate(44.5, 12)">
-          <rect x="0" y="0" width="182" height="56" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-03-15: 1 item watched</tspan><tspan x="10" dy="18">• 1x Severance (2022)</tspan></text></g>
-        <rect x="143" y="78" width="11" height="11" rx="2" ry="2" fill="#26a641" opacity="1" data-date="2025-03-22" data-count="3"/>
-        <g class="tooltip" transform="translate(43.5, 12)">
-          <rect x="0" y="0" width="210" height="56" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-03-22: 3 items watched</tspan><tspan x="10" dy="18">• 3x Two and a Half Men (2003)</tspan></text></g>
-        <rect x="156" y="78" width="11" height="11" rx="2" ry="2" fill="#006d32" opacity="1" data-date="2025-03-29" data-count="2"/>
-        <g class="tooltip" transform="translate(46, 12)">
-          <rect x="0" y="0" width="231" height="56" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-03-29: 2 items watched</tspan><tspan x="10" dy="18">• 2x The Day of the Jackal (2024)</tspan></text></g>
+        <rect x="117" y="78" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-03-08" data-count="0"/>
+        <g class="tooltip" transform="translate(28, 30)">
+          <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-03-08: 0 items watched</tspan></text></g>
+        <rect x="130" y="78" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-03-15" data-count="0"/>
+        <g class="tooltip" transform="translate(41, 30)">
+          <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-03-15: 0 items watched</tspan></text></g>
+        <rect x="143" y="78" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-03-22" data-count="0"/>
+        <g class="tooltip" transform="translate(54, 30)">
+          <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-03-22: 0 items watched</tspan></text></g>
+        <rect x="156" y="78" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-03-29" data-count="0"/>
+        <g class="tooltip" transform="translate(67, 30)">
+          <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-03-29: 0 items watched</tspan></text></g>
         <rect x="169" y="78" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-04-05" data-count="0"/>
         <g class="tooltip" transform="translate(80, 30)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
@@ -1357,10 +1357,10 @@
         <g class="tooltip" transform="translate(106, 30)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-04-19: 0 items watched</tspan></text></g>
-        <rect x="208" y="78" width="11" height="11" rx="2" ry="2" fill="#39d353" opacity="1" data-date="2025-04-26" data-count="4"/>
-        <g class="tooltip" transform="translate(80.5, -6)">
-          <rect x="0" y="0" width="266" height="74" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-04-26: 4 items watched</tspan><tspan x="10" dy="18">• 3x Angie Tribeca (2016)</tspan><tspan x="10" dy="18">• 1x Nirvanna the Band the Show (2017)</tspan></text></g>
+        <rect x="208" y="78" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-04-26" data-count="0"/>
+        <g class="tooltip" transform="translate(119, 30)">
+          <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-04-26: 0 items watched</tspan></text></g>
         <rect x="221" y="78" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-05-03" data-count="0"/>
         <g class="tooltip" transform="translate(132, 30)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
@@ -1373,10 +1373,10 @@
         <g class="tooltip" transform="translate(158, 30)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-05-17: 0 items watched</tspan></text></g>
-        <rect x="260" y="78" width="11" height="11" rx="2" ry="2" fill="#0e4429" opacity="1" data-date="2025-05-24" data-count="1"/>
-        <g class="tooltip" transform="translate(174.5, 12)">
-          <rect x="0" y="0" width="182" height="56" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-05-24: 1 item watched</tspan><tspan x="10" dy="18">• 1x Landman (2024)</tspan></text></g>
+        <rect x="260" y="78" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-05-24" data-count="0"/>
+        <g class="tooltip" transform="translate(171, 30)">
+          <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-05-24: 0 items watched</tspan></text></g>
         <rect x="273" y="78" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-05-31" data-count="0"/>
         <g class="tooltip" transform="translate(184, 30)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
@@ -1385,34 +1385,34 @@
         <g class="tooltip" transform="translate(197, 30)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-06-07: 0 items watched</tspan></text></g>
-        <rect x="299" y="78" width="11" height="11" rx="2" ry="2" fill="#0e4429" opacity="1" data-date="2025-06-14" data-count="1"/>
-        <g class="tooltip" transform="translate(206.5, 12)">
-          <rect x="0" y="0" width="196" height="56" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-06-14: 1 item watched</tspan><tspan x="10" dy="18">• 1x Phineas and Ferb (2007)</tspan></text></g>
+        <rect x="299" y="78" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-06-14" data-count="0"/>
+        <g class="tooltip" transform="translate(210, 30)">
+          <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-06-14: 0 items watched</tspan></text></g>
         <rect x="312" y="78" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-06-21" data-count="0"/>
         <g class="tooltip" transform="translate(223, 30)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-06-21: 0 items watched</tspan></text></g>
-        <rect x="325" y="78" width="11" height="11" rx="2" ry="2" fill="#006d32" opacity="1" data-date="2025-06-28" data-count="2"/>
-        <g class="tooltip" transform="translate(236, 12)">
-          <rect x="0" y="0" width="189" height="56" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-06-28: 2 items watched</tspan><tspan x="10" dy="18">• 2x Squid Game (2021)</tspan></text></g>
-        <rect x="338" y="78" width="11" height="11" rx="2" ry="2" fill="#0e4429" opacity="1" data-date="2025-07-05" data-count="1"/>
-        <g class="tooltip" transform="translate(252.5, 12)">
-          <rect x="0" y="0" width="182" height="56" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-07-05: 1 item watched</tspan><tspan x="10" dy="18">• 1x South Park (1997)</tspan></text></g>
-        <rect x="351" y="78" width="11" height="11" rx="2" ry="2" fill="#39d353" opacity="1" data-date="2025-07-12" data-count="6"/>
-        <g class="tooltip" transform="translate(241, -24)">
-          <rect x="0" y="0" width="231" height="92" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-07-12: 6 items watched</tspan><tspan x="10" dy="18">• 4x Malcolm in the Middle (2000)</tspan><tspan x="10" dy="18">• 1x Angie Tribeca (2016)</tspan><tspan x="10" dy="18">• 1x The Day of the Jackal (2024)</tspan></text></g>
-        <rect x="364" y="78" width="11" height="11" rx="2" ry="2" fill="#006d32" opacity="1" data-date="2025-07-19" data-count="2"/>
-        <g class="tooltip" transform="translate(254, 12)">
-          <rect x="0" y="0" width="231" height="56" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-07-19: 2 items watched</tspan><tspan x="10" dy="18">• 2x Malcolm in the Middle (2000)</tspan></text></g>
-        <rect x="377" y="78" width="11" height="11" rx="2" ry="2" fill="#39d353" opacity="1" data-date="2025-07-26" data-count="4"/>
-        <g class="tooltip" transform="translate(267, -6)">
-          <rect x="0" y="0" width="231" height="74" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-07-26: 4 items watched</tspan><tspan x="10" dy="18">• 3x Malcolm in the Middle (2000)</tspan><tspan x="10" dy="18">• 1x Wayward Pines (2015)</tspan></text></g>
+        <rect x="325" y="78" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-06-28" data-count="0"/>
+        <g class="tooltip" transform="translate(236, 30)">
+          <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-06-28: 0 items watched</tspan></text></g>
+        <rect x="338" y="78" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-07-05" data-count="0"/>
+        <g class="tooltip" transform="translate(249, 30)">
+          <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-07-05: 0 items watched</tspan></text></g>
+        <rect x="351" y="78" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-07-12" data-count="0"/>
+        <g class="tooltip" transform="translate(262, 30)">
+          <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-07-12: 0 items watched</tspan></text></g>
+        <rect x="364" y="78" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-07-19" data-count="0"/>
+        <g class="tooltip" transform="translate(275, 30)">
+          <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-07-19: 0 items watched</tspan></text></g>
+        <rect x="377" y="78" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-07-26" data-count="0"/>
+        <g class="tooltip" transform="translate(288, 30)">
+          <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-07-26: 0 items watched</tspan></text></g>
         <rect x="390" y="78" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1" data-date="2025-08-02" data-count="0"/>
         <g class="tooltip" transform="translate(301, 30)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#21262d" stroke="#ffffff" stroke-width="0.5" opacity="0.95"/>
