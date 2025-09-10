@@ -17,7 +17,7 @@
       <image href="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyBpZD0iTGF5ZXJfMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgdmlld0JveD0iMCAwIDQ4IDQ4Ij4KICA8ZGVmcz4KICAgIDxzdHlsZT4KICAgICAgLmNscy0xIHsKICAgICAgICBmaWxsOiB1cmwoI3JhZGlhbC1ncmFkaWVudCk7CiAgICAgIH0KCiAgICAgIC5jbHMtMiB7CiAgICAgICAgZmlsbDogI2ZmZjsKICAgICAgfQogICAgPC9zdHlsZT4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0icmFkaWFsLWdyYWRpZW50IiBjeD0iNDguNDYiIGN5PSItLjk1IiBmeD0iNDguNDYiIGZ5PSItLjk1IiByPSI2NC44NCIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiM5ZjQyYzYiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIuMjciIHN0b3AtY29sb3I9IiNhMDQxYzMiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIuNDIiIHN0b3AtY29sb3I9IiNhNDNlYmIiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIuNTMiIHN0b3AtY29sb3I9IiNhYTM5YWQiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIuNjQiIHN0b3AtY29sb3I9IiNiNDMzOWEiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIuNzMiIHN0b3AtY29sb3I9IiNjMDJiODEiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIuODIiIHN0b3AtY29sb3I9IiNjZjIwNjEiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIuOSIgc3RvcC1jb2xvcj0iI2UxMTQzYyIvPgogICAgICA8c3RvcCBvZmZzZXQ9Ii45NyIgc3RvcC1jb2xvcj0iI2Y1MDYxMyIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9InJlZCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICA8L2RlZnM+CiAgPGcgaWQ9Il94MkRfLXByb2R1Y3Rpb24iPgogICAgPGcgaWQ9ImxvZ29tYXJrLnNxdWFyZS5ncmFkaWVudCI+CiAgICAgIDxwYXRoIGlkPSJiYWNrZ3JvdW5kIiBjbGFzcz0iY2xzLTEiIGQ9Ik00OCwxMS4yNnYyNS40N2MwLDYuMjItNS4wNSwxMS4yNy0xMS4yNywxMS4yN0gxMS4yNmMtNi4yMiwwLTExLjI2LTUuMDUtMTEuMjYtMTEuMjdWMTEuMjZDMCw1LjA0LDUuMDQsMCwxMS4yNiwwaDI1LjQ3YzMuMzIsMCw2LjMsMS40Myw4LjM3LDMuNzIuNDcuNTIuODksMS4wOCwxLjI1LDEuNjguMTguMjkuMzQuNTkuNS44OS4zMy42OC42LDEuMzkuNzksMi4xNC4xLjM3LjE4Ljc2LjIzLDEuMTUuMDkuNTQuMTMsMS4xMS4xMywxLjY4WiIvPgogICAgICA8ZyBpZD0iY2hlY2tib3giPgogICAgICAgIDxwYXRoIGNsYXNzPSJjbHMtMiIgZD0iTTEzLjYyLDE3Ljk3bDcuOTIsNy45MiwxLjQ3LTEuNDctNy45Mi03LjkyLTEuNDcsMS40N1pNMjguMDEsMzIuMzdsMS40Ny0xLjQ2LTIuMTYtMi4xNiwyMC4zMi0yMC4zMmMtLjE5LS43NS0uNDYtMS40Ni0uNzktMi4xNGwtMjIuNDYsMjIuNDYsMy42MiwzLjYyWk0xMi45MiwxOC42N2wtMS40NiwxLjQ2LDE0LjQsMTQuNCwxLjQ2LTEuNDctNC4zMi00LjMxTDQ2LjM1LDUuNGMtLjM2LS42LS43OC0xLjE2LTEuMjUtMS42OGwtMjMuNTYsMjMuNTYtOC42Mi04LjYxWk00Ny44Nyw5LjU4bC0xOS4xNywxOS4xNywxLjQ3LDEuNDYsMTcuODMtMTcuODN2LTEuMTJjMC0uNTctLjA0LTEuMTQtLjEzLTEuNjhaTTI1LjE2LDIyLjI3bC03LjkyLTcuOTItMS40NywxLjQ3LDcuOTIsNy45MiwxLjQ3LTEuNDdaTTQxLjMyLDM1LjEyYzAsMy40Mi0yLjc4LDYuMi02LjIsNi4ySDEyLjg4Yy0zLjQyLDAtNi4yLTIuNzgtNi4yLTYuMlYxMi44OGMwLTMuNDIsMi43OC02LjIxLDYuMi02LjIxaDIwLjc4di0yLjA3SDEyLjg4Yy00LjU2LDAtOC4yOCwzLjcxLTguMjgsOC4yOHYyMi4yNGMwLDQuNTYsMy43MSw4LjI4LDguMjgsOC4yOGgyMi4yNGM0LjU2LDAsOC4yOC0zLjcxLDguMjgtOC4yOHYtMy41MWgtMi4wN3YzLjUxWiIvPgogICAgICA8L2c+CiAgICA8L2c+CiAgPC9nPgo8L3N2Zz4=" x="0" y="-12" width="15" height="15"/>
       <text x="20" y="0" class="title-text">Trakt 2025</text>
     </g>
-    <text x="30" y="30" class="subtitle-text">722 items watched</text>
+    <text x="30" y="30" class="subtitle-text">724 items watched</text>
     <g transform="translate(589, 10)">
       <text x="0" y="10">Less</text><rect x="40" y="2" width="10" height="10" rx="2" ry="2" fill="#ebedf0"/><rect x="55" y="2" width="10" height="10" rx="2" ry="2" fill="#9be9a8"/><rect x="70" y="2" width="10" height="10" rx="2" ry="2" fill="#40c463"/><rect x="85" y="2" width="10" height="10" rx="2" ry="2" fill="#30a14e"/><rect x="100" y="2" width="10" height="10" rx="2" ry="2" fill="#216e39"/><text x="120" y="10">More</text></g>
     <g transform="translate(30, 50)"><text x="0" y="0">Jan</text><text x="52" y="0">Feb</text><text x="104" y="0">Mar</text><text x="169" y="0">Apr</text><text x="221" y="0">May</text><text x="286" y="0">Jun</text><text x="338" y="0">Jul</text><text x="390" y="0">Aug</text><text x="455" y="0">Sep</text><text x="507" y="0">Oct</text><text x="559" y="0">Nov</text><text x="624" y="0">Dec</text></g><g transform="translate(10, 60)"><text x="0" y="9.5">S</text><text x="0" y="22.5">M</text><text x="0" y="35.5">T</text><text x="0" y="48.5">W</text><text x="0" y="61.5">T</text><text x="0" y="74.5">F</text><text x="0" y="87.5">S</text></g><g transform="translate(30, 60)">
@@ -29,7 +29,7 @@
         <g class="tooltip" transform="translate(-90, -66)">
           <rect x="0" y="0" width="217" height="56" rx="4" fill="#f6f8fa" stroke="#d1d5da" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-01-05: 13 items watched</tspan><tspan x="10" dy="18">• 13x Person of Interest (2011)</tspan></text></g>
-        <rect x="26" y="0" width="11" height="11" rx="2" ry="2" fill="#40c463" opacity="1" data-date="2025-01-12" data-count="2"/>
+        <rect x="26" y="0" width="11" height="11" rx="2" ry="2" fill="#9be9a8" opacity="1" data-date="2025-01-12" data-count="2"/>
         <g class="tooltip" transform="translate(-73.5, -84)">
           <rect x="0" y="0" width="210" height="74" rx="4" fill="#f6f8fa" stroke="#d1d5da" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-01-12: 2 items watched</tspan><tspan x="10" dy="18">• Underworld: Evolution (2006)</tspan><tspan x="10" dy="18">• Underworld (2003)</tspan></text></g>
@@ -37,7 +37,7 @@
         <g class="tooltip" transform="translate(-46.5, -66)">
           <rect x="0" y="0" width="182" height="56" rx="4" fill="#f6f8fa" stroke="#d1d5da" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-01-19: 1 item watched</tspan><tspan x="10" dy="18">• Schindler&#39;s List (1993)</tspan></text></g>
-        <rect x="52" y="0" width="11" height="11" rx="2" ry="2" fill="#40c463" opacity="1" data-date="2025-01-26" data-count="2"/>
+        <rect x="52" y="0" width="11" height="11" rx="2" ry="2" fill="#9be9a8" opacity="1" data-date="2025-01-26" data-count="2"/>
         <g class="tooltip" transform="translate(-47.5, -84)">
           <rect x="0" y="0" width="210" height="74" rx="4" fill="#f6f8fa" stroke="#d1d5da" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-01-26: 2 items watched</tspan><tspan x="10" dy="18">• Sniper: Ultimate Kill (2017)</tspan><tspan x="10" dy="18">• Sniper: Ghost Shooter (2016)</tspan></text></g>
@@ -53,7 +53,7 @@
         <g class="tooltip" transform="translate(-40, -102)">
           <rect x="0" y="0" width="273" height="92" rx="4" fill="#f6f8fa" stroke="#d1d5da" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-02-16: 3 items watched</tspan><tspan x="10" dy="18">• The Girl in the Spider&#39;s Web (2018)</tspan><tspan x="10" dy="18">• Primal Fear (1996)</tspan><tspan x="10" dy="18">• The Good, the Bad and the Ugly (1966)</tspan></text></g>
-        <rect x="104" y="0" width="11" height="11" rx="2" ry="2" fill="#40c463" opacity="1" data-date="2025-02-23" data-count="2"/>
+        <rect x="104" y="0" width="11" height="11" rx="2" ry="2" fill="#9be9a8" opacity="1" data-date="2025-02-23" data-count="2"/>
         <g class="tooltip" transform="translate(-2.5, -84)">
           <rect x="0" y="0" width="224" height="74" rx="4" fill="#f6f8fa" stroke="#d1d5da" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-02-23: 2 items watched</tspan><tspan x="10" dy="18">• A History of Violence (2005)</tspan><tspan x="10" dy="18">• Raiders of the Lost Ark (1981)</tspan></text></g>
@@ -253,7 +253,7 @@
         <g class="tooltip" transform="translate(-54.5, -71)">
           <rect x="0" y="0" width="224" height="74" rx="4" fill="#f6f8fa" stroke="#d1d5da" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-01-27: 4 items watched</tspan><tspan x="10" dy="18">• 1x Dexter: Original Sin (2024)</tspan><tspan x="10" dy="18">• 3x The Mentalist (2008)</tspan></text></g>
-        <rect x="65" y="13" width="11" height="11" rx="2" ry="2" fill="#40c463" opacity="1" data-date="2025-02-03" data-count="2"/>
+        <rect x="65" y="13" width="11" height="11" rx="2" ry="2" fill="#9be9a8" opacity="1" data-date="2025-02-03" data-count="2"/>
         <g class="tooltip" transform="translate(-24, -71)">
           <rect x="0" y="0" width="189" height="74" rx="4" fill="#f6f8fa" stroke="#d1d5da" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-02-03: 2 items watched</tspan><tspan x="10" dy="18">• 1x Suits (2011)</tspan><tspan x="10" dy="18">• 1x The Mentalist (2008)</tspan></text></g>
@@ -305,7 +305,7 @@
         <g class="tooltip" transform="translate(125, -89)">
           <rect x="0" y="0" width="203" height="92" rx="4" fill="#f6f8fa" stroke="#d1d5da" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-04-28: 3 items watched</tspan><tspan x="10" dy="18">• 1x The Last of Us (2023)</tspan><tspan x="10" dy="18">• The Devil&#39;s Advocate (1997)</tspan><tspan x="10" dy="18">• Brainscan (1994)</tspan></text></g>
-        <rect x="234" y="13" width="11" height="11" rx="2" ry="2" fill="#40c463" opacity="1" data-date="2025-05-05" data-count="2"/>
+        <rect x="234" y="13" width="11" height="11" rx="2" ry="2" fill="#9be9a8" opacity="1" data-date="2025-05-05" data-count="2"/>
         <g class="tooltip" transform="translate(145, -71)">
           <rect x="0" y="0" width="189" height="74" rx="4" fill="#f6f8fa" stroke="#d1d5da" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-05-05: 2 items watched</tspan><tspan x="10" dy="18">• 1x The Last of Us (2023)</tspan><tspan x="10" dy="18">• Children of Men (2006)</tspan></text></g>
@@ -357,7 +357,7 @@
         <g class="tooltip" transform="translate(301, -35)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#f6f8fa" stroke="#d1d5da" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-07-28: 0 items watched</tspan></text></g>
-        <rect x="403" y="13" width="11" height="11" rx="2" ry="2" fill="#40c463" opacity="1" data-date="2025-08-04" data-count="2"/>
+        <rect x="403" y="13" width="11" height="11" rx="2" ry="2" fill="#9be9a8" opacity="1" data-date="2025-08-04" data-count="2"/>
         <g class="tooltip" transform="translate(314, -53)">
           <rect x="0" y="0" width="189" height="56" rx="4" fill="#f6f8fa" stroke="#d1d5da" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-08-04: 2 items watched</tspan><tspan x="10" dy="18">• 2x Elementary (2012)</tspan></text></g>
@@ -461,7 +461,7 @@
         <g class="tooltip" transform="translate(-50, -40)">
           <rect x="0" y="0" width="189" height="56" rx="4" fill="#f6f8fa" stroke="#d1d5da" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-01-21: 6 items watched</tspan><tspan x="10" dy="18">• 6x Tracker (2024)</tspan></text></g>
-        <rect x="52" y="26" width="11" height="11" rx="2" ry="2" fill="#40c463" opacity="1" data-date="2025-01-28" data-count="2"/>
+        <rect x="52" y="26" width="11" height="11" rx="2" ry="2" fill="#9be9a8" opacity="1" data-date="2025-01-28" data-count="2"/>
         <g class="tooltip" transform="translate(-37, -58)">
           <rect x="0" y="0" width="189" height="74" rx="4" fill="#f6f8fa" stroke="#d1d5da" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-01-28: 2 items watched</tspan><tspan x="10" dy="18">• 1x The Mentalist (2008)</tspan><tspan x="10" dy="18">• Ford v Ferrari (2019)</tspan></text></g>
@@ -477,11 +477,11 @@
         <g class="tooltip" transform="translate(2, -94)">
           <rect x="0" y="0" width="189" height="110" rx="4" fill="#f6f8fa" stroke="#d1d5da" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-02-18: 4 items watched</tspan><tspan x="10" dy="18">• The Imitation Game (2014)</tspan><tspan x="10" dy="18">• Psycho III (1986)</tspan><tspan x="10" dy="18">• Psycho II (1983)</tspan><tspan x="10" dy="18">• Psycho (1960)</tspan></text></g>
-        <rect x="104" y="26" width="11" height="11" rx="2" ry="2" fill="#40c463" opacity="1" data-date="2025-02-25" data-count="2"/>
+        <rect x="104" y="26" width="11" height="11" rx="2" ry="2" fill="#9be9a8" opacity="1" data-date="2025-02-25" data-count="2"/>
         <g class="tooltip" transform="translate(15, -58)">
           <rect x="0" y="0" width="189" height="74" rx="4" fill="#f6f8fa" stroke="#d1d5da" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-02-25: 2 items watched</tspan><tspan x="10" dy="18">• 1x The Mentalist (2008)</tspan><tspan x="10" dy="18">• Mystic River (2003)</tspan></text></g>
-        <rect x="117" y="26" width="11" height="11" rx="2" ry="2" fill="#40c463" opacity="1" data-date="2025-03-04" data-count="2"/>
+        <rect x="117" y="26" width="11" height="11" rx="2" ry="2" fill="#9be9a8" opacity="1" data-date="2025-03-04" data-count="2"/>
         <g class="tooltip" transform="translate(28, -58)">
           <rect x="0" y="0" width="189" height="74" rx="4" fill="#f6f8fa" stroke="#d1d5da" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-03-04: 2 items watched</tspan><tspan x="10" dy="18">• 1x The Mentalist (2008)</tspan><tspan x="10" dy="18">• The Pianist (2002)</tspan></text></g>
@@ -509,11 +509,11 @@
         <g class="tooltip" transform="translate(106, -22)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#f6f8fa" stroke="#d1d5da" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-04-15: 0 items watched</tspan></text></g>
-        <rect x="208" y="26" width="11" height="11" rx="2" ry="2" fill="#40c463" opacity="1" data-date="2025-04-22" data-count="2"/>
+        <rect x="208" y="26" width="11" height="11" rx="2" ry="2" fill="#9be9a8" opacity="1" data-date="2025-04-22" data-count="2"/>
         <g class="tooltip" transform="translate(119, -58)">
           <rect x="0" y="0" width="189" height="74" rx="4" fill="#f6f8fa" stroke="#d1d5da" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-04-22: 2 items watched</tspan><tspan x="10" dy="18">• I, Robot (2004)</tspan><tspan x="10" dy="18">• Black Swan (2010)</tspan></text></g>
-        <rect x="221" y="26" width="11" height="11" rx="2" ry="2" fill="#40c463" opacity="1" data-date="2025-04-29" data-count="2"/>
+        <rect x="221" y="26" width="11" height="11" rx="2" ry="2" fill="#9be9a8" opacity="1" data-date="2025-04-29" data-count="2"/>
         <g class="tooltip" transform="translate(132, -58)">
           <rect x="0" y="0" width="189" height="74" rx="4" fill="#f6f8fa" stroke="#d1d5da" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-04-29: 2 items watched</tspan><tspan x="10" dy="18">• The Game (1997)</tspan><tspan x="10" dy="18">• Chaos (2005)</tspan></text></g>
@@ -541,7 +541,7 @@
         <g class="tooltip" transform="translate(210, -40)">
           <rect x="0" y="0" width="189" height="56" rx="4" fill="#f6f8fa" stroke="#d1d5da" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-06-10: 6 items watched</tspan><tspan x="10" dy="18">• 6x Shōgun (2024)</tspan></text></g>
-        <rect x="312" y="26" width="11" height="11" rx="2" ry="2" fill="#40c463" opacity="1" data-date="2025-06-17" data-count="2"/>
+        <rect x="312" y="26" width="11" height="11" rx="2" ry="2" fill="#9be9a8" opacity="1" data-date="2025-06-17" data-count="2"/>
         <g class="tooltip" transform="translate(223, -40)">
           <rect x="0" y="0" width="189" height="56" rx="4" fill="#f6f8fa" stroke="#d1d5da" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-06-17: 2 items watched</tspan><tspan x="10" dy="18">• 2x The Mentalist (2008)</tspan></text></g>
@@ -589,10 +589,10 @@
         <g class="tooltip" transform="translate(369.5, -40)">
           <rect x="0" y="0" width="182" height="56" rx="4" fill="#f6f8fa" stroke="#d1d5da" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-09-02: 1 item watched</tspan><tspan x="10" dy="18">• 1x Elementary (2012)</tspan></text></g>
-        <rect x="468" y="26" width="11" height="11" rx="2" ry="2" fill="#ebedf0" opacity="1" data-date="2025-09-09" data-count="0"/>
-        <g class="tooltip" transform="translate(379, -22)">
-          <rect x="0" y="0" width="189" height="38" rx="4" fill="#f6f8fa" stroke="#d1d5da" stroke-width="0.5" opacity="0.95"/>
-          <text x="10" y="22"><tspan x="10" dy="0">2025-09-09: 0 items watched</tspan></text></g>
+        <rect x="468" y="26" width="11" height="11" rx="2" ry="2" fill="#9be9a8" opacity="1" data-date="2025-09-09" data-count="2"/>
+        <g class="tooltip" transform="translate(379, -40)">
+          <rect x="0" y="0" width="189" height="56" rx="4" fill="#f6f8fa" stroke="#d1d5da" stroke-width="0.5" opacity="0.95"/>
+          <text x="10" y="22"><tspan x="10" dy="0">2025-09-09: 2 items watched</tspan><tspan x="10" dy="18">• 2x Elementary (2012)</tspan></text></g>
         <rect x="481" y="26" width="11" height="11" rx="2" ry="2" fill="#ebedf0" opacity="1" data-date="2025-09-16" data-count="0"/>
         <g class="tooltip" transform="translate(392, -22)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#f6f8fa" stroke="#d1d5da" stroke-width="0.5" opacity="0.95"/>
@@ -669,11 +669,11 @@
         <g class="tooltip" transform="translate(-63, -81)">
           <rect x="0" y="0" width="189" height="110" rx="4" fill="#f6f8fa" stroke="#d1d5da" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-01-15: 4 items watched</tspan><tspan x="10" dy="18">• 1x The Mentalist (2008)</tspan><tspan x="10" dy="18">• Abduction (2011)</tspan><tspan x="10" dy="18">• Enemy of the State (1998)</tspan><tspan x="10" dy="18">• Morgan (2016)</tspan></text></g>
-        <rect x="39" y="39" width="11" height="11" rx="2" ry="2" fill="#40c463" opacity="1" data-date="2025-01-22" data-count="2"/>
+        <rect x="39" y="39" width="11" height="11" rx="2" ry="2" fill="#9be9a8" opacity="1" data-date="2025-01-22" data-count="2"/>
         <g class="tooltip" transform="translate(-53.5, -45)">
           <rect x="0" y="0" width="196" height="74" rx="4" fill="#f6f8fa" stroke="#d1d5da" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-01-22: 2 items watched</tspan><tspan x="10" dy="18">• 1x Tracker (2024)</tspan><tspan x="10" dy="18">• Pushpa 2 - The Rule (2024)</tspan></text></g>
-        <rect x="52" y="39" width="11" height="11" rx="2" ry="2" fill="#40c463" opacity="1" data-date="2025-01-29" data-count="2"/>
+        <rect x="52" y="39" width="11" height="11" rx="2" ry="2" fill="#9be9a8" opacity="1" data-date="2025-01-29" data-count="2"/>
         <g class="tooltip" transform="translate(-37, -45)">
           <rect x="0" y="0" width="189" height="74" rx="4" fill="#f6f8fa" stroke="#d1d5da" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-01-29: 2 items watched</tspan><tspan x="10" dy="18">• 1x Criminal Minds (2005)</tspan><tspan x="10" dy="18">• Conclave (2024)</tspan></text></g>
@@ -685,11 +685,11 @@
         <g class="tooltip" transform="translate(-11, -9)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#f6f8fa" stroke="#d1d5da" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-02-12: 0 items watched</tspan></text></g>
-        <rect x="91" y="39" width="11" height="11" rx="2" ry="2" fill="#40c463" opacity="1" data-date="2025-02-19" data-count="2"/>
+        <rect x="91" y="39" width="11" height="11" rx="2" ry="2" fill="#9be9a8" opacity="1" data-date="2025-02-19" data-count="2"/>
         <g class="tooltip" transform="translate(2, -45)">
           <rect x="0" y="0" width="189" height="74" rx="4" fill="#f6f8fa" stroke="#d1d5da" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-02-19: 2 items watched</tspan><tspan x="10" dy="18">• Panic Room (2002)</tspan><tspan x="10" dy="18">• The Sixth Sense (1999)</tspan></text></g>
-        <rect x="104" y="39" width="11" height="11" rx="2" ry="2" fill="#40c463" opacity="1" data-date="2025-02-26" data-count="2"/>
+        <rect x="104" y="39" width="11" height="11" rx="2" ry="2" fill="#9be9a8" opacity="1" data-date="2025-02-26" data-count="2"/>
         <g class="tooltip" transform="translate(15, -45)">
           <rect x="0" y="0" width="189" height="74" rx="4" fill="#f6f8fa" stroke="#d1d5da" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-02-26: 2 items watched</tspan><tspan x="10" dy="18">• 1x The Mentalist (2008)</tspan><tspan x="10" dy="18">• Get Out (2017)</tspan></text></g>
@@ -697,7 +697,7 @@
         <g class="tooltip" transform="translate(10.5, -27)">
           <rect x="0" y="0" width="224" height="56" rx="4" fill="#f6f8fa" stroke="#d1d5da" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-03-05: 1 item watched</tspan><tspan x="10" dy="18">• The Replacement Killers (1998)</tspan></text></g>
-        <rect x="130" y="39" width="11" height="11" rx="2" ry="2" fill="#40c463" opacity="1" data-date="2025-03-12" data-count="2"/>
+        <rect x="130" y="39" width="11" height="11" rx="2" ry="2" fill="#9be9a8" opacity="1" data-date="2025-03-12" data-count="2"/>
         <g class="tooltip" transform="translate(20, -45)">
           <rect x="0" y="0" width="231" height="74" rx="4" fill="#f6f8fa" stroke="#d1d5da" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-03-12: 2 items watched</tspan><tspan x="10" dy="18">• 1x Daredevil: Born Again (2025)</tspan><tspan x="10" dy="18">• The Shining (1980)</tspan></text></g>
@@ -721,7 +721,7 @@
         <g class="tooltip" transform="translate(106, -9)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#f6f8fa" stroke="#d1d5da" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-04-16: 0 items watched</tspan></text></g>
-        <rect x="208" y="39" width="11" height="11" rx="2" ry="2" fill="#40c463" opacity="1" data-date="2025-04-23" data-count="2"/>
+        <rect x="208" y="39" width="11" height="11" rx="2" ry="2" fill="#9be9a8" opacity="1" data-date="2025-04-23" data-count="2"/>
         <g class="tooltip" transform="translate(119, -45)">
           <rect x="0" y="0" width="189" height="74" rx="4" fill="#f6f8fa" stroke="#d1d5da" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-04-23: 2 items watched</tspan><tspan x="10" dy="18">• 1x The Last of Us (2023)</tspan><tspan x="10" dy="18">• Identity (2003)</tspan></text></g>
@@ -765,7 +765,7 @@
         <g class="tooltip" transform="translate(245.5, -27)">
           <rect x="0" y="0" width="196" height="56" rx="4" fill="#f6f8fa" stroke="#d1d5da" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-07-02: 18 items watched</tspan><tspan x="10" dy="18">• 18x The Mentalist (2008)</tspan></text></g>
-        <rect x="351" y="39" width="11" height="11" rx="2" ry="2" fill="#40c463" opacity="1" data-date="2025-07-09" data-count="2"/>
+        <rect x="351" y="39" width="11" height="11" rx="2" ry="2" fill="#9be9a8" opacity="1" data-date="2025-07-09" data-count="2"/>
         <g class="tooltip" transform="translate(262, -27)">
           <rect x="0" y="0" width="189" height="56" rx="4" fill="#f6f8fa" stroke="#d1d5da" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-07-09: 2 items watched</tspan><tspan x="10" dy="18">• 2x The Pitt (2025)</tspan></text></g>
@@ -877,7 +877,7 @@
         <g class="tooltip" transform="translate(-90, -14)">
           <rect x="0" y="0" width="217" height="56" rx="4" fill="#f6f8fa" stroke="#d1d5da" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-01-09: 10 items watched</tspan><tspan x="10" dy="18">• 10x Person of Interest (2011)</tspan></text></g>
-        <rect x="26" y="52" width="11" height="11" rx="2" ry="2" fill="#40c463" opacity="1" data-date="2025-01-16" data-count="2"/>
+        <rect x="26" y="52" width="11" height="11" rx="2" ry="2" fill="#9be9a8" opacity="1" data-date="2025-01-16" data-count="2"/>
         <g class="tooltip" transform="translate(-63, -32)">
           <rect x="0" y="0" width="189" height="74" rx="4" fill="#f6f8fa" stroke="#d1d5da" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-01-16: 2 items watched</tspan><tspan x="10" dy="18">• Sniper (1993)</tspan><tspan x="10" dy="18">• Equilibrium (2002)</tspan></text></g>
@@ -885,7 +885,7 @@
         <g class="tooltip" transform="translate(-50, -32)">
           <rect x="0" y="0" width="189" height="74" rx="4" fill="#f6f8fa" stroke="#d1d5da" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-01-23: 6 items watched</tspan><tspan x="10" dy="18">• 4x The Night Agent (2023)</tspan><tspan x="10" dy="18">• 2x Tracker (2024)</tspan></text></g>
-        <rect x="52" y="52" width="11" height="11" rx="2" ry="2" fill="#40c463" opacity="1" data-date="2025-01-30" data-count="2"/>
+        <rect x="52" y="52" width="11" height="11" rx="2" ry="2" fill="#9be9a8" opacity="1" data-date="2025-01-30" data-count="2"/>
         <g class="tooltip" transform="translate(-37, -32)">
           <rect x="0" y="0" width="189" height="74" rx="4" fill="#f6f8fa" stroke="#d1d5da" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-01-30: 2 items watched</tspan><tspan x="10" dy="18">• 1x The Mentalist (2008)</tspan><tspan x="10" dy="18">• Aftermath (2024)</tspan></text></g>
@@ -897,11 +897,11 @@
         <g class="tooltip" transform="translate(-7.5, -14)">
           <rect x="0" y="0" width="182" height="56" rx="4" fill="#f6f8fa" stroke="#d1d5da" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-02-13: 1 item watched</tspan><tspan x="10" dy="18">• Peppermint (2018)</tspan></text></g>
-        <rect x="91" y="52" width="11" height="11" rx="2" ry="2" fill="#40c463" opacity="1" data-date="2025-02-20" data-count="2"/>
+        <rect x="91" y="52" width="11" height="11" rx="2" ry="2" fill="#9be9a8" opacity="1" data-date="2025-02-20" data-count="2"/>
         <g class="tooltip" transform="translate(-1.5, -32)">
           <rect x="0" y="0" width="196" height="74" rx="4" fill="#f6f8fa" stroke="#d1d5da" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-02-20: 2 items watched</tspan><tspan x="10" dy="18">• GoodFellas (1990)</tspan><tspan x="10" dy="18">• Edward Scissorhands (1990)</tspan></text></g>
-        <rect x="104" y="52" width="11" height="11" rx="2" ry="2" fill="#40c463" opacity="1" data-date="2025-02-27" data-count="2"/>
+        <rect x="104" y="52" width="11" height="11" rx="2" ry="2" fill="#9be9a8" opacity="1" data-date="2025-02-27" data-count="2"/>
         <g class="tooltip" transform="translate(15, -32)">
           <rect x="0" y="0" width="189" height="74" rx="4" fill="#f6f8fa" stroke="#d1d5da" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-02-27: 2 items watched</tspan><tspan x="10" dy="18">• 1x Reacher (2022)</tspan><tspan x="10" dy="18">• Scarface (1983)</tspan></text></g>
@@ -929,11 +929,11 @@
         <g class="tooltip" transform="translate(93, 4)">
           <rect x="0" y="0" width="189" height="38" rx="4" fill="#f6f8fa" stroke="#d1d5da" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-04-10: 0 items watched</tspan></text></g>
-        <rect x="195" y="52" width="11" height="11" rx="2" ry="2" fill="#40c463" opacity="1" data-date="2025-04-17" data-count="2"/>
+        <rect x="195" y="52" width="11" height="11" rx="2" ry="2" fill="#9be9a8" opacity="1" data-date="2025-04-17" data-count="2"/>
         <g class="tooltip" transform="translate(85, -32)">
           <rect x="0" y="0" width="231" height="74" rx="4" fill="#f6f8fa" stroke="#d1d5da" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-04-17: 2 items watched</tspan><tspan x="10" dy="18">• 1x Daredevil: Born Again (2025)</tspan><tspan x="10" dy="18">• A Working Man (2025)</tspan></text></g>
-        <rect x="208" y="52" width="11" height="11" rx="2" ry="2" fill="#40c463" opacity="1" data-date="2025-04-24" data-count="2"/>
+        <rect x="208" y="52" width="11" height="11" rx="2" ry="2" fill="#9be9a8" opacity="1" data-date="2025-04-24" data-count="2"/>
         <g class="tooltip" transform="translate(119, -32)">
           <rect x="0" y="0" width="189" height="74" rx="4" fill="#f6f8fa" stroke="#d1d5da" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-04-24: 2 items watched</tspan><tspan x="10" dy="18">• Split (2017)</tspan><tspan x="10" dy="18">• The Truman Show (1998)</tspan></text></g>
@@ -981,11 +981,11 @@
         <g class="tooltip" transform="translate(262, -14)">
           <rect x="0" y="0" width="189" height="56" rx="4" fill="#f6f8fa" stroke="#d1d5da" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-07-10: 7 items watched</tspan><tspan x="10" dy="18">• 7x House of Cards (2013)</tspan></text></g>
-        <rect x="364" y="52" width="11" height="11" rx="2" ry="2" fill="#40c463" opacity="1" data-date="2025-07-17" data-count="2"/>
+        <rect x="364" y="52" width="11" height="11" rx="2" ry="2" fill="#9be9a8" opacity="1" data-date="2025-07-17" data-count="2"/>
         <g class="tooltip" transform="translate(275, -14)">
           <rect x="0" y="0" width="189" height="56" rx="4" fill="#f6f8fa" stroke="#d1d5da" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-07-17: 2 items watched</tspan><tspan x="10" dy="18">• 2x House of Cards (2013)</tspan></text></g>
-        <rect x="377" y="52" width="11" height="11" rx="2" ry="2" fill="#40c463" opacity="1" data-date="2025-07-24" data-count="2"/>
+        <rect x="377" y="52" width="11" height="11" rx="2" ry="2" fill="#9be9a8" opacity="1" data-date="2025-07-24" data-count="2"/>
         <g class="tooltip" transform="translate(288, -32)">
           <rect x="0" y="0" width="189" height="74" rx="4" fill="#f6f8fa" stroke="#d1d5da" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-07-24: 2 items watched</tspan><tspan x="10" dy="18">• The King&#39;s Man (2021)</tspan><tspan x="10" dy="18">• Mickey 17 (2025)</tspan></text></g>
@@ -997,11 +997,11 @@
         <g class="tooltip" transform="translate(317.5, -14)">
           <rect x="0" y="0" width="182" height="56" rx="4" fill="#f6f8fa" stroke="#d1d5da" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-08-07: 1 item watched</tspan><tspan x="10" dy="18">• 1x The Sopranos (1999)</tspan></text></g>
-        <rect x="416" y="52" width="11" height="11" rx="2" ry="2" fill="#40c463" opacity="1" data-date="2025-08-14" data-count="2"/>
+        <rect x="416" y="52" width="11" height="11" rx="2" ry="2" fill="#9be9a8" opacity="1" data-date="2025-08-14" data-count="2"/>
         <g class="tooltip" transform="translate(327, -32)">
           <rect x="0" y="0" width="189" height="74" rx="4" fill="#f6f8fa" stroke="#d1d5da" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-08-14: 2 items watched</tspan><tspan x="10" dy="18">• The Villainess (2017)</tspan><tspan x="10" dy="18">• The Killer (2023)</tspan></text></g>
-        <rect x="429" y="52" width="11" height="11" rx="2" ry="2" fill="#40c463" opacity="1" data-date="2025-08-21" data-count="2"/>
+        <rect x="429" y="52" width="11" height="11" rx="2" ry="2" fill="#9be9a8" opacity="1" data-date="2025-08-21" data-count="2"/>
         <g class="tooltip" transform="translate(340, -14)">
           <rect x="0" y="0" width="189" height="56" rx="4" fill="#f6f8fa" stroke="#d1d5da" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-08-21: 2 items watched</tspan><tspan x="10" dy="18">• 2x Elementary (2012)</tspan></text></g>
@@ -1089,7 +1089,7 @@
         <g class="tooltip" transform="translate(-90, -1)">
           <rect x="0" y="0" width="217" height="56" rx="4" fill="#f6f8fa" stroke="#d1d5da" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-01-10: 18 items watched</tspan><tspan x="10" dy="18">• 18x Person of Interest (2011)</tspan></text></g>
-        <rect x="26" y="65" width="11" height="11" rx="2" ry="2" fill="#40c463" opacity="1" data-date="2025-01-17" data-count="2"/>
+        <rect x="26" y="65" width="11" height="11" rx="2" ry="2" fill="#9be9a8" opacity="1" data-date="2025-01-17" data-count="2"/>
         <g class="tooltip" transform="translate(-63, -19)">
           <rect x="0" y="0" width="189" height="74" rx="4" fill="#f6f8fa" stroke="#d1d5da" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-01-17: 2 items watched</tspan><tspan x="10" dy="18">• 1x The Mentalist (2008)</tspan><tspan x="10" dy="18">• Sniper 2 (2002)</tspan></text></g>
@@ -1117,7 +1117,7 @@
         <g class="tooltip" transform="translate(18.5, -1)">
           <rect x="0" y="0" width="182" height="56" rx="4" fill="#f6f8fa" stroke="#d1d5da" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-02-28: 1 item watched</tspan><tspan x="10" dy="18">• 1x Severance (2022)</tspan></text></g>
-        <rect x="117" y="65" width="11" height="11" rx="2" ry="2" fill="#40c463" opacity="1" data-date="2025-03-07" data-count="2"/>
+        <rect x="117" y="65" width="11" height="11" rx="2" ry="2" fill="#9be9a8" opacity="1" data-date="2025-03-07" data-count="2"/>
         <g class="tooltip" transform="translate(28, -19)">
           <rect x="0" y="0" width="189" height="74" rx="4" fill="#f6f8fa" stroke="#d1d5da" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-03-07: 2 items watched</tspan><tspan x="10" dy="18">• 1x Severance (2022)</tspan><tspan x="10" dy="18">• 1x Reacher (2022)</tspan></text></g>
@@ -1141,7 +1141,7 @@
         <g class="tooltip" transform="translate(72, -1)">
           <rect x="0" y="0" width="231" height="56" rx="4" fill="#f6f8fa" stroke="#d1d5da" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-04-11: 1 item watched</tspan><tspan x="10" dy="18">• 1x Daredevil: Born Again (2025)</tspan></text></g>
-        <rect x="195" y="65" width="11" height="11" rx="2" ry="2" fill="#40c463" opacity="1" data-date="2025-04-18" data-count="2"/>
+        <rect x="195" y="65" width="11" height="11" rx="2" ry="2" fill="#9be9a8" opacity="1" data-date="2025-04-18" data-count="2"/>
         <g class="tooltip" transform="translate(95.5, -19)">
           <rect x="0" y="0" width="210" height="74" rx="4" fill="#f6f8fa" stroke="#d1d5da" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-04-18: 2 items watched</tspan><tspan x="10" dy="18">• The Magnificent Seven (2016)</tspan><tspan x="10" dy="18">• The Contractor (2022)</tspan></text></g>
@@ -1193,7 +1193,7 @@
         <g class="tooltip" transform="translate(262, -1)">
           <rect x="0" y="0" width="189" height="56" rx="4" fill="#f6f8fa" stroke="#d1d5da" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-07-11: 4 items watched</tspan><tspan x="10" dy="18">• 4x House of Cards (2013)</tspan></text></g>
-        <rect x="364" y="65" width="11" height="11" rx="2" ry="2" fill="#40c463" opacity="1" data-date="2025-07-18" data-count="2"/>
+        <rect x="364" y="65" width="11" height="11" rx="2" ry="2" fill="#9be9a8" opacity="1" data-date="2025-07-18" data-count="2"/>
         <g class="tooltip" transform="translate(275, -1)">
           <rect x="0" y="0" width="189" height="56" rx="4" fill="#f6f8fa" stroke="#d1d5da" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-07-18: 2 items watched</tspan><tspan x="10" dy="18">• 2x House of Cards (2013)</tspan></text></g>
@@ -1205,7 +1205,7 @@
         <g class="tooltip" transform="translate(301, -1)">
           <rect x="0" y="0" width="189" height="56" rx="4" fill="#f6f8fa" stroke="#d1d5da" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-08-01: 3 items watched</tspan><tspan x="10" dy="18">• 3x Elementary (2012)</tspan></text></g>
-        <rect x="403" y="65" width="11" height="11" rx="2" ry="2" fill="#40c463" opacity="1" data-date="2025-08-08" data-count="2"/>
+        <rect x="403" y="65" width="11" height="11" rx="2" ry="2" fill="#9be9a8" opacity="1" data-date="2025-08-08" data-count="2"/>
         <g class="tooltip" transform="translate(314, -1)">
           <rect x="0" y="0" width="189" height="56" rx="4" fill="#f6f8fa" stroke="#d1d5da" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-08-08: 2 items watched</tspan><tspan x="10" dy="18">• 2x Wednesday (2022)</tspan></text></g>
@@ -1325,7 +1325,7 @@
         <g class="tooltip" transform="translate(-12, -24)">
           <rect x="0" y="0" width="217" height="92" rx="4" fill="#f6f8fa" stroke="#d1d5da" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-02-22: 3 items watched</tspan><tspan x="10" dy="18">• Dead Man Down (2013)</tspan><tspan x="10" dy="18">• Killer Joe (2012)</tspan><tspan x="10" dy="18">• No Country for Old Men (2007)</tspan></text></g>
-        <rect x="104" y="78" width="11" height="11" rx="2" ry="2" fill="#40c463" opacity="1" data-date="2025-03-01" data-count="2"/>
+        <rect x="104" y="78" width="11" height="11" rx="2" ry="2" fill="#9be9a8" opacity="1" data-date="2025-03-01" data-count="2"/>
         <g class="tooltip" transform="translate(15, -6)">
           <rect x="0" y="0" width="189" height="74" rx="4" fill="#f6f8fa" stroke="#d1d5da" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-03-01: 2 items watched</tspan><tspan x="10" dy="18">• 1x The Mentalist (2008)</tspan><tspan x="10" dy="18">• Mikhael (2019)</tspan></text></g>
@@ -1337,7 +1337,7 @@
         <g class="tooltip" transform="translate(41, -24)">
           <rect x="0" y="0" width="189" height="92" rx="4" fill="#f6f8fa" stroke="#d1d5da" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-03-15: 3 items watched</tspan><tspan x="10" dy="18">• 1x Reacher (2022)</tspan><tspan x="10" dy="18">• 1x Severance (2022)</tspan><tspan x="10" dy="18">• La La Land (2016)</tspan></text></g>
-        <rect x="143" y="78" width="11" height="11" rx="2" ry="2" fill="#40c463" opacity="1" data-date="2025-03-22" data-count="2"/>
+        <rect x="143" y="78" width="11" height="11" rx="2" ry="2" fill="#9be9a8" opacity="1" data-date="2025-03-22" data-count="2"/>
         <g class="tooltip" transform="translate(54, -6)">
           <rect x="0" y="0" width="189" height="74" rx="4" fill="#f6f8fa" stroke="#d1d5da" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-03-22: 2 items watched</tspan><tspan x="10" dy="18">• 1x Reacher (2022)</tspan><tspan x="10" dy="18">• A Beautiful Mind (2001)</tspan></text></g>
@@ -1409,7 +1409,7 @@
         <g class="tooltip" transform="translate(275, 12)">
           <rect x="0" y="0" width="189" height="56" rx="4" fill="#f6f8fa" stroke="#d1d5da" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-07-19: 5 items watched</tspan><tspan x="10" dy="18">• 5x House of Cards (2013)</tspan></text></g>
-        <rect x="377" y="78" width="11" height="11" rx="2" ry="2" fill="#40c463" opacity="1" data-date="2025-07-26" data-count="2"/>
+        <rect x="377" y="78" width="11" height="11" rx="2" ry="2" fill="#9be9a8" opacity="1" data-date="2025-07-26" data-count="2"/>
         <g class="tooltip" transform="translate(288, 12)">
           <rect x="0" y="0" width="189" height="56" rx="4" fill="#f6f8fa" stroke="#d1d5da" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-07-26: 2 items watched</tspan><tspan x="10" dy="18">• 2x House of Cards (2013)</tspan></text></g>
@@ -1433,7 +1433,7 @@
         <g class="tooltip" transform="translate(353, 12)">
           <rect x="0" y="0" width="189" height="56" rx="4" fill="#f6f8fa" stroke="#d1d5da" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-08-30: 8 items watched</tspan><tspan x="10" dy="18">• 8x 24 (2001)</tspan></text></g>
-        <rect x="455" y="78" width="11" height="11" rx="2" ry="2" fill="#40c463" opacity="1" data-date="2025-09-06" data-count="2"/>
+        <rect x="455" y="78" width="11" height="11" rx="2" ry="2" fill="#9be9a8" opacity="1" data-date="2025-09-06" data-count="2"/>
         <g class="tooltip" transform="translate(366, -6)">
           <rect x="0" y="0" width="189" height="74" rx="4" fill="#f6f8fa" stroke="#d1d5da" stroke-width="0.5" opacity="0.95"/>
           <text x="10" y="22"><tspan x="10" dy="0">2025-09-06: 2 items watched</tspan><tspan x="10" dy="18">• Alien: Covenant (2017)</tspan><tspan x="10" dy="18">• Prometheus (2012)</tspan></text></g>
