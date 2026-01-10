@@ -114,20 +114,20 @@
         <text x="27" y="54" font-size="9" fill="#f0f6fc" text-anchor="middle">4</text>
         <rect x="20" y="57" width="14" height="23" rx="2" fill="#c41e2a"/>
         <text x="27" y="100" font-size="9" fill="#e6edf3" text-anchor="middle">S</text>
-        <text x="51" y="77" font-size="9" fill="#f0f6fc" text-anchor="middle">0</text>
-        <rect x="44" y="80" width="14" height="0" rx="2" fill="#c41e2a"/>
+        <text x="51" y="71" font-size="9" fill="#f0f6fc" text-anchor="middle">1</text>
+        <rect x="44" y="74" width="14" height="6" rx="2" fill="#c41e2a"/>
         <text x="51" y="100" font-size="9" fill="#e6edf3" text-anchor="middle">M</text>
         <text x="75" y="71" font-size="9" fill="#f0f6fc" text-anchor="middle">1</text>
         <rect x="68" y="74" width="14" height="6" rx="2" fill="#c41e2a"/>
         <text x="75" y="100" font-size="9" fill="#e6edf3" text-anchor="middle">T</text>
-        <text x="99" y="71" font-size="9" fill="#f0f6fc" text-anchor="middle">1</text>
-        <rect x="92" y="74" width="14" height="6" rx="2" fill="#c41e2a"/>
+        <text x="99" y="66" font-size="9" fill="#f0f6fc" text-anchor="middle">2</text>
+        <rect x="92" y="69" width="14" height="11" rx="2" fill="#c41e2a"/>
         <text x="99" y="100" font-size="9" fill="#e6edf3" text-anchor="middle">W</text>
         <text x="123" y="32" font-size="9" fill="#f0f6fc" text-anchor="middle">8</text>
         <rect x="116" y="35" width="14" height="45" rx="2" fill="#c41e2a"/>
         <text x="123" y="100" font-size="9" fill="#e6edf3" text-anchor="middle">T</text>
-        <text x="147" y="54" font-size="9" fill="#f0f6fc" text-anchor="middle">4</text>
-        <rect x="140" y="57" width="14" height="23" rx="2" fill="#c41e2a"/>
+        <text x="147" y="66" font-size="9" fill="#f0f6fc" text-anchor="middle">2</text>
+        <rect x="140" y="69" width="14" height="11" rx="2" fill="#c41e2a"/>
         <text x="147" y="100" font-size="9" fill="#e6edf3" text-anchor="middle">F</text>
         <text x="171" y="54" font-size="9" fill="#f0f6fc" text-anchor="middle">4</text>
         <rect x="164" y="57" width="14" height="23" rx="2" fill="#c41e2a"/>
@@ -138,10 +138,10 @@
     <g class="streak-group streak-group-2026" transform="translate(320, 5)">
       <path d="M8.5 14.5A2.5 2.5 0 0 0 11 12c0-1.38-.5-2-1-3-1.072-2.143-.224-4.054 2-6 .5 2.5 2 4.9 4 6.5 2 1.6 3 3.5 3 5.5a7 7 0 1 1-14 0c0-1.153.433-2.294 1-3a2.5 2.5 0 0 0 2.5 2.5z"
             stroke="#ed1c24" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" fill="#ed1c24" fill-opacity="0.2" transform="scale(0.75)"/>
-      <text x="18" y="13" font-size="14" font-weight="500" fill="#7d8590">5 Day Streak</text>
+      <text x="18" y="13" font-size="14" font-weight="500" fill="#7d8590">8 Day Streak</text>
       <g class="streak-tooltip" transform="translate(0, -45)">
         <rect x="-10" y="0" width="180" height="36" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
-        <text x="5" y="23" font-size="12" fill="#f0f6fc">2026-01-06 → 2026-01-10</text>
+        <text x="5" y="23" font-size="12" fill="#f0f6fc">2026-01-01 → 2026-01-08</text>
       </g>
     </g>
     <g transform="translate(800, 0)">
@@ -174,7 +174,7 @@
   <g transform="translate(51, 165)">
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell"
+        <rect class="cell streak-cell streak-cell-2026"
           x="17"
           y="0"
           width="14"
@@ -1114,18 +1114,19 @@
     </g>
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell"
+        <rect class="cell streak-cell streak-cell-2026"
           x="17"
           y="17"
           width="14"
           height="14"
           rx="2"
-          fill="#161b22"
+          fill="#5c1015"
         />
-        <g class="tooltip-group" transform="translate(17, -29)">
-          <rect x="0" y="0" width="280" height="38" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(17, -47)">
+          <rect x="0" y="0" width="280" height="56" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Mon, 5. Jan 2026: 0 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Mon, 5. Jan 2026: 1 item watched</tspan>
+            <tspan x="10" dy="18">• The Middle S01E23 (2009)</tspan>
           </text>
         </g>
       </a>
@@ -2062,7 +2063,7 @@
           <rect x="0" y="0" width="280" height="56" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
             <tspan x="10" dy="22" font-weight="600">Tue, 6. Jan 2026: 1 item watched</tspan>
-            <tspan x="10" dy="18">• The Middle S01E23 (2009)</tspan>
+            <tspan x="10" dy="18">• The Middle S01E24 (2009)</tspan>
           </text>
         </g>
       </a>
@@ -2993,13 +2994,14 @@
           width="14"
           height="14"
           rx="2"
-          fill="#5c1015"
+          fill="#8b1a22"
         />
-        <g class="tooltip-group" transform="translate(17, -13)">
-          <rect x="0" y="0" width="280" height="56" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(17, -31)">
+          <rect x="0" y="0" width="280" height="74" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Wed, 7. Jan 2026: 1 item watched</tspan>
-            <tspan x="10" dy="18">• The Middle S01E24 (2009)</tspan>
+            <tspan x="10" dy="22" font-weight="600">Wed, 7. Jan 2026: 2 items watched</tspan>
+            <tspan x="10" dy="18">• The Middle S02E02 (2009)</tspan>
+            <tspan x="10" dy="18">• The Middle S02E01 (2009)</tspan>
           </text>
         </g>
       </a>
@@ -3924,7 +3926,7 @@
     </g>
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell"
+        <rect class="cell streak-cell streak-cell-2026"
           x="0"
           y="68"
           width="14"
@@ -3958,10 +3960,10 @@
           <rect x="0" y="0" width="280" height="110" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
             <tspan x="10" dy="22" font-weight="600">Thu, 8. Jan 2026: 4 items watched</tspan>
+            <tspan x="10" dy="18">• The Middle S02E05 (2009)</tspan>
+            <tspan x="10" dy="18">• The Middle S02E04 (2009)</tspan>
             <tspan x="10" dy="18">• Crazy (2000)</tspan>
             <tspan x="10" dy="18">• The Middle S02E03 (2009)</tspan>
-            <tspan x="10" dy="18">• The Middle S02E02 (2009)</tspan>
-            <tspan x="10" dy="18">• The Middle S02E01 (2009)</tspan>
           </text>
         </g>
       </a>
@@ -4886,7 +4888,7 @@
     </g>
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell"
+        <rect class="cell streak-cell streak-cell-2026"
           x="0"
           y="85"
           width="14"
@@ -4906,20 +4908,18 @@
     </g>
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell streak-cell streak-cell-2026"
+        <rect class="cell"
           x="17"
           y="85"
           width="14"
           height="14"
           rx="2"
-          fill="#8b1a22"
+          fill="#161b22"
         />
-        <g class="tooltip-group" transform="translate(17, 3)">
-          <rect x="0" y="0" width="280" height="74" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(17, 39)">
+          <rect x="0" y="0" width="280" height="38" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Fri, 9. Jan 2026: 2 items watched</tspan>
-            <tspan x="10" dy="18">• The Middle S02E05 (2009)</tspan>
-            <tspan x="10" dy="18">• The Middle S02E04 (2009)</tspan>
+            <tspan x="10" dy="22" font-weight="600">Fri, 9. Jan 2026: 0 items watched</tspan>
           </text>
         </g>
       </a>
@@ -5826,7 +5826,7 @@
     </g>
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell"
+        <rect class="cell streak-cell streak-cell-2026"
           x="0"
           y="102"
           width="14"
@@ -5846,7 +5846,7 @@
     </g>
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell streak-cell streak-cell-2026"
+        <rect class="cell"
           x="17"
           y="102"
           width="14"
@@ -6775,31 +6775,31 @@
     
     <!-- Days Active with hover tooltip -->
     <g class="days-active-group" transform="translate(180, 5)">
-      <text x="0" y="15" font-size="14" font-weight="500" fill="#7d8590">313 Days Active</text>
+      <text x="0" y="15" font-size="14" font-weight="500" fill="#7d8590">303 Days Active</text>
       <g class="days-active-tooltip" transform="translate(-20, -115)">
         <rect x="0" y="0" width="200" height="105" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
         <text x="100" y="18" font-size="11" font-weight="600" fill="#f0f6fc" text-anchor="middle">Weekly Distribution</text>
         
-        <text x="27" y="32" font-size="9" fill="#f0f6fc" text-anchor="middle">151</text>
+        <text x="27" y="32" font-size="9" fill="#f0f6fc" text-anchor="middle">170</text>
         <rect x="20" y="35" width="14" height="45" rx="2" fill="#c41e2a"/>
         <text x="27" y="100" font-size="9" fill="#e6edf3" text-anchor="middle">S</text>
-        <text x="51" y="32" font-size="9" fill="#f0f6fc" text-anchor="middle">150</text>
-        <rect x="44" y="35" width="14" height="45" rx="2" fill="#c41e2a"/>
+        <text x="51" y="38" font-size="9" fill="#f0f6fc" text-anchor="middle">146</text>
+        <rect x="44" y="41" width="14" height="39" rx="2" fill="#c41e2a"/>
         <text x="51" y="100" font-size="9" fill="#e6edf3" text-anchor="middle">M</text>
-        <text x="75" y="42" font-size="9" fill="#f0f6fc" text-anchor="middle">117</text>
-        <rect x="68" y="45" width="14" height="35" rx="2" fill="#c41e2a"/>
+        <text x="75" y="44" font-size="9" fill="#f0f6fc" text-anchor="middle">123</text>
+        <rect x="68" y="47" width="14" height="33" rx="2" fill="#c41e2a"/>
         <text x="75" y="100" font-size="9" fill="#e6edf3" text-anchor="middle">T</text>
-        <text x="99" y="37" font-size="9" fill="#f0f6fc" text-anchor="middle">135</text>
-        <rect x="92" y="40" width="14" height="40" rx="2" fill="#c41e2a"/>
+        <text x="99" y="42" font-size="9" fill="#f0f6fc" text-anchor="middle">132</text>
+        <rect x="92" y="45" width="14" height="35" rx="2" fill="#c41e2a"/>
         <text x="99" y="100" font-size="9" fill="#e6edf3" text-anchor="middle">W</text>
-        <text x="123" y="42" font-size="9" fill="#f0f6fc" text-anchor="middle">119</text>
-        <rect x="116" y="45" width="14" height="35" rx="2" fill="#c41e2a"/>
+        <text x="123" y="48" font-size="9" fill="#f0f6fc" text-anchor="middle">108</text>
+        <rect x="116" y="51" width="14" height="29" rx="2" fill="#c41e2a"/>
         <text x="123" y="100" font-size="9" fill="#e6edf3" text-anchor="middle">T</text>
-        <text x="147" y="43" font-size="9" fill="#f0f6fc" text-anchor="middle">113</text>
-        <rect x="140" y="46" width="14" height="34" rx="2" fill="#c41e2a"/>
+        <text x="147" y="50" font-size="9" fill="#f0f6fc" text-anchor="middle">102</text>
+        <rect x="140" y="53" width="14" height="27" rx="2" fill="#c41e2a"/>
         <text x="147" y="100" font-size="9" fill="#e6edf3" text-anchor="middle">F</text>
-        <text x="171" y="38" font-size="9" fill="#f0f6fc" text-anchor="middle">132</text>
-        <rect x="164" y="41" width="14" height="39" rx="2" fill="#c41e2a"/>
+        <text x="171" y="41" font-size="9" fill="#f0f6fc" text-anchor="middle">136</text>
+        <rect x="164" y="44" width="14" height="36" rx="2" fill="#c41e2a"/>
         <text x="171" y="100" font-size="9" fill="#e6edf3" text-anchor="middle">S</text>
       </g>
     </g>
@@ -6807,10 +6807,10 @@
     <g class="streak-group streak-group-2025" transform="translate(320, 5)">
       <path d="M8.5 14.5A2.5 2.5 0 0 0 11 12c0-1.38-.5-2-1-3-1.072-2.143-.224-4.054 2-6 .5 2.5 2 4.9 4 6.5 2 1.6 3 3.5 3 5.5a7 7 0 1 1-14 0c0-1.153.433-2.294 1-3a2.5 2.5 0 0 0 2.5 2.5z"
             stroke="#ed1c24" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" fill="#ed1c24" fill-opacity="0.2" transform="scale(0.75)"/>
-      <text x="18" y="13" font-size="14" font-weight="500" fill="#7d8590">41 Day Streak</text>
+      <text x="18" y="13" font-size="14" font-weight="500" fill="#7d8590">37 Day Streak</text>
       <g class="streak-tooltip" transform="translate(0, -45)">
         <rect x="-10" y="0" width="180" height="36" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
-        <text x="5" y="23" font-size="12" fill="#f0f6fc">2025-07-12 → 2025-08-21</text>
+        <text x="5" y="23" font-size="12" fill="#f0f6fc">2025-01-25 → 2025-03-02</text>
       </g>
     </g>
     
@@ -6898,7 +6898,7 @@
     </g>
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell"
+        <rect class="cell streak-cell streak-cell-2025"
           x="68"
           y="0"
           width="14"
@@ -6917,7 +6917,7 @@
     </g>
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell"
+        <rect class="cell streak-cell streak-cell-2025"
           x="85"
           y="0"
           width="14"
@@ -6939,7 +6939,7 @@
     </g>
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell"
+        <rect class="cell streak-cell streak-cell-2025"
           x="102"
           y="0"
           width="14"
@@ -6961,7 +6961,7 @@
     </g>
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell"
+        <rect class="cell streak-cell streak-cell-2025"
           x="119"
           y="0"
           width="14"
@@ -6983,7 +6983,7 @@
     </g>
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell"
+        <rect class="cell streak-cell streak-cell-2025"
           x="136"
           y="0"
           width="14"
@@ -7006,7 +7006,7 @@
     </g>
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell"
+        <rect class="cell streak-cell streak-cell-2025"
           x="153"
           y="0"
           width="14"
@@ -7033,18 +7033,17 @@
           rx="2"
           fill="#c41e2a"
         />
-        <g class="tooltip-group" transform="translate(170, -190)">
-          <rect x="0" y="0" width="280" height="182" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(170, -172)">
+          <rect x="0" y="0" width="280" height="164" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Sun, 9. Mar 2025: 8 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Sun, 9. Mar 2025: 7 items watched</tspan>
+            <tspan x="10" dy="18">• Starsky &amp; Hutch (2004)</tspan>
             <tspan x="10" dy="18">• Severance S02E02 (2022)</tspan>
             <tspan x="10" dy="18">• Severance S02E01 (2022)</tspan>
             <tspan x="10" dy="18">• Severance S01E09 (2022)</tspan>
             <tspan x="10" dy="18">• Severance S01E08 (2022)</tspan>
             <tspan x="10" dy="18">• Severance S01E07 (2022)</tspan>
             <tspan x="10" dy="18">• Severance S01E06 (2022)</tspan>
-            <tspan x="10" dy="18">• Severance S01E05 (2022)</tspan>
-            <tspan x="10" dy="18">• Severance S01E04 (2022)</tspan>
           </text>
         </g>
       </a>
@@ -7059,16 +7058,15 @@
           rx="2"
           fill="#8b1a22"
         />
-        <g class="tooltip-group" transform="translate(187, -154)">
-          <rect x="0" y="0" width="280" height="146" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(187, -136)">
+          <rect x="0" y="0" width="280" height="128" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Sun, 16. Mar 2025: 6 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Sun, 16. Mar 2025: 5 items watched</tspan>
             <tspan x="10" dy="18">• Severance S02E08 (2022)</tspan>
             <tspan x="10" dy="18">• Two and a Half Men S05E16 (2003)</tspan>
             <tspan x="10" dy="18">• Malcolm in the Middle S05E03 (2000)</tspan>
             <tspan x="10" dy="18">• Malcolm in the Middle S02E01 (2000)</tspan>
             <tspan x="10" dy="18">• Mac &amp; Devin Go to High School (2012)</tspan>
-            <tspan x="10" dy="18">• Severance S02E07 (2022)</tspan>
           </text>
         </g>
       </a>
@@ -7083,13 +7081,12 @@
           rx="2"
           fill="#5c1015"
         />
-        <g class="tooltip-group" transform="translate(204, -100)">
-          <rect x="0" y="0" width="280" height="92" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(204, -82)">
+          <rect x="0" y="0" width="280" height="74" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Sun, 23. Mar 2025: 3 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Sun, 23. Mar 2025: 2 items watched</tspan>
             <tspan x="10" dy="18">• The Nutty Professor (1996)</tspan>
             <tspan x="10" dy="18">• Extract (2009)</tspan>
-            <tspan x="10" dy="18">• The Girl Who Leapt Through Time (2006)</tspan>
           </text>
         </g>
       </a>
@@ -7263,12 +7260,11 @@
           rx="2"
           fill="#5c1015"
         />
-        <g class="tooltip-group" transform="translate(357, -82)">
-          <rect x="0" y="0" width="280" height="74" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(357, -64)">
+          <rect x="0" y="0" width="280" height="56" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Sun, 25. May 2025: 2 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Sun, 25. May 2025: 1 item watched</tspan>
             <tspan x="10" dy="18">• Things Are Tough All Over (1982)</tspan>
-            <tspan x="10" dy="18">• Landman S01E01 (2024)</tspan>
           </text>
         </g>
       </a>
@@ -7321,12 +7317,11 @@
           rx="2"
           fill="#5c1015"
         />
-        <g class="tooltip-group" transform="translate(408, -82)">
-          <rect x="0" y="0" width="315" height="74" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(408, -64)">
+          <rect x="0" y="0" width="315" height="56" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Sun, 15. Jun 2025: 2 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Sun, 15. Jun 2025: 1 item watched</tspan>
             <tspan x="10" dy="18">• The Place Promised in Our Early Days (2004)</tspan>
-            <tspan x="10" dy="18">• The Adjustment Bureau (2011)</tspan>
           </text>
         </g>
       </a>
@@ -7339,13 +7334,12 @@
           width="14"
           height="14"
           rx="2"
-          fill="#5c1015"
+          fill="#161b22"
         />
-        <g class="tooltip-group" transform="translate(425, -64)">
-          <rect x="0" y="0" width="280" height="56" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(425, -46)">
+          <rect x="0" y="0" width="280" height="38" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Sun, 22. Jun 2025: 1 item watched</tspan>
-            <tspan x="10" dy="18">• Land of the Lost (2009)</tspan>
+            <tspan x="10" dy="22" font-weight="600">Sun, 22. Jun 2025: 0 items watched</tspan>
           </text>
         </g>
       </a>
@@ -7390,7 +7384,7 @@
     </g>
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell streak-cell streak-cell-2025"
+        <rect class="cell"
           x="476"
           y="0"
           width="14"
@@ -7410,7 +7404,7 @@
     </g>
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell streak-cell streak-cell-2025"
+        <rect class="cell"
           x="493"
           y="0"
           width="14"
@@ -7432,7 +7426,7 @@
     </g>
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell streak-cell streak-cell-2025"
+        <rect class="cell"
           x="510"
           y="0"
           width="14"
@@ -7453,41 +7447,47 @@
     </g>
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell streak-cell streak-cell-2025"
+        <rect class="cell"
           x="527"
           y="0"
           width="14"
           height="14"
           rx="2"
-          fill="#8b1a22"
+          fill="#c41e2a"
         />
-        <g class="tooltip-group" transform="translate(527, -136)">
-          <rect x="0" y="0" width="280" height="128" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(527, -172)">
+          <rect x="0" y="0" width="280" height="164" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Sun, 3. Aug 2025: 5 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Sun, 3. Aug 2025: 7 items watched</tspan>
+            <tspan x="10" dy="18">• Malcolm in the Middle S05E12 (2000)</tspan>
+            <tspan x="10" dy="18">• Malcolm in the Middle S05E11 (2000)</tspan>
+            <tspan x="10" dy="18">• Malcolm in the Middle S05E10 (2000)</tspan>
+            <tspan x="10" dy="18">• Wayward Pines S01E05 (2015)</tspan>
+            <tspan x="10" dy="18">• Karate Kid: Legends (2025)</tspan>
             <tspan x="10" dy="18">• Malcolm in the Middle S05E09 (2000)</tspan>
             <tspan x="10" dy="18">• Malcolm in the Middle S05E08 (2000)</tspan>
-            <tspan x="10" dy="18">• Freaks and Geeks S01E03 (1999)</tspan>
-            <tspan x="10" dy="18">• The Midnight Gospel S01E02 (2020)</tspan>
-            <tspan x="10" dy="18">• The Midnight Gospel S01E01 (2020)</tspan>
           </text>
         </g>
       </a>
     </g>
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell streak-cell streak-cell-2025"
+        <rect class="cell"
           x="544"
           y="0"
           width="14"
           height="14"
           rx="2"
-          fill="#5c1015"
+          fill="#8b1a22"
         />
-        <g class="tooltip-group" transform="translate(544, -64)">
-          <rect x="0" y="0" width="280" height="56" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(544, -136)">
+          <rect x="0" y="0" width="280" height="128" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Sun, 10. Aug 2025: 1 item watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Sun, 10. Aug 2025: 5 items watched</tspan>
+            <tspan x="10" dy="18">• Malcolm in the Middle S06E16 (2000)</tspan>
+            <tspan x="10" dy="18">• Malcolm in the Middle S06E15 (2000)</tspan>
+            <tspan x="10" dy="18">• Malcolm in the Middle S06E14 (2000)</tspan>
+            <tspan x="10" dy="18">• Slackers (2002)</tspan>
             <tspan x="10" dy="18">• Malcolm in the Middle S06E12 (2000)</tspan>
           </text>
         </g>
@@ -7495,18 +7495,21 @@
     </g>
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell streak-cell streak-cell-2025"
+        <rect class="cell"
           x="561"
           y="0"
           width="14"
           height="14"
           rx="2"
-          fill="#5c1015"
+          fill="#8b1a22"
         />
-        <g class="tooltip-group" transform="translate(561, -100)">
-          <rect x="0" y="0" width="280" height="92" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(561, -154)">
+          <rect x="0" y="0" width="280" height="146" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Sun, 17. Aug 2025: 3 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Sun, 17. Aug 2025: 6 items watched</tspan>
+            <tspan x="10" dy="18">• Malcolm in the Middle S07E18 (2000)</tspan>
+            <tspan x="10" dy="18">• Malcolm in the Middle S07E17 (2000)</tspan>
+            <tspan x="10" dy="18">• Malcolm in the Middle S07E16 (2000)</tspan>
             <tspan x="10" dy="18">• Superman (2025)</tspan>
             <tspan x="10" dy="18">• Malcolm in the Middle S07E15 (2000)</tspan>
             <tspan x="10" dy="18">• Sorority Boys (2002)</tspan>
@@ -7522,12 +7525,16 @@
           width="14"
           height="14"
           rx="2"
-          fill="#c41e2a"
+          fill="#ed1c24"
         />
-        <g class="tooltip-group" transform="translate(578, -172)">
-          <rect x="0" y="0" width="280" height="164" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(578, -244)">
+          <rect x="0" y="0" width="280" height="236" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Sun, 24. Aug 2025: 7 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Sun, 24. Aug 2025: 11 items watched</tspan>
+            <tspan x="10" dy="18">• Two and a Half Men S01E10 (2003)</tspan>
+            <tspan x="10" dy="18">• Two and a Half Men S01E09 (2003)</tspan>
+            <tspan x="10" dy="18">• Two and a Half Men S01E08 (2003)</tspan>
+            <tspan x="10" dy="18">• Legally Blonde (2001)</tspan>
             <tspan x="10" dy="18">• Two and a Half Men S01E06 (2003)</tspan>
             <tspan x="10" dy="18">• Two and a Half Men S01E05 (2003)</tspan>
             <tspan x="10" dy="18">• Two and a Half Men S01E04 (2003)</tspan>
@@ -7547,15 +7554,17 @@
           width="14"
           height="14"
           rx="2"
-          fill="#5c1015"
+          fill="#8b1a22"
         />
-        <g class="tooltip-group" transform="translate(595, -100)">
-          <rect x="0" y="0" width="280" height="92" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(595, -136)">
+          <rect x="0" y="0" width="280" height="128" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Sun, 31. Aug 2025: 3 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Sun, 31. Aug 2025: 5 items watched</tspan>
+            <tspan x="10" dy="18">• Two and a Half Men S02E05 (2003)</tspan>
+            <tspan x="10" dy="18">• Barb &amp; Star Go to Vista Del Mar (2021)</tspan>
+            <tspan x="10" dy="18">• The Gentlemen (2020)</tspan>
             <tspan x="10" dy="18">• Two and a Half Men S02E04 (2003)</tspan>
             <tspan x="10" dy="18">• Two and a Half Men S02E02 (2003)</tspan>
-            <tspan x="10" dy="18">• Dexter S01E06 (2006)</tspan>
           </text>
         </g>
       </a>
@@ -7570,14 +7579,15 @@
           rx="2"
           fill="#8b1a22"
         />
-        <g class="tooltip-group" transform="translate(612, -118)">
-          <rect x="0" y="0" width="280" height="110" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(612, -136)">
+          <rect x="0" y="0" width="280" height="128" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Sun, 7. Sep 2025: 4 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Sun, 7. Sep 2025: 5 items watched</tspan>
+            <tspan x="10" dy="18">• Two and a Half Men S03E10 (2003)</tspan>
+            <tspan x="10" dy="18">• Two and a Half Men S03E09 (2003)</tspan>
             <tspan x="10" dy="18">• Dexter S01E12 (2006)</tspan>
             <tspan x="10" dy="18">• Dexter S01E11 (2006)</tspan>
             <tspan x="10" dy="18">• Two and a Half Men S03E07 (2003)</tspan>
-            <tspan x="10" dy="18">• Nobody 2 (2025)</tspan>
           </text>
         </g>
       </a>
@@ -7590,12 +7600,16 @@
           width="14"
           height="14"
           rx="2"
-          fill="#8b1a22"
+          fill="#c41e2a"
         />
-        <g class="tooltip-group" transform="translate(629, -136)">
-          <rect x="0" y="0" width="280" height="128" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(629, -208)">
+          <rect x="0" y="0" width="280" height="200" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Sun, 14. Sep 2025: 5 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Sun, 14. Sep 2025: 9 items watched</tspan>
+            <tspan x="10" dy="18">• Two and a Half Men S04E19 (2003)</tspan>
+            <tspan x="10" dy="18">• Two and a Half Men S04E18 (2003)</tspan>
+            <tspan x="10" dy="18">• Two and a Half Men S04E17 (2003)</tspan>
+            <tspan x="10" dy="18">• Two and a Half Men S04E16 (2003)</tspan>
             <tspan x="10" dy="18">• Two and a Half Men S04E15 (2003)</tspan>
             <tspan x="10" dy="18">• Two and a Half Men S04E14 (2003)</tspan>
             <tspan x="10" dy="18">• Two and a Half Men S04E13 (2003)</tspan>
@@ -7613,20 +7627,22 @@
           width="14"
           height="14"
           rx="2"
-          fill="#c41e2a"
+          fill="#ed1c24"
         />
-        <g class="tooltip-group" transform="translate(646, -190)">
-          <rect x="0" y="0" width="280" height="182" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(646, -226)">
+          <rect x="0" y="0" width="280" height="218" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Sun, 21. Sep 2025: 8 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Sun, 21. Sep 2025: 10 items watched</tspan>
+            <tspan x="10" dy="18">• Two and a Half Men S06E06 (2003)</tspan>
+            <tspan x="10" dy="18">• Two and a Half Men S06E05 (2003)</tspan>
+            <tspan x="10" dy="18">• Two and a Half Men S06E04 (2003)</tspan>
+            <tspan x="10" dy="18">• Two and a Half Men S06E03 (2003)</tspan>
             <tspan x="10" dy="18">• Dexter S02E03 (2006)</tspan>
             <tspan x="10" dy="18">• Two and a Half Men S06E02 (2003)</tspan>
             <tspan x="10" dy="18">• Two and a Half Men S06E01 (2003)</tspan>
             <tspan x="10" dy="18">• Two and a Half Men S05E19 (2003)</tspan>
             <tspan x="10" dy="18">• Dexter S02E02 (2006)</tspan>
             <tspan x="10" dy="18">• Loser (2000)</tspan>
-            <tspan x="10" dy="18">• Two and a Half Men S05E18 (2003)</tspan>
-            <tspan x="10" dy="18">• Two and a Half Men S05E17 (2003)</tspan>
           </text>
         </g>
       </a>
@@ -7645,13 +7661,13 @@
           <rect x="0" y="0" width="280" height="164" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
             <tspan x="10" dy="22" font-weight="600">Sun, 28. Sep 2025: 7 items watched</tspan>
+            <tspan x="10" dy="18">• 3 Body Problem S01E07 (2024)</tspan>
             <tspan x="10" dy="18">• 3 Body Problem S01E06 (2024)</tspan>
             <tspan x="10" dy="18">• 3 Body Problem S01E05 (2024)</tspan>
             <tspan x="10" dy="18">• 3 Body Problem S01E04 (2024)</tspan>
             <tspan x="10" dy="18">• Two and a Half Men S07E16 (2003)</tspan>
             <tspan x="10" dy="18">• 3 Body Problem S01E03 (2024)</tspan>
             <tspan x="10" dy="18">• 3 Body Problem S01E02 (2024)</tspan>
-            <tspan x="10" dy="18">• 3 Body Problem S01E01 (2024)</tspan>
           </text>
         </g>
       </a>
@@ -7705,12 +7721,11 @@
           rx="2"
           fill="#5c1015"
         />
-        <g class="tooltip-group" transform="translate(659, -82)">
-          <rect x="0" y="0" width="280" height="74" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(659, -64)">
+          <rect x="0" y="0" width="280" height="56" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Sun, 19. Oct 2025: 2 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Sun, 19. Oct 2025: 1 item watched</tspan>
             <tspan x="10" dy="18">• Drive (2011)</tspan>
-            <tspan x="10" dy="18">• The A-Team (2010)</tspan>
           </text>
         </g>
       </a>
@@ -7846,10 +7861,12 @@
           rx="2"
           fill="#8b1a22"
         />
-        <g class="tooltip-group" transform="translate(596, -118)">
-          <rect x="0" y="0" width="343" height="110" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(596, -154)">
+          <rect x="0" y="0" width="343" height="146" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Sun, 7. Dec 2025: 4 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Sun, 7. Dec 2025: 6 items watched</tspan>
+            <tspan x="10" dy="18">• The Simpsons S06E09 (1989)</tspan>
+            <tspan x="10" dy="18">• The Pitt S01E03 (2025)</tspan>
             <tspan x="10" dy="18">• The Pitt S01E02 (2025)</tspan>
             <tspan x="10" dy="18">• The Pitt S01E01 (2025)</tspan>
             <tspan x="10" dy="18">• The Simpsons S06E07 (1989)</tspan>
@@ -7866,12 +7883,14 @@
           width="14"
           height="14"
           rx="2"
-          fill="#5c1015"
+          fill="#8b1a22"
         />
-        <g class="tooltip-group" transform="translate(659, -100)">
-          <rect x="0" y="0" width="280" height="92" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(659, -136)">
+          <rect x="0" y="0" width="280" height="128" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Sun, 14. Dec 2025: 3 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Sun, 14. Dec 2025: 5 items watched</tspan>
+            <tspan x="10" dy="18">• The Simpsons S07E02 (1989)</tspan>
+            <tspan x="10" dy="18">• The Simpsons S07E01 (1989)</tspan>
             <tspan x="10" dy="18">• The Simpsons S06E25 (1989)</tspan>
             <tspan x="10" dy="18">• The Simpsons S06E24 (1989)</tspan>
             <tspan x="10" dy="18">• The Simpsons S06E23 (1989)</tspan>
@@ -7983,7 +8002,7 @@
     </g>
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell"
+        <rect class="cell streak-cell streak-cell-2025"
           x="68"
           y="17"
           width="14"
@@ -8003,7 +8022,7 @@
     </g>
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell"
+        <rect class="cell streak-cell streak-cell-2025"
           x="85"
           y="17"
           width="14"
@@ -8023,7 +8042,7 @@
     </g>
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell"
+        <rect class="cell streak-cell streak-cell-2025"
           x="102"
           y="17"
           width="14"
@@ -8042,7 +8061,7 @@
     </g>
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell"
+        <rect class="cell streak-cell streak-cell-2025"
           x="119"
           y="17"
           width="14"
@@ -8061,7 +8080,7 @@
     </g>
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell"
+        <rect class="cell streak-cell streak-cell-2025"
           x="136"
           y="17"
           width="14"
@@ -8108,16 +8127,15 @@
           rx="2"
           fill="#8b1a22"
         />
-        <g class="tooltip-group" transform="translate(170, -137)">
-          <rect x="0" y="0" width="280" height="146" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(170, -119)">
+          <rect x="0" y="0" width="280" height="128" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Mon, 10. Mar 2025: 6 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Mon, 10. Mar 2025: 5 items watched</tspan>
             <tspan x="10" dy="18">• Two and a Half Men S03E14 (2003)</tspan>
             <tspan x="10" dy="18">• Two and a Half Men S01E07 (2003)</tspan>
             <tspan x="10" dy="18">• Two and a Half Men S08E01 (2003)</tspan>
             <tspan x="10" dy="18">• Two and a Half Men S02E11 (2003)</tspan>
             <tspan x="10" dy="18">• Smiley Face (2007)</tspan>
-            <tspan x="10" dy="18">• Starsky &amp; Hutch (2004)</tspan>
           </text>
         </g>
       </a>
@@ -8398,10 +8416,11 @@
           rx="2"
           fill="#5c1015"
         />
-        <g class="tooltip-group" transform="translate(408, -47)">
-          <rect x="0" y="0" width="280" height="56" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(408, -65)">
+          <rect x="0" y="0" width="280" height="74" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Mon, 16. Jun 2025: 1 item watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Mon, 16. Jun 2025: 2 items watched</tspan>
+            <tspan x="10" dy="18">• Pitch Perfect (2012)</tspan>
             <tspan x="10" dy="18">• The To Do List (2013)</tspan>
           </text>
         </g>
@@ -8466,7 +8485,7 @@
     </g>
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell streak-cell streak-cell-2025"
+        <rect class="cell"
           x="476"
           y="17"
           width="14"
@@ -8493,7 +8512,7 @@
     </g>
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell streak-cell streak-cell-2025"
+        <rect class="cell"
           x="493"
           y="17"
           width="14"
@@ -8514,7 +8533,7 @@
     </g>
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell streak-cell streak-cell-2025"
+        <rect class="cell"
           x="510"
           y="17"
           width="14"
@@ -8522,10 +8541,11 @@
           rx="2"
           fill="#c41e2a"
         />
-        <g class="tooltip-group" transform="translate(510, -155)">
-          <rect x="0" y="0" width="336" height="164" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(510, -173)">
+          <rect x="0" y="0" width="336" height="182" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Mon, 28. Jul 2025: 7 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Mon, 28. Jul 2025: 8 items watched</tspan>
+            <tspan x="10" dy="18">• M3GAN 2.0 (2025)</tspan>
             <tspan x="10" dy="18">• Reservoir Dogs (1992)</tspan>
             <tspan x="10" dy="18">• Malcolm in the Middle S04E21 (2000)</tspan>
             <tspan x="10" dy="18">• Malcolm in the Middle S04E20 (2000)</tspan>
@@ -8539,52 +8559,49 @@
     </g>
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell streak-cell streak-cell-2025"
+        <rect class="cell"
           x="527"
           y="17"
           width="14"
           height="14"
           rx="2"
-          fill="#8b1a22"
+          fill="#5c1015"
         />
-        <g class="tooltip-group" transform="translate(527, -119)">
-          <rect x="0" y="0" width="280" height="128" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(527, -83)">
+          <rect x="0" y="0" width="280" height="92" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Mon, 4. Aug 2025: 5 items watched</tspan>
-            <tspan x="10" dy="18">• Malcolm in the Middle S05E12 (2000)</tspan>
-            <tspan x="10" dy="18">• Malcolm in the Middle S05E11 (2000)</tspan>
-            <tspan x="10" dy="18">• Malcolm in the Middle S05E10 (2000)</tspan>
-            <tspan x="10" dy="18">• Wayward Pines S01E05 (2015)</tspan>
-            <tspan x="10" dy="18">• Karate Kid: Legends (2025)</tspan>
+            <tspan x="10" dy="22" font-weight="600">Mon, 4. Aug 2025: 3 items watched</tspan>
+            <tspan x="10" dy="18">• Malcolm in the Middle S05E17 (2000)</tspan>
+            <tspan x="10" dy="18">• Malcolm in the Middle S05E16 (2000)</tspan>
+            <tspan x="10" dy="18">• Malcolm in the Middle S05E15 (2000)</tspan>
           </text>
         </g>
       </a>
     </g>
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell streak-cell streak-cell-2025"
+        <rect class="cell"
           x="544"
           y="17"
           width="14"
           height="14"
           rx="2"
-          fill="#8b1a22"
+          fill="#5c1015"
         />
-        <g class="tooltip-group" transform="translate(544, -101)">
-          <rect x="0" y="0" width="280" height="110" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(544, -83)">
+          <rect x="0" y="0" width="280" height="92" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Mon, 11. Aug 2025: 4 items watched</tspan>
-            <tspan x="10" dy="18">• Malcolm in the Middle S06E16 (2000)</tspan>
-            <tspan x="10" dy="18">• Malcolm in the Middle S06E15 (2000)</tspan>
-            <tspan x="10" dy="18">• Malcolm in the Middle S06E14 (2000)</tspan>
-            <tspan x="10" dy="18">• Slackers (2002)</tspan>
+            <tspan x="10" dy="22" font-weight="600">Mon, 11. Aug 2025: 3 items watched</tspan>
+            <tspan x="10" dy="18">• Malcolm in the Middle S06E22 (2000)</tspan>
+            <tspan x="10" dy="18">• Malcolm in the Middle S06E21 (2000)</tspan>
+            <tspan x="10" dy="18">• Malcolm in the Middle S06E20 (2000)</tspan>
           </text>
         </g>
       </a>
     </g>
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell streak-cell streak-cell-2025"
+        <rect class="cell"
           x="561"
           y="17"
           width="14"
@@ -8596,9 +8613,9 @@
           <rect x="0" y="0" width="280" height="92" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
             <tspan x="10" dy="22" font-weight="600">Mon, 18. Aug 2025: 3 items watched</tspan>
-            <tspan x="10" dy="18">• Malcolm in the Middle S07E18 (2000)</tspan>
-            <tspan x="10" dy="18">• Malcolm in the Middle S07E17 (2000)</tspan>
-            <tspan x="10" dy="18">• Malcolm in the Middle S07E16 (2000)</tspan>
+            <tspan x="10" dy="18">• Malcolm in the Middle S07E21 (2000)</tspan>
+            <tspan x="10" dy="18">• Malcolm in the Middle S07E20 (2000)</tspan>
+            <tspan x="10" dy="18">• Malcolm in the Middle S07E19 (2000)</tspan>
           </text>
         </g>
       </a>
@@ -8611,16 +8628,15 @@
           width="14"
           height="14"
           rx="2"
-          fill="#8b1a22"
+          fill="#5c1015"
         />
-        <g class="tooltip-group" transform="translate(578, -101)">
-          <rect x="0" y="0" width="280" height="110" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(578, -83)">
+          <rect x="0" y="0" width="280" height="92" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Mon, 25. Aug 2025: 4 items watched</tspan>
-            <tspan x="10" dy="18">• Two and a Half Men S01E10 (2003)</tspan>
-            <tspan x="10" dy="18">• Two and a Half Men S01E09 (2003)</tspan>
-            <tspan x="10" dy="18">• Two and a Half Men S01E08 (2003)</tspan>
-            <tspan x="10" dy="18">• Legally Blonde (2001)</tspan>
+            <tspan x="10" dy="22" font-weight="600">Mon, 25. Aug 2025: 3 items watched</tspan>
+            <tspan x="10" dy="18">• Two and a Half Men S01E12 (2003)</tspan>
+            <tspan x="10" dy="18">• Two and a Half Men S01E11 (2003)</tspan>
+            <tspan x="10" dy="18">• Dexter S01E01 (2006)</tspan>
           </text>
         </g>
       </a>
@@ -8639,12 +8655,12 @@
           <rect x="0" y="0" width="280" height="146" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
             <tspan x="10" dy="22" font-weight="600">Mon, 1. Sep 2025: 6 items watched</tspan>
+            <tspan x="10" dy="18">• Two and a Half Men S02E12 (2003)</tspan>
+            <tspan x="10" dy="18">• Two and a Half Men S02E10 (2003)</tspan>
+            <tspan x="10" dy="18">• Dexter S01E07 (2006)</tspan>
             <tspan x="10" dy="18">• Two and a Half Men S02E08 (2003)</tspan>
             <tspan x="10" dy="18">• Two and a Half Men S02E07 (2003)</tspan>
             <tspan x="10" dy="18">• Two and a Half Men S02E06 (2003)</tspan>
-            <tspan x="10" dy="18">• Two and a Half Men S02E05 (2003)</tspan>
-            <tspan x="10" dy="18">• Barb &amp; Star Go to Vista Del Mar (2021)</tspan>
-            <tspan x="10" dy="18">• The Gentlemen (2020)</tspan>
           </text>
         </g>
       </a>
@@ -8663,8 +8679,8 @@
           <rect x="0" y="0" width="280" height="74" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
             <tspan x="10" dy="22" font-weight="600">Mon, 8. Sep 2025: 2 items watched</tspan>
-            <tspan x="10" dy="18">• Two and a Half Men S03E10 (2003)</tspan>
-            <tspan x="10" dy="18">• Two and a Half Men S03E09 (2003)</tspan>
+            <tspan x="10" dy="18">• Two and a Half Men S03E13 (2003)</tspan>
+            <tspan x="10" dy="18">• Bubble Boy (2001)</tspan>
           </text>
         </g>
       </a>
@@ -8677,20 +8693,17 @@
           width="14"
           height="14"
           rx="2"
-          fill="#c41e2a"
+          fill="#8b1a22"
         />
-        <g class="tooltip-group" transform="translate(629, -173)">
-          <rect x="0" y="0" width="280" height="182" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(629, -119)">
+          <rect x="0" y="0" width="280" height="128" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Mon, 15. Sep 2025: 8 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Mon, 15. Sep 2025: 5 items watched</tspan>
+            <tspan x="10" dy="18">• Two and a Half Men S04E22 (2003)</tspan>
             <tspan x="10" dy="18">• Two and a Half Men S04E21 (2003)</tspan>
             <tspan x="10" dy="18">• Two and a Half Men S04E20 (2003)</tspan>
             <tspan x="10" dy="18">• Mystery Men (1999)</tspan>
             <tspan x="10" dy="18">• Big Stan (2007)</tspan>
-            <tspan x="10" dy="18">• Two and a Half Men S04E19 (2003)</tspan>
-            <tspan x="10" dy="18">• Two and a Half Men S04E18 (2003)</tspan>
-            <tspan x="10" dy="18">• Two and a Half Men S04E17 (2003)</tspan>
-            <tspan x="10" dy="18">• Two and a Half Men S04E16 (2003)</tspan>
           </text>
         </g>
       </a>
@@ -8705,16 +8718,15 @@
           rx="2"
           fill="#8b1a22"
         />
-        <g class="tooltip-group" transform="translate(646, -137)">
-          <rect x="0" y="0" width="280" height="146" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(646, -119)">
+          <rect x="0" y="0" width="280" height="128" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Mon, 22. Sep 2025: 6 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Mon, 22. Sep 2025: 5 items watched</tspan>
+            <tspan x="10" dy="18">• Two and a Half Men S06E10 (2003)</tspan>
+            <tspan x="10" dy="18">• Two and a Half Men S06E09 (2003)</tspan>
+            <tspan x="10" dy="18">• Two and a Half Men S06E08 (2003)</tspan>
             <tspan x="10" dy="18">• Dexter S02E04 (2006)</tspan>
             <tspan x="10" dy="18">• Two and a Half Men S06E07 (2003)</tspan>
-            <tspan x="10" dy="18">• Two and a Half Men S06E06 (2003)</tspan>
-            <tspan x="10" dy="18">• Two and a Half Men S06E05 (2003)</tspan>
-            <tspan x="10" dy="18">• Two and a Half Men S06E04 (2003)</tspan>
-            <tspan x="10" dy="18">• Two and a Half Men S06E03 (2003)</tspan>
           </text>
         </g>
       </a>
@@ -8729,12 +8741,11 @@
           rx="2"
           fill="#5c1015"
         />
-        <g class="tooltip-group" transform="translate(659, -65)">
-          <rect x="0" y="0" width="280" height="74" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(659, -47)">
+          <rect x="0" y="0" width="280" height="56" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Mon, 29. Sep 2025: 2 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Mon, 29. Sep 2025: 1 item watched</tspan>
             <tspan x="10" dy="18">• 3 Body Problem S01E08 (2024)</tspan>
-            <tspan x="10" dy="18">• 3 Body Problem S01E07 (2024)</tspan>
           </text>
         </g>
       </a>
@@ -8787,10 +8798,11 @@
           rx="2"
           fill="#5c1015"
         />
-        <g class="tooltip-group" transform="translate(659, -65)">
-          <rect x="0" y="0" width="280" height="74" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(617, -83)">
+          <rect x="0" y="0" width="322" height="92" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Mon, 20. Oct 2025: 2 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Mon, 20. Oct 2025: 3 items watched</tspan>
+            <tspan x="10" dy="18">• Austin Powers: The Spy Who Shagged Me (1999)</tspan>
             <tspan x="10" dy="18">• Blade Runner (1982)</tspan>
             <tspan x="10" dy="18">• Riders of Justice (2020)</tspan>
           </text>
@@ -8844,10 +8856,11 @@
           rx="2"
           fill="#5c1015"
         />
-        <g class="tooltip-group" transform="translate(659, -65)">
-          <rect x="0" y="0" width="280" height="74" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(659, -83)">
+          <rect x="0" y="0" width="280" height="92" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Mon, 10. Nov 2025: 2 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Mon, 10. Nov 2025: 3 items watched</tspan>
+            <tspan x="10" dy="18">• Euphorie S01E01 (2025)</tspan>
             <tspan x="10" dy="18">• John Wick: Chapter 2 (2017)</tspan>
             <tspan x="10" dy="18">• Pluribus S01E01 (2025)</tspan>
           </text>
@@ -8928,11 +8941,11 @@
           <rect x="0" y="0" width="280" height="128" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
             <tspan x="10" dy="22" font-weight="600">Mon, 8. Dec 2025: 5 items watched</tspan>
+            <tspan x="10" dy="18">• The Simpsons S06E14 (1989)</tspan>
+            <tspan x="10" dy="18">• The Simpsons S06E13 (1989)</tspan>
             <tspan x="10" dy="18">• IT: Welcome to Derry S01E07 (2025)</tspan>
             <tspan x="10" dy="18">• The Simpsons S06E11 (1989)</tspan>
             <tspan x="10" dy="18">• The Simpsons S06E10 (1989)</tspan>
-            <tspan x="10" dy="18">• The Simpsons S06E09 (1989)</tspan>
-            <tspan x="10" dy="18">• The Pitt S01E03 (2025)</tspan>
           </text>
         </g>
       </a>
@@ -8951,12 +8964,12 @@
           <rect x="0" y="0" width="280" height="146" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
             <tspan x="10" dy="22" font-weight="600">Mon, 15. Dec 2025: 6 items watched</tspan>
+            <tspan x="10" dy="18">• The Simpsons S07E05 (1989)</tspan>
+            <tspan x="10" dy="18">• The Simpsons S07E04 (1989)</tspan>
             <tspan x="10" dy="18">• The Pitt S01E05 (2025)</tspan>
             <tspan x="10" dy="18">• The Pitt S01E04 (2025)</tspan>
             <tspan x="10" dy="18">• IT: Welcome to Derry S01E08 (2025)</tspan>
             <tspan x="10" dy="18">• The Simpsons S07E03 (1989)</tspan>
-            <tspan x="10" dy="18">• The Simpsons S07E02 (1989)</tspan>
-            <tspan x="10" dy="18">• The Simpsons S07E01 (1989)</tspan>
           </text>
         </g>
       </a>
@@ -8971,10 +8984,11 @@
           rx="2"
           fill="#c41e2a"
         />
-        <g class="tooltip-group" transform="translate(659, -155)">
-          <rect x="0" y="0" width="280" height="164" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(659, -173)">
+          <rect x="0" y="0" width="280" height="182" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Mon, 22. Dec 2025: 7 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Mon, 22. Dec 2025: 8 items watched</tspan>
+            <tspan x="10" dy="18">• The Pitt S01E15 (2025)</tspan>
             <tspan x="10" dy="18">• The Pitt S01E14 (2025)</tspan>
             <tspan x="10" dy="18">• The Pitt S01E10 (2025)</tspan>
             <tspan x="10" dy="18">• The Pitt S01E13 (2025)</tspan>
@@ -8996,10 +9010,11 @@
           rx="2"
           fill="#5c1015"
         />
-        <g class="tooltip-group" transform="translate(659, -65)">
-          <rect x="0" y="0" width="280" height="74" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(659, -83)">
+          <rect x="0" y="0" width="280" height="92" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Mon, 29. Dec 2025: 2 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Mon, 29. Dec 2025: 3 items watched</tspan>
+            <tspan x="10" dy="18">• David Holmes: The Boy Who Lived (2023)</tspan>
             <tspan x="10" dy="18">• The Middle S01E18 (2009)</tspan>
             <tspan x="10" dy="18">• The Middle S01E17 (2009)</tspan>
           </text>
@@ -9071,7 +9086,7 @@
     </g>
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell"
+        <rect class="cell streak-cell streak-cell-2025"
           x="68"
           y="34"
           width="14"
@@ -9091,7 +9106,7 @@
     </g>
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell"
+        <rect class="cell streak-cell streak-cell-2025"
           x="85"
           y="34"
           width="14"
@@ -9113,7 +9128,7 @@
     </g>
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell"
+        <rect class="cell streak-cell streak-cell-2025"
           x="102"
           y="34"
           width="14"
@@ -9134,7 +9149,7 @@
     </g>
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell"
+        <rect class="cell streak-cell streak-cell-2025"
           x="119"
           y="34"
           width="14"
@@ -9153,7 +9168,7 @@
     </g>
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell"
+        <rect class="cell streak-cell streak-cell-2025"
           x="136"
           y="34"
           width="14"
@@ -9304,10 +9319,11 @@
           rx="2"
           fill="#5c1015"
         />
-        <g class="tooltip-group" transform="translate(255, -48)">
-          <rect x="0" y="0" width="315" height="74" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(255, -66)">
+          <rect x="0" y="0" width="315" height="92" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Tue, 15. Apr 2025: 2 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Tue, 15. Apr 2025: 3 items watched</tspan>
+            <tspan x="10" dy="18">• The Princess Diaries (2001)</tspan>
             <tspan x="10" dy="18">• Novocaine (2025)</tspan>
             <tspan x="10" dy="18">• The Hitchhiker&apos;s Guide to the Galaxy (2005)</tspan>
           </text>
@@ -9361,10 +9377,11 @@
           rx="2"
           fill="#5c1015"
         />
-        <g class="tooltip-group" transform="translate(306, -48)">
-          <rect x="0" y="0" width="280" height="74" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(306, -66)">
+          <rect x="0" y="0" width="280" height="92" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Tue, 6. May 2025: 2 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Tue, 6. May 2025: 3 items watched</tspan>
+            <tspan x="10" dy="18">• INTIMATE. S02E08 (2023)</tspan>
             <tspan x="10" dy="18">• INTIMATE. S02E07 (2023)</tspan>
             <tspan x="10" dy="18">• Thunderbolts* (2025)</tspan>
           </text>
@@ -9474,13 +9491,12 @@
           width="14"
           height="14"
           rx="2"
-          fill="#5c1015"
+          fill="#161b22"
         />
-        <g class="tooltip-group" transform="translate(408, -30)">
-          <rect x="0" y="0" width="280" height="56" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(408, -12)">
+          <rect x="0" y="0" width="280" height="38" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Tue, 17. Jun 2025: 1 item watched</tspan>
-            <tspan x="10" dy="18">• Pitch Perfect (2012)</tspan>
+            <tspan x="10" dy="22" font-weight="600">Tue, 17. Jun 2025: 0 items watched</tspan>
           </text>
         </g>
       </a>
@@ -9544,7 +9560,7 @@
     </g>
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell streak-cell streak-cell-2025"
+        <rect class="cell"
           x="476"
           y="34"
           width="14"
@@ -9563,7 +9579,7 @@
     </g>
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell streak-cell streak-cell-2025"
+        <rect class="cell"
           x="493"
           y="34"
           width="14"
@@ -9571,10 +9587,11 @@
           rx="2"
           fill="#5c1015"
         />
-        <g class="tooltip-group" transform="translate(493, -30)">
-          <rect x="0" y="0" width="280" height="56" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(493, -48)">
+          <rect x="0" y="0" width="280" height="74" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Tue, 22. Jul 2025: 1 item watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Tue, 22. Jul 2025: 2 items watched</tspan>
+            <tspan x="10" dy="18">• The Grand Budapest Hotel (2014)</tspan>
             <tspan x="10" dy="18">• Little Miss Sunshine (2006)</tspan>
           </text>
         </g>
@@ -9582,7 +9599,7 @@
     </g>
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell streak-cell streak-cell-2025"
+        <rect class="cell"
           x="510"
           y="34"
           width="14"
@@ -9590,19 +9607,18 @@
           rx="2"
           fill="#5c1015"
         />
-        <g class="tooltip-group" transform="translate(510, -48)">
-          <rect x="0" y="0" width="280" height="74" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(510, -30)">
+          <rect x="0" y="0" width="280" height="56" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Tue, 29. Jul 2025: 2 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Tue, 29. Jul 2025: 1 item watched</tspan>
             <tspan x="10" dy="18">• M3GAN (2022)</tspan>
-            <tspan x="10" dy="18">• M3GAN 2.0 (2025)</tspan>
           </text>
         </g>
       </a>
     </g>
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell streak-cell streak-cell-2025"
+        <rect class="cell"
           x="527"
           y="34"
           width="14"
@@ -9614,38 +9630,40 @@
           <rect x="0" y="0" width="280" height="110" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
             <tspan x="10" dy="22" font-weight="600">Tue, 5. Aug 2025: 4 items watched</tspan>
+            <tspan x="10" dy="18">• Malcolm in the Middle S05E21 (2000)</tspan>
+            <tspan x="10" dy="18">• Malcolm in the Middle S05E20 (2000)</tspan>
+            <tspan x="10" dy="18">• Malcolm in the Middle S05E19 (2000)</tspan>
             <tspan x="10" dy="18">• Malcolm in the Middle S05E18 (2000)</tspan>
-            <tspan x="10" dy="18">• Malcolm in the Middle S05E17 (2000)</tspan>
-            <tspan x="10" dy="18">• Malcolm in the Middle S05E16 (2000)</tspan>
-            <tspan x="10" dy="18">• Malcolm in the Middle S05E15 (2000)</tspan>
           </text>
         </g>
       </a>
     </g>
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell streak-cell streak-cell-2025"
+        <rect class="cell"
           x="544"
           y="34"
           width="14"
           height="14"
           rx="2"
-          fill="#5c1015"
+          fill="#8b1a22"
         />
-        <g class="tooltip-group" transform="translate(544, -66)">
-          <rect x="0" y="0" width="280" height="92" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(544, -102)">
+          <rect x="0" y="0" width="280" height="128" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Tue, 12. Aug 2025: 3 items watched</tspan>
-            <tspan x="10" dy="18">• Malcolm in the Middle S06E22 (2000)</tspan>
-            <tspan x="10" dy="18">• Malcolm in the Middle S06E21 (2000)</tspan>
-            <tspan x="10" dy="18">• Malcolm in the Middle S06E20 (2000)</tspan>
+            <tspan x="10" dy="22" font-weight="600">Tue, 12. Aug 2025: 5 items watched</tspan>
+            <tspan x="10" dy="18">• Malcolm in the Middle S07E05 (2000)</tspan>
+            <tspan x="10" dy="18">• Malcolm in the Middle S07E04 (2000)</tspan>
+            <tspan x="10" dy="18">• Malcolm in the Middle S07E03 (2000)</tspan>
+            <tspan x="10" dy="18">• Malcolm in the Middle S07E02 (2000)</tspan>
+            <tspan x="10" dy="18">• Malcolm in the Middle S07E01 (2000)</tspan>
           </text>
         </g>
       </a>
     </g>
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell streak-cell streak-cell-2025"
+        <rect class="cell"
           x="561"
           y="34"
           width="14"
@@ -9653,13 +9671,12 @@
           rx="2"
           fill="#5c1015"
         />
-        <g class="tooltip-group" transform="translate(561, -66)">
-          <rect x="0" y="0" width="280" height="92" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(561, -48)">
+          <rect x="0" y="0" width="280" height="74" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Tue, 19. Aug 2025: 3 items watched</tspan>
-            <tspan x="10" dy="18">• Malcolm in the Middle S07E21 (2000)</tspan>
-            <tspan x="10" dy="18">• Malcolm in the Middle S07E20 (2000)</tspan>
-            <tspan x="10" dy="18">• Malcolm in the Middle S07E19 (2000)</tspan>
+            <tspan x="10" dy="22" font-weight="600">Tue, 19. Aug 2025: 2 items watched</tspan>
+            <tspan x="10" dy="18">• Futurama S01E01 (1999)</tspan>
+            <tspan x="10" dy="18">• Malcolm in the Middle S07E22 (2000)</tspan>
           </text>
         </g>
       </a>
@@ -9674,15 +9691,16 @@
           rx="2"
           fill="#8b1a22"
         />
-        <g class="tooltip-group" transform="translate(578, -102)">
-          <rect x="0" y="0" width="280" height="128" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(578, -120)">
+          <rect x="0" y="0" width="280" height="146" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Tue, 26. Aug 2025: 5 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Tue, 26. Aug 2025: 6 items watched</tspan>
+            <tspan x="10" dy="18">• Two and a Half Men S01E16 (2003)</tspan>
+            <tspan x="10" dy="18">• Two and a Half Men S01E15 (2003)</tspan>
+            <tspan x="10" dy="18">• Two and a Half Men S01E14 (2003)</tspan>
+            <tspan x="10" dy="18">• Dexter S01E03 (2006)</tspan>
             <tspan x="10" dy="18">• Dexter S01E02 (2006)</tspan>
             <tspan x="10" dy="18">• Two and a Half Men S01E13 (2003)</tspan>
-            <tspan x="10" dy="18">• Two and a Half Men S01E12 (2003)</tspan>
-            <tspan x="10" dy="18">• Two and a Half Men S01E11 (2003)</tspan>
-            <tspan x="10" dy="18">• Dexter S01E01 (2006)</tspan>
           </text>
         </g>
       </a>
@@ -9701,10 +9719,10 @@
           <rect x="0" y="0" width="280" height="110" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
             <tspan x="10" dy="22" font-weight="600">Tue, 2. Sep 2025: 4 items watched</tspan>
+            <tspan x="10" dy="18">• Two and a Half Men S02E15 (2003)</tspan>
+            <tspan x="10" dy="18">• Two and a Half Men S02E14 (2003)</tspan>
+            <tspan x="10" dy="18">• Two and a Half Men S02E13 (2003)</tspan>
             <tspan x="10" dy="18">• Dexter S01E08 (2006)</tspan>
-            <tspan x="10" dy="18">• Two and a Half Men S02E12 (2003)</tspan>
-            <tspan x="10" dy="18">• Two and a Half Men S02E10 (2003)</tspan>
-            <tspan x="10" dy="18">• Dexter S01E07 (2006)</tspan>
           </text>
         </g>
       </a>
@@ -9719,14 +9737,15 @@
           rx="2"
           fill="#8b1a22"
         />
-        <g class="tooltip-group" transform="translate(612, -84)">
-          <rect x="0" y="0" width="280" height="110" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(612, -102)">
+          <rect x="0" y="0" width="280" height="128" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Tue, 9. Sep 2025: 4 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Tue, 9. Sep 2025: 5 items watched</tspan>
+            <tspan x="10" dy="18">• Two and a Half Men S03E21 (2003)</tspan>
+            <tspan x="10" dy="18">• Two and a Half Men S03E20 (2003)</tspan>
+            <tspan x="10" dy="18">• Two and a Half Men S03E19 (2003)</tspan>
             <tspan x="10" dy="18">• Two and a Half Men S03E18 (2003)</tspan>
             <tspan x="10" dy="18">• Two and a Half Men S03E15 (2003)</tspan>
-            <tspan x="10" dy="18">• Two and a Half Men S03E13 (2003)</tspan>
-            <tspan x="10" dy="18">• Bubble Boy (2001)</tspan>
           </text>
         </g>
       </a>
@@ -9741,15 +9760,14 @@
           rx="2"
           fill="#8b1a22"
         />
-        <g class="tooltip-group" transform="translate(629, -102)">
-          <rect x="0" y="0" width="280" height="128" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(629, -84)">
+          <rect x="0" y="0" width="280" height="110" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Tue, 16. Sep 2025: 5 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Tue, 16. Sep 2025: 4 items watched</tspan>
             <tspan x="10" dy="18">• Two and a Half Men S05E02 (2003)</tspan>
             <tspan x="10" dy="18">• Two and a Half Men S04E24 (2003)</tspan>
             <tspan x="10" dy="18">• Two and a Half Men S04E23 (2003)</tspan>
             <tspan x="10" dy="18">• Dexter S02E01 (2006)</tspan>
-            <tspan x="10" dy="18">• Two and a Half Men S04E22 (2003)</tspan>
           </text>
         </g>
       </a>
@@ -9762,15 +9780,17 @@
           width="14"
           height="14"
           rx="2"
-          fill="#5c1015"
+          fill="#8b1a22"
         />
-        <g class="tooltip-group" transform="translate(646, -66)">
-          <rect x="0" y="0" width="280" height="92" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(610, -102)">
+          <rect x="0" y="0" width="329" height="128" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Tue, 23. Sep 2025: 3 items watched</tspan>
-            <tspan x="10" dy="18">• Two and a Half Men S06E10 (2003)</tspan>
-            <tspan x="10" dy="18">• Two and a Half Men S06E09 (2003)</tspan>
-            <tspan x="10" dy="18">• Two and a Half Men S06E08 (2003)</tspan>
+            <tspan x="10" dy="22" font-weight="600">Tue, 23. Sep 2025: 5 items watched</tspan>
+            <tspan x="10" dy="18">• Two and a Half Men S06E15 (2003)</tspan>
+            <tspan x="10" dy="18">• Two and a Half Men S06E14 (2003)</tspan>
+            <tspan x="10" dy="18">• Two and a Half Men S06E12 (2003)</tspan>
+            <tspan x="10" dy="18">• Two and a Half Men S06E11 (2003)</tspan>
+            <tspan x="10" dy="18">• The SpongeBob Movie: Sponge on the Run (2020)</tspan>
           </text>
         </g>
       </a>
@@ -9804,10 +9824,11 @@
           rx="2"
           fill="#5c1015"
         />
-        <g class="tooltip-group" transform="translate(659, -48)">
-          <rect x="0" y="0" width="280" height="74" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(659, -66)">
+          <rect x="0" y="0" width="280" height="92" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Tue, 7. Oct 2025: 2 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Tue, 7. Oct 2025: 3 items watched</tspan>
+            <tspan x="10" dy="18">• Dexter S02E07 (2006)</tspan>
             <tspan x="10" dy="18">• Two and a Half Men S08E03 (2003)</tspan>
             <tspan x="10" dy="18">• Two and a Half Men S08E02 (2003)</tspan>
           </text>
@@ -9841,15 +9862,17 @@
           width="14"
           height="14"
           rx="2"
-          fill="#5c1015"
+          fill="#8b1a22"
         />
-        <g class="tooltip-group" transform="translate(617, -66)">
-          <rect x="0" y="0" width="322" height="92" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(659, -102)">
+          <rect x="0" y="0" width="280" height="128" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Tue, 21. Oct 2025: 3 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Tue, 21. Oct 2025: 5 items watched</tspan>
+            <tspan x="10" dy="18">• The Chair Company S01E02 (2025)</tspan>
+            <tspan x="10" dy="18">• The Chair Company S01E01 (2025)</tspan>
+            <tspan x="10" dy="18">• Goon (2012)</tspan>
             <tspan x="10" dy="18">• Crazy, Stupid, Love. (2011)</tspan>
             <tspan x="10" dy="18">• The Green Hornet (2011)</tspan>
-            <tspan x="10" dy="18">• Austin Powers: The Spy Who Shagged Me (1999)</tspan>
           </text>
         </g>
       </a>
@@ -9898,13 +9921,12 @@
           width="14"
           height="14"
           rx="2"
-          fill="#5c1015"
+          fill="#161b22"
         />
-        <g class="tooltip-group" transform="translate(659, -30)">
-          <rect x="0" y="0" width="280" height="56" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(659, -12)">
+          <rect x="0" y="0" width="280" height="38" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Tue, 11. Nov 2025: 1 item watched</tspan>
-            <tspan x="10" dy="18">• Euphorie S01E01 (2025)</tspan>
+            <tspan x="10" dy="22" font-weight="600">Tue, 11. Nov 2025: 0 items watched</tspan>
           </text>
         </g>
       </a>
@@ -9979,14 +10001,15 @@
           rx="2"
           fill="#8b1a22"
         />
-        <g class="tooltip-group" transform="translate(659, -84)">
-          <rect x="0" y="0" width="280" height="110" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(659, -102)">
+          <rect x="0" y="0" width="280" height="128" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Tue, 9. Dec 2025: 4 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Tue, 9. Dec 2025: 5 items watched</tspan>
+            <tspan x="10" dy="18">• The Simpsons S06E19 (1989)</tspan>
+            <tspan x="10" dy="18">• The Simpsons S06E18 (1989)</tspan>
+            <tspan x="10" dy="18">• The Simpsons S06E17 (1989)</tspan>
             <tspan x="10" dy="18">• The Simpsons S06E16 (1989)</tspan>
             <tspan x="10" dy="18">• The Simpsons S06E15 (1989)</tspan>
-            <tspan x="10" dy="18">• The Simpsons S06E14 (1989)</tspan>
-            <tspan x="10" dy="18">• The Simpsons S06E13 (1989)</tspan>
           </text>
         </g>
       </a>
@@ -10005,10 +10028,10 @@
           <rect x="0" y="0" width="280" height="110" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
             <tspan x="10" dy="22" font-weight="600">Tue, 16. Dec 2025: 4 items watched</tspan>
+            <tspan x="10" dy="18">• The Simpsons S07E07 (1989)</tspan>
+            <tspan x="10" dy="18">• The Simpsons S07E06 (1989)</tspan>
             <tspan x="10" dy="18">• The Pitt S01E07 (2025)</tspan>
             <tspan x="10" dy="18">• The Pitt S01E06 (2025)</tspan>
-            <tspan x="10" dy="18">• The Simpsons S07E05 (1989)</tspan>
-            <tspan x="10" dy="18">• The Simpsons S07E04 (1989)</tspan>
           </text>
         </g>
       </a>
@@ -10023,15 +10046,14 @@
           rx="2"
           fill="#8b1a22"
         />
-        <g class="tooltip-group" transform="translate(659, -102)">
-          <rect x="0" y="0" width="280" height="128" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(659, -84)">
+          <rect x="0" y="0" width="280" height="110" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Tue, 23. Dec 2025: 5 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Tue, 23. Dec 2025: 4 items watched</tspan>
             <tspan x="10" dy="18">• The Middle S01E07 (2009)</tspan>
             <tspan x="10" dy="18">• SpongeBob SquarePants S07E15 (1999)</tspan>
             <tspan x="10" dy="18">• The Discounters S04E02 (2021)</tspan>
             <tspan x="10" dy="18">• American Beauty (1999)</tspan>
-            <tspan x="10" dy="18">• The Pitt S01E15 (2025)</tspan>
           </text>
         </g>
       </a>
@@ -10046,15 +10068,14 @@
           rx="2"
           fill="#8b1a22"
         />
-        <g class="tooltip-group" transform="translate(659, -102)">
-          <rect x="0" y="0" width="280" height="128" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(659, -84)">
+          <rect x="0" y="0" width="280" height="110" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Tue, 30. Dec 2025: 5 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Tue, 30. Dec 2025: 4 items watched</tspan>
             <tspan x="10" dy="18">• The Discounters S04E06 (2021)</tspan>
             <tspan x="10" dy="18">• The Middle S01E20 (2009)</tspan>
             <tspan x="10" dy="18">• The Middle S01E19 (2009)</tspan>
             <tspan x="10" dy="18">• No More School (2000)</tspan>
-            <tspan x="10" dy="18">• David Holmes: The Boy Who Lived (2023)</tspan>
           </text>
         </g>
       </a>
@@ -10142,7 +10163,7 @@
     </g>
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell"
+        <rect class="cell streak-cell streak-cell-2025"
           x="68"
           y="51"
           width="14"
@@ -10162,7 +10183,7 @@
     </g>
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell"
+        <rect class="cell streak-cell streak-cell-2025"
           x="85"
           y="51"
           width="14"
@@ -10183,7 +10204,7 @@
     </g>
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell"
+        <rect class="cell streak-cell streak-cell-2025"
           x="102"
           y="51"
           width="14"
@@ -10207,7 +10228,7 @@
     </g>
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell"
+        <rect class="cell streak-cell streak-cell-2025"
           x="119"
           y="51"
           width="14"
@@ -10227,7 +10248,7 @@
     </g>
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell"
+        <rect class="cell streak-cell streak-cell-2025"
           x="136"
           y="51"
           width="14"
@@ -10381,10 +10402,10 @@
           <rect x="0" y="0" width="287" height="110" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
             <tspan x="10" dy="22" font-weight="600">Wed, 16. Apr 2025: 4 items watched</tspan>
+            <tspan x="10" dy="18">• A Haunted House (2013)</tspan>
             <tspan x="10" dy="18">• Good Boys (2019)</tspan>
             <tspan x="10" dy="18">• Captain America: Brave New World (2025)</tspan>
             <tspan x="10" dy="18">• The Newsroom S01E01 (2012)</tspan>
-            <tspan x="10" dy="18">• The Princess Diaries (2001)</tspan>
           </text>
         </g>
       </a>
@@ -10441,7 +10462,7 @@
           <rect x="0" y="0" width="280" height="56" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
             <tspan x="10" dy="22" font-weight="600">Wed, 7. May 2025: 1 item watched</tspan>
-            <tspan x="10" dy="18">• INTIMATE. S02E08 (2023)</tspan>
+            <tspan x="10" dy="18">• INTIMATE. S02E09 (2023)</tspan>
           </text>
         </g>
       </a>
@@ -10513,12 +10534,13 @@
           width="14"
           height="14"
           rx="2"
-          fill="#161b22"
+          fill="#5c1015"
         />
-        <g class="tooltip-group" transform="translate(374, 5)">
-          <rect x="0" y="0" width="280" height="38" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(374, -13)">
+          <rect x="0" y="0" width="280" height="56" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Wed, 4. Jun 2025: 0 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Wed, 4. Jun 2025: 1 item watched</tspan>
+            <tspan x="10" dy="18">• CB4 (1993)</tspan>
           </text>
         </g>
       </a>
@@ -10630,7 +10652,7 @@
     </g>
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell streak-cell streak-cell-2025"
+        <rect class="cell"
           x="476"
           y="51"
           width="14"
@@ -10651,7 +10673,7 @@
     </g>
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell streak-cell streak-cell-2025"
+        <rect class="cell"
           x="493"
           y="51"
           width="14"
@@ -10659,31 +10681,31 @@
           rx="2"
           fill="#5c1015"
         />
-        <g class="tooltip-group" transform="translate(493, -49)">
-          <rect x="0" y="0" width="280" height="92" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(493, -31)">
+          <rect x="0" y="0" width="280" height="74" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Wed, 23. Jul 2025: 3 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Wed, 23. Jul 2025: 2 items watched</tspan>
             <tspan x="10" dy="18">• Malcolm in the Middle S04E11 (2000)</tspan>
             <tspan x="10" dy="18">• The Monkey (2025)</tspan>
-            <tspan x="10" dy="18">• The Grand Budapest Hotel (2014)</tspan>
           </text>
         </g>
       </a>
     </g>
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell streak-cell streak-cell-2025"
+        <rect class="cell"
           x="510"
           y="51"
           width="14"
           height="14"
           rx="2"
-          fill="#5c1015"
+          fill="#8b1a22"
         />
-        <g class="tooltip-group" transform="translate(510, -49)">
-          <rect x="0" y="0" width="280" height="92" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(510, -67)">
+          <rect x="0" y="0" width="280" height="110" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Wed, 30. Jul 2025: 3 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Wed, 30. Jul 2025: 4 items watched</tspan>
+            <tspan x="10" dy="18">• Dredd (2012)</tspan>
             <tspan x="10" dy="18">• The Discounters S03E06 (2021)</tspan>
             <tspan x="10" dy="18">• Mission: Impossible (1996)</tspan>
             <tspan x="10" dy="18">• Wild Child (2008)</tspan>
@@ -10693,7 +10715,7 @@
     </g>
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell streak-cell streak-cell-2025"
+        <rect class="cell"
           x="527"
           y="51"
           width="14"
@@ -10701,44 +10723,43 @@
           rx="2"
           fill="#8b1a22"
         />
-        <g class="tooltip-group" transform="translate(527, -67)">
-          <rect x="0" y="0" width="280" height="110" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(527, -103)">
+          <rect x="0" y="0" width="280" height="146" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Wed, 6. Aug 2025: 4 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Wed, 6. Aug 2025: 6 items watched</tspan>
+            <tspan x="10" dy="18">• Malcolm in the Middle S06E06 (2000)</tspan>
+            <tspan x="10" dy="18">• Malcolm in the Middle S06E05 (2000)</tspan>
+            <tspan x="10" dy="18">• Malcolm in the Middle S06E04 (2000)</tspan>
+            <tspan x="10" dy="18">• Malcolm in the Middle S06E03 (2000)</tspan>
+            <tspan x="10" dy="18">• Malcolm in the Middle S06E02 (2000)</tspan>
             <tspan x="10" dy="18">• Malcolm in the Middle S06E01 (2000)</tspan>
-            <tspan x="10" dy="18">• Malcolm in the Middle S05E21 (2000)</tspan>
-            <tspan x="10" dy="18">• Malcolm in the Middle S05E20 (2000)</tspan>
-            <tspan x="10" dy="18">• Malcolm in the Middle S05E19 (2000)</tspan>
           </text>
         </g>
       </a>
     </g>
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell streak-cell streak-cell-2025"
+        <rect class="cell"
           x="544"
           y="51"
           width="14"
           height="14"
           rx="2"
-          fill="#8b1a22"
+          fill="#5c1015"
         />
-        <g class="tooltip-group" transform="translate(544, -85)">
-          <rect x="0" y="0" width="280" height="128" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(544, -31)">
+          <rect x="0" y="0" width="280" height="74" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Wed, 13. Aug 2025: 5 items watched</tspan>
-            <tspan x="10" dy="18">• Malcolm in the Middle S07E05 (2000)</tspan>
-            <tspan x="10" dy="18">• Malcolm in the Middle S07E04 (2000)</tspan>
-            <tspan x="10" dy="18">• Malcolm in the Middle S07E03 (2000)</tspan>
-            <tspan x="10" dy="18">• Malcolm in the Middle S07E02 (2000)</tspan>
-            <tspan x="10" dy="18">• Malcolm in the Middle S07E01 (2000)</tspan>
+            <tspan x="10" dy="22" font-weight="600">Wed, 13. Aug 2025: 2 items watched</tspan>
+            <tspan x="10" dy="18">• Malcolm in the Middle S07E08 (2000)</tspan>
+            <tspan x="10" dy="18">• Malcolm in the Middle S07E06 (2000)</tspan>
           </text>
         </g>
       </a>
     </g>
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell streak-cell streak-cell-2025"
+        <rect class="cell"
           x="561"
           y="51"
           width="14"
@@ -10746,12 +10767,11 @@
           rx="2"
           fill="#5c1015"
         />
-        <g class="tooltip-group" transform="translate(561, -31)">
-          <rect x="0" y="0" width="280" height="74" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(561, -13)">
+          <rect x="0" y="0" width="280" height="56" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Wed, 20. Aug 2025: 2 items watched</tspan>
-            <tspan x="10" dy="18">• Futurama S01E01 (1999)</tspan>
-            <tspan x="10" dy="18">• Malcolm in the Middle S07E22 (2000)</tspan>
+            <tspan x="10" dy="22" font-weight="600">Wed, 20. Aug 2025: 1 item watched</tspan>
+            <tspan x="10" dy="18">• Investigation Alien S01E01 (2024)</tspan>
           </text>
         </g>
       </a>
@@ -10770,10 +10790,10 @@
           <rect x="0" y="0" width="280" height="110" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
             <tspan x="10" dy="22" font-weight="600">Wed, 27. Aug 2025: 4 items watched</tspan>
-            <tspan x="10" dy="18">• Two and a Half Men S01E16 (2003)</tspan>
-            <tspan x="10" dy="18">• Two and a Half Men S01E15 (2003)</tspan>
-            <tspan x="10" dy="18">• Two and a Half Men S01E14 (2003)</tspan>
-            <tspan x="10" dy="18">• Dexter S01E03 (2006)</tspan>
+            <tspan x="10" dy="18">• Two and a Half Men S01E19 (2003)</tspan>
+            <tspan x="10" dy="18">• Two and a Half Men S01E18 (2003)</tspan>
+            <tspan x="10" dy="18">• Two and a Half Men S01E17 (2003)</tspan>
+            <tspan x="10" dy="18">• Dexter S01E04 (2006)</tspan>
           </text>
         </g>
       </a>
@@ -10788,15 +10808,14 @@
           rx="2"
           fill="#8b1a22"
         />
-        <g class="tooltip-group" transform="translate(595, -85)">
-          <rect x="0" y="0" width="280" height="128" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(595, -67)">
+          <rect x="0" y="0" width="280" height="110" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Wed, 3. Sep 2025: 5 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Wed, 3. Sep 2025: 4 items watched</tspan>
+            <tspan x="10" dy="18">• Two and a Half Men S02E18 (2003)</tspan>
+            <tspan x="10" dy="18">• Two and a Half Men S02E17 (2003)</tspan>
             <tspan x="10" dy="18">• Dexter S01E10 (2006)</tspan>
             <tspan x="10" dy="18">• Dexter S01E09 (2006)</tspan>
-            <tspan x="10" dy="18">• Two and a Half Men S02E15 (2003)</tspan>
-            <tspan x="10" dy="18">• Two and a Half Men S02E14 (2003)</tspan>
-            <tspan x="10" dy="18">• Two and a Half Men S02E13 (2003)</tspan>
           </text>
         </g>
       </a>
@@ -10811,18 +10830,17 @@
           rx="2"
           fill="#c41e2a"
         />
-        <g class="tooltip-group" transform="translate(612, -139)">
-          <rect x="0" y="0" width="280" height="182" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(612, -121)">
+          <rect x="0" y="0" width="280" height="164" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Wed, 10. Sep 2025: 8 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Wed, 10. Sep 2025: 7 items watched</tspan>
+            <tspan x="10" dy="18">• Two and a Half Men S04E04 (2003)</tspan>
+            <tspan x="10" dy="18">• Two and a Half Men S04E03 (2003)</tspan>
             <tspan x="10" dy="18">• Two and a Half Men S04E01 (2003)</tspan>
             <tspan x="10" dy="18">• Two and a Half Men S03E24 (2003)</tspan>
             <tspan x="10" dy="18">• Two and a Half Men S03E23 (2003)</tspan>
             <tspan x="10" dy="18">• The Goods: Live Hard, Sell Hard (2009)</tspan>
             <tspan x="10" dy="18">• Two and a Half Men S03E22 (2003)</tspan>
-            <tspan x="10" dy="18">• Two and a Half Men S03E21 (2003)</tspan>
-            <tspan x="10" dy="18">• Two and a Half Men S03E20 (2003)</tspan>
-            <tspan x="10" dy="18">• Two and a Half Men S03E19 (2003)</tspan>
           </text>
         </g>
       </a>
@@ -10859,16 +10877,15 @@
           rx="2"
           fill="#8b1a22"
         />
-        <g class="tooltip-group" transform="translate(610, -103)">
-          <rect x="0" y="0" width="329" height="146" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(646, -85)">
+          <rect x="0" y="0" width="280" height="128" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Wed, 24. Sep 2025: 6 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Wed, 24. Sep 2025: 5 items watched</tspan>
+            <tspan x="10" dy="18">• Two and a Half Men S06E20 (2003)</tspan>
+            <tspan x="10" dy="18">• Two and a Half Men S06E19 (2003)</tspan>
+            <tspan x="10" dy="18">• Two and a Half Men S06E18 (2003)</tspan>
+            <tspan x="10" dy="18">• Two and a Half Men S06E17 (2003)</tspan>
             <tspan x="10" dy="18">• The Fast and the Furious (2001)</tspan>
-            <tspan x="10" dy="18">• Two and a Half Men S06E15 (2003)</tspan>
-            <tspan x="10" dy="18">• Two and a Half Men S06E14 (2003)</tspan>
-            <tspan x="10" dy="18">• Two and a Half Men S06E12 (2003)</tspan>
-            <tspan x="10" dy="18">• Two and a Half Men S06E11 (2003)</tspan>
-            <tspan x="10" dy="18">• The SpongeBob Movie: Sponge on the Run (2020)</tspan>
           </text>
         </g>
       </a>
@@ -10902,12 +10919,11 @@
           rx="2"
           fill="#5c1015"
         />
-        <g class="tooltip-group" transform="translate(659, -31)">
-          <rect x="0" y="0" width="280" height="74" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(659, -13)">
+          <rect x="0" y="0" width="280" height="56" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Wed, 8. Oct 2025: 2 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Wed, 8. Oct 2025: 1 item watched</tspan>
             <tspan x="10" dy="18">• Muppet Treasure Island (1996)</tspan>
-            <tspan x="10" dy="18">• Dexter S02E07 (2006)</tspan>
           </text>
         </g>
       </a>
@@ -10920,12 +10936,13 @@
           width="14"
           height="14"
           rx="2"
-          fill="#161b22"
+          fill="#5c1015"
         />
-        <g class="tooltip-group" transform="translate(659, 5)">
-          <rect x="0" y="0" width="280" height="38" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(659, -13)">
+          <rect x="0" y="0" width="280" height="56" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Wed, 15. Oct 2025: 0 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Wed, 15. Oct 2025: 1 item watched</tspan>
+            <tspan x="10" dy="18">• Freakier Friday (2025)</tspan>
           </text>
         </g>
       </a>
@@ -10938,16 +10955,13 @@
           width="14"
           height="14"
           rx="2"
-          fill="#8b1a22"
+          fill="#5c1015"
         />
-        <g class="tooltip-group" transform="translate(659, -67)">
-          <rect x="0" y="0" width="280" height="110" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(659, -13)">
+          <rect x="0" y="0" width="280" height="56" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Wed, 22. Oct 2025: 4 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Wed, 22. Oct 2025: 1 item watched</tspan>
             <tspan x="10" dy="18">• The Shawshank Redemption (1994)</tspan>
-            <tspan x="10" dy="18">• The Chair Company S01E02 (2025)</tspan>
-            <tspan x="10" dy="18">• The Chair Company S01E01 (2025)</tspan>
-            <tspan x="10" dy="18">• Goon (2012)</tspan>
           </text>
         </g>
       </a>
@@ -10998,10 +11012,11 @@
           rx="2"
           fill="#5c1015"
         />
-        <g class="tooltip-group" transform="translate(659, -31)">
-          <rect x="0" y="0" width="280" height="74" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(659, -49)">
+          <rect x="0" y="0" width="280" height="92" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Wed, 12. Nov 2025: 2 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Wed, 12. Nov 2025: 3 items watched</tspan>
+            <tspan x="10" dy="18">• Euphorie S01E04 (2025)</tspan>
             <tspan x="10" dy="18">• Euphorie S01E03 (2025)</tspan>
             <tspan x="10" dy="18">• Euphorie S01E02 (2025)</tspan>
           </text>
@@ -11052,12 +11067,15 @@
           width="14"
           height="14"
           rx="2"
-          fill="#161b22"
+          fill="#5c1015"
         />
-        <g class="tooltip-group" transform="translate(659, 5)">
-          <rect x="0" y="0" width="280" height="38" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(659, -49)">
+          <rect x="0" y="0" width="280" height="92" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Wed, 3. Dec 2025: 0 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Wed, 3. Dec 2025: 3 items watched</tspan>
+            <tspan x="10" dy="18">• The Simpsons S06E03 (1989)</tspan>
+            <tspan x="10" dy="18">• The Simpsons S06E02 (1989)</tspan>
+            <tspan x="10" dy="18">• The Simpsons S06E01 (1989)</tspan>
           </text>
         </g>
       </a>
@@ -11076,9 +11094,9 @@
           <rect x="0" y="0" width="280" height="92" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
             <tspan x="10" dy="22" font-weight="600">Wed, 10. Dec 2025: 3 items watched</tspan>
-            <tspan x="10" dy="18">• The Simpsons S06E19 (1989)</tspan>
-            <tspan x="10" dy="18">• The Simpsons S06E18 (1989)</tspan>
-            <tspan x="10" dy="18">• The Simpsons S06E17 (1989)</tspan>
+            <tspan x="10" dy="18">• The Simpsons S06E22 (1989)</tspan>
+            <tspan x="10" dy="18">• The Simpsons S06E21 (1989)</tspan>
+            <tspan x="10" dy="18">• The Simpsons S06E20 (1989)</tspan>
           </text>
         </g>
       </a>
@@ -11097,11 +11115,11 @@
           <rect x="0" y="0" width="280" height="128" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
             <tspan x="10" dy="22" font-weight="600">Wed, 17. Dec 2025: 5 items watched</tspan>
+            <tspan x="10" dy="18">• The Simpsons S07E12 (1989)</tspan>
+            <tspan x="10" dy="18">• The Simpsons S07E10 (1989)</tspan>
             <tspan x="10" dy="18">• The Pitt S01E08 (2025)</tspan>
             <tspan x="10" dy="18">• The Simpsons S07E09 (1989)</tspan>
             <tspan x="10" dy="18">• The Simpsons S07E08 (1989)</tspan>
-            <tspan x="10" dy="18">• The Simpsons S07E07 (1989)</tspan>
-            <tspan x="10" dy="18">• The Simpsons S07E06 (1989)</tspan>
           </text>
         </g>
       </a>
@@ -11232,7 +11250,7 @@
     </g>
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell"
+        <rect class="cell streak-cell streak-cell-2025"
           x="68"
           y="68"
           width="14"
@@ -11251,7 +11269,7 @@
     </g>
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell"
+        <rect class="cell streak-cell streak-cell-2025"
           x="85"
           y="68"
           width="14"
@@ -11272,7 +11290,7 @@
     </g>
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell"
+        <rect class="cell streak-cell streak-cell-2025"
           x="102"
           y="68"
           width="14"
@@ -11291,7 +11309,7 @@
     </g>
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell"
+        <rect class="cell streak-cell streak-cell-2025"
           x="119"
           y="68"
           width="14"
@@ -11312,7 +11330,7 @@
     </g>
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell"
+        <rect class="cell streak-cell streak-cell-2025"
           x="136"
           y="68"
           width="14"
@@ -11456,12 +11474,11 @@
           rx="2"
           fill="#5c1015"
         />
-        <g class="tooltip-group" transform="translate(255, -14)">
-          <rect x="0" y="0" width="301" height="74" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(255, 4)">
+          <rect x="0" y="0" width="301" height="56" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Thu, 17. Apr 2025: 2 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Thu, 17. Apr 2025: 1 item watched</tspan>
             <tspan x="10" dy="18">• Journey to the Center of the Earth (2008)</tspan>
-            <tspan x="10" dy="18">• A Haunted House (2013)</tspan>
           </text>
         </g>
       </a>
@@ -11516,13 +11533,12 @@
           width="14"
           height="14"
           rx="2"
-          fill="#5c1015"
+          fill="#161b22"
         />
-        <g class="tooltip-group" transform="translate(306, 4)">
-          <rect x="0" y="0" width="280" height="56" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(306, 22)">
+          <rect x="0" y="0" width="280" height="38" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Thu, 8. May 2025: 1 item watched</tspan>
-            <tspan x="10" dy="18">• INTIMATE. S02E09 (2023)</tspan>
+            <tspan x="10" dy="22" font-weight="600">Thu, 8. May 2025: 0 items watched</tspan>
           </text>
         </g>
       </a>
@@ -11535,12 +11551,14 @@
           width="14"
           height="14"
           rx="2"
-          fill="#5c1015"
+          fill="#8b1a22"
         />
-        <g class="tooltip-group" transform="translate(323, -32)">
-          <rect x="0" y="0" width="280" height="92" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(323, -68)">
+          <rect x="0" y="0" width="280" height="128" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Thu, 15. May 2025: 3 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Thu, 15. May 2025: 5 items watched</tspan>
+            <tspan x="10" dy="18">• Love, Death &amp; Robots S04E09 (2019)</tspan>
+            <tspan x="10" dy="18">• Love, Death &amp; Robots S04E07 (2019)</tspan>
             <tspan x="10" dy="18">• A Working Man (2025)</tspan>
             <tspan x="10" dy="18">• The Cat in the Hat (2003)</tspan>
             <tspan x="10" dy="18">• The Craft (1996)</tspan>
@@ -11595,15 +11613,14 @@
           rx="2"
           fill="#8b1a22"
         />
-        <g class="tooltip-group" transform="translate(374, -68)">
-          <rect x="0" y="0" width="399" height="128" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(374, -50)">
+          <rect x="0" y="0" width="399" height="110" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Thu, 5. Jun 2025: 5 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Thu, 5. Jun 2025: 4 items watched</tspan>
             <tspan x="10" dy="18">• Austin Powers: International Man of Mystery (1997)</tspan>
             <tspan x="10" dy="18">• Meet Dave (2008)</tspan>
             <tspan x="10" dy="18">• DuckTales: The Movie - Treasure of the Lost Lamp (1990)</tspan>
             <tspan x="10" dy="18">• (500) Days of Summer (2009)</tspan>
-            <tspan x="10" dy="18">• CB4 (1993)</tspan>
           </text>
         </g>
       </a>
@@ -11707,7 +11724,7 @@
     </g>
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell streak-cell streak-cell-2025"
+        <rect class="cell"
           x="476"
           y="68"
           width="14"
@@ -11726,7 +11743,7 @@
     </g>
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell streak-cell streak-cell-2025"
+        <rect class="cell"
           x="493"
           y="68"
           width="14"
@@ -11746,7 +11763,7 @@
     </g>
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell streak-cell streak-cell-2025"
+        <rect class="cell"
           x="510"
           y="68"
           width="14"
@@ -11755,9 +11772,10 @@
           fill="#c41e2a"
         />
         <g class="tooltip-group" transform="translate(510, -122)">
-          <rect x="0" y="0" width="280" height="182" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+          <rect x="0" y="0" width="336" height="182" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
             <tspan x="10" dy="22" font-weight="600">Thu, 31. Jul 2025: 8 items watched</tspan>
+            <tspan x="10" dy="18">• Georgie &amp; Mandy&apos;s First Marriage S01E06 (2024)</tspan>
             <tspan x="10" dy="18">• Mission: Impossible II (2000)</tspan>
             <tspan x="10" dy="18">• Ford v Ferrari (2019)</tspan>
             <tspan x="10" dy="18">• Malcolm in the Middle S05E02 (2000)</tspan>
@@ -11765,14 +11783,13 @@
             <tspan x="10" dy="18">• Malcolm in the Middle S04E02 (2000)</tspan>
             <tspan x="10" dy="18">• Malcolm in the Middle S04E22 (2000)</tspan>
             <tspan x="10" dy="18">• Smurfs (2025)</tspan>
-            <tspan x="10" dy="18">• Dredd (2012)</tspan>
           </text>
         </g>
       </a>
     </g>
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell streak-cell streak-cell-2025"
+        <rect class="cell"
           x="527"
           y="68"
           width="14"
@@ -11780,22 +11797,21 @@
           rx="2"
           fill="#8b1a22"
         />
-        <g class="tooltip-group" transform="translate(527, -68)">
-          <rect x="0" y="0" width="280" height="128" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(527, -50)">
+          <rect x="0" y="0" width="280" height="110" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Thu, 7. Aug 2025: 5 items watched</tspan>
-            <tspan x="10" dy="18">• Malcolm in the Middle S06E06 (2000)</tspan>
-            <tspan x="10" dy="18">• Malcolm in the Middle S06E05 (2000)</tspan>
-            <tspan x="10" dy="18">• Malcolm in the Middle S06E04 (2000)</tspan>
-            <tspan x="10" dy="18">• Malcolm in the Middle S06E03 (2000)</tspan>
-            <tspan x="10" dy="18">• Malcolm in the Middle S06E02 (2000)</tspan>
+            <tspan x="10" dy="22" font-weight="600">Thu, 7. Aug 2025: 4 items watched</tspan>
+            <tspan x="10" dy="18">• Malcolm in the Middle S06E10 (2000)</tspan>
+            <tspan x="10" dy="18">• Malcolm in the Middle S06E09 (2000)</tspan>
+            <tspan x="10" dy="18">• Malcolm in the Middle S06E08 (2000)</tspan>
+            <tspan x="10" dy="18">• Malcolm in the Middle S06E07 (2000)</tspan>
           </text>
         </g>
       </a>
     </g>
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell streak-cell streak-cell-2025"
+        <rect class="cell"
           x="544"
           y="68"
           width="14"
@@ -11807,28 +11823,27 @@
           <rect x="0" y="0" width="280" height="92" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
             <tspan x="10" dy="22" font-weight="600">Thu, 14. Aug 2025: 3 items watched</tspan>
+            <tspan x="10" dy="18">• Malcolm in the Middle S07E12 (2000)</tspan>
+            <tspan x="10" dy="18">• Malcolm in the Middle S07E11 (2000)</tspan>
             <tspan x="10" dy="18">• Malcolm in the Middle S07E10 (2000)</tspan>
-            <tspan x="10" dy="18">• Malcolm in the Middle S07E08 (2000)</tspan>
-            <tspan x="10" dy="18">• Malcolm in the Middle S07E06 (2000)</tspan>
           </text>
         </g>
       </a>
     </g>
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell streak-cell streak-cell-2025"
+        <rect class="cell"
           x="561"
           y="68"
           width="14"
           height="14"
           rx="2"
-          fill="#5c1015"
+          fill="#161b22"
         />
-        <g class="tooltip-group" transform="translate(561, 4)">
-          <rect x="0" y="0" width="280" height="56" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(561, 22)">
+          <rect x="0" y="0" width="280" height="38" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Thu, 21. Aug 2025: 1 item watched</tspan>
-            <tspan x="10" dy="18">• Investigation Alien S01E01 (2024)</tspan>
+            <tspan x="10" dy="22" font-weight="600">Thu, 21. Aug 2025: 0 items watched</tspan>
           </text>
         </g>
       </a>
@@ -11843,15 +11858,16 @@
           rx="2"
           fill="#8b1a22"
         />
-        <g class="tooltip-group" transform="translate(578, -68)">
-          <rect x="0" y="0" width="280" height="128" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(578, -86)">
+          <rect x="0" y="0" width="280" height="146" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Thu, 28. Aug 2025: 5 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Thu, 28. Aug 2025: 6 items watched</tspan>
+            <tspan x="10" dy="18">• Two and a Half Men S01E24 (2003)</tspan>
+            <tspan x="10" dy="18">• Two and a Half Men S01E23 (2003)</tspan>
+            <tspan x="10" dy="18">• Two and a Half Men S01E22 (2003)</tspan>
+            <tspan x="10" dy="18">• Two and a Half Men S01E21 (2003)</tspan>
+            <tspan x="10" dy="18">• Dexter S01E05 (2006)</tspan>
             <tspan x="10" dy="18">• Two and a Half Men S01E20 (2003)</tspan>
-            <tspan x="10" dy="18">• Two and a Half Men S01E19 (2003)</tspan>
-            <tspan x="10" dy="18">• Two and a Half Men S01E18 (2003)</tspan>
-            <tspan x="10" dy="18">• Two and a Half Men S01E17 (2003)</tspan>
-            <tspan x="10" dy="18">• Dexter S01E04 (2006)</tspan>
           </text>
         </g>
       </a>
@@ -11870,8 +11886,8 @@
           <rect x="0" y="0" width="280" height="74" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
             <tspan x="10" dy="22" font-weight="600">Thu, 4. Sep 2025: 2 items watched</tspan>
-            <tspan x="10" dy="18">• Two and a Half Men S02E18 (2003)</tspan>
-            <tspan x="10" dy="18">• Two and a Half Men S02E17 (2003)</tspan>
+            <tspan x="10" dy="18">• Two and a Half Men S02E24 (2003)</tspan>
+            <tspan x="10" dy="18">• Two and a Half Men S02E22 (2003)</tspan>
           </text>
         </g>
       </a>
@@ -11890,11 +11906,11 @@
           <rect x="0" y="0" width="280" height="128" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
             <tspan x="10" dy="22" font-weight="600">Thu, 11. Sep 2025: 5 items watched</tspan>
+            <tspan x="10" dy="18">• Two and a Half Men S04E10 (2003)</tspan>
+            <tspan x="10" dy="18">• Two and a Half Men S04E09 (2003)</tspan>
             <tspan x="10" dy="18">• Two and a Half Men S04E07 (2003)</tspan>
             <tspan x="10" dy="18">• Two and a Half Men S04E06 (2003)</tspan>
             <tspan x="10" dy="18">• Two and a Half Men S04E05 (2003)</tspan>
-            <tspan x="10" dy="18">• Two and a Half Men S04E04 (2003)</tspan>
-            <tspan x="10" dy="18">• Two and a Half Men S04E03 (2003)</tspan>
           </text>
         </g>
       </a>
@@ -11907,12 +11923,13 @@
           width="14"
           height="14"
           rx="2"
-          fill="#5c1015"
+          fill="#8b1a22"
         />
-        <g class="tooltip-group" transform="translate(629, -32)">
-          <rect x="0" y="0" width="280" height="92" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(629, -50)">
+          <rect x="0" y="0" width="280" height="110" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Thu, 18. Sep 2025: 3 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Thu, 18. Sep 2025: 4 items watched</tspan>
+            <tspan x="10" dy="18">• Two and a Half Men S05E13 (2003)</tspan>
             <tspan x="10" dy="18">• Two and a Half Men S05E11 (2003)</tspan>
             <tspan x="10" dy="18">• Two and a Half Men S05E08 (2003)</tspan>
             <tspan x="10" dy="18">• Kung Pow: Enter the Fist (2002)</tspan>
@@ -11928,20 +11945,16 @@
           width="14"
           height="14"
           rx="2"
-          fill="#c41e2a"
+          fill="#8b1a22"
         />
-        <g class="tooltip-group" transform="translate(646, -122)">
-          <rect x="0" y="0" width="280" height="182" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(646, -50)">
+          <rect x="0" y="0" width="280" height="110" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Thu, 25. Sep 2025: 8 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Thu, 25. Sep 2025: 4 items watched</tspan>
             <tspan x="10" dy="18">• Two and a Half Men S06E24 (2003)</tspan>
             <tspan x="10" dy="18">• Two and a Half Men S06E23 (2003)</tspan>
             <tspan x="10" dy="18">• Two and a Half Men S06E22 (2003)</tspan>
             <tspan x="10" dy="18">• Two and a Half Men S06E21 (2003)</tspan>
-            <tspan x="10" dy="18">• Two and a Half Men S06E20 (2003)</tspan>
-            <tspan x="10" dy="18">• Two and a Half Men S06E19 (2003)</tspan>
-            <tspan x="10" dy="18">• Two and a Half Men S06E18 (2003)</tspan>
-            <tspan x="10" dy="18">• Two and a Half Men S06E17 (2003)</tspan>
           </text>
         </g>
       </a>
@@ -11956,10 +11969,11 @@
           rx="2"
           fill="#8b1a22"
         />
-        <g class="tooltip-group" transform="translate(659, -50)">
-          <rect x="0" y="0" width="280" height="110" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(645, -68)">
+          <rect x="0" y="0" width="294" height="128" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Thu, 2. Oct 2025: 4 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Thu, 2. Oct 2025: 5 items watched</tspan>
+            <tspan x="10" dy="18">• Everything Everywhere All at Once (2022)</tspan>
             <tspan x="10" dy="18">• Two and a Half Men S07E20 (2003)</tspan>
             <tspan x="10" dy="18">• Two and a Half Men S07E19 (2003)</tspan>
             <tspan x="10" dy="18">• Two and a Half Men S07E18 (2003)</tspan>
@@ -11995,13 +12009,12 @@
           width="14"
           height="14"
           rx="2"
-          fill="#5c1015"
+          fill="#161b22"
         />
-        <g class="tooltip-group" transform="translate(659, 4)">
-          <rect x="0" y="0" width="280" height="56" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(659, 22)">
+          <rect x="0" y="0" width="280" height="38" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Thu, 16. Oct 2025: 1 item watched</tspan>
-            <tspan x="10" dy="18">• Freakier Friday (2025)</tspan>
+            <tspan x="10" dy="22" font-weight="600">Thu, 16. Oct 2025: 0 items watched</tspan>
           </text>
         </g>
       </a>
@@ -12068,13 +12081,12 @@
           width="14"
           height="14"
           rx="2"
-          fill="#5c1015"
+          fill="#161b22"
         />
-        <g class="tooltip-group" transform="translate(659, 4)">
-          <rect x="0" y="0" width="280" height="56" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(659, 22)">
+          <rect x="0" y="0" width="280" height="38" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Thu, 13. Nov 2025: 1 item watched</tspan>
-            <tspan x="10" dy="18">• Euphorie S01E04 (2025)</tspan>
+            <tspan x="10" dy="22" font-weight="600">Thu, 13. Nov 2025: 0 items watched</tspan>
           </text>
         </g>
       </a>
@@ -12127,17 +12139,14 @@
           width="14"
           height="14"
           rx="2"
-          fill="#8b1a22"
+          fill="#5c1015"
         />
-        <g class="tooltip-group" transform="translate(659, -68)">
-          <rect x="0" y="0" width="280" height="128" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(659, -14)">
+          <rect x="0" y="0" width="280" height="74" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Thu, 4. Dec 2025: 5 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Thu, 4. Dec 2025: 2 items watched</tspan>
             <tspan x="10" dy="18">• The Simpsons S06E06 (1989)</tspan>
             <tspan x="10" dy="18">• The Simpsons S06E05 (1989)</tspan>
-            <tspan x="10" dy="18">• The Simpsons S06E03 (1989)</tspan>
-            <tspan x="10" dy="18">• The Simpsons S06E02 (1989)</tspan>
-            <tspan x="10" dy="18">• The Simpsons S06E01 (1989)</tspan>
           </text>
         </g>
       </a>
@@ -12150,15 +12159,12 @@
           width="14"
           height="14"
           rx="2"
-          fill="#5c1015"
+          fill="#161b22"
         />
-        <g class="tooltip-group" transform="translate(659, -32)">
-          <rect x="0" y="0" width="280" height="92" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(659, 22)">
+          <rect x="0" y="0" width="280" height="38" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Thu, 11. Dec 2025: 3 items watched</tspan>
-            <tspan x="10" dy="18">• The Simpsons S06E22 (1989)</tspan>
-            <tspan x="10" dy="18">• The Simpsons S06E21 (1989)</tspan>
-            <tspan x="10" dy="18">• The Simpsons S06E20 (1989)</tspan>
+            <tspan x="10" dy="22" font-weight="600">Thu, 11. Dec 2025: 0 items watched</tspan>
           </text>
         </g>
       </a>
@@ -12173,12 +12179,13 @@
           rx="2"
           fill="#5c1015"
         />
-        <g class="tooltip-group" transform="translate(659, -14)">
-          <rect x="0" y="0" width="280" height="74" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(659, -32)">
+          <rect x="0" y="0" width="280" height="92" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Thu, 18. Dec 2025: 2 items watched</tspan>
-            <tspan x="10" dy="18">• The Simpsons S07E12 (1989)</tspan>
-            <tspan x="10" dy="18">• The Simpsons S07E10 (1989)</tspan>
+            <tspan x="10" dy="22" font-weight="600">Thu, 18. Dec 2025: 3 items watched</tspan>
+            <tspan x="10" dy="18">• The Simpsons S07E15 (1989)</tspan>
+            <tspan x="10" dy="18">• The Simpsons S07E14 (1989)</tspan>
+            <tspan x="10" dy="18">• The Simpsons S07E13 (1989)</tspan>
           </text>
         </g>
       </a>
@@ -12283,7 +12290,7 @@
     </g>
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell"
+        <rect class="cell streak-cell streak-cell-2025"
           x="68"
           y="85"
           width="14"
@@ -12306,7 +12313,7 @@
     </g>
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell"
+        <rect class="cell streak-cell streak-cell-2025"
           x="85"
           y="85"
           width="14"
@@ -12328,7 +12335,7 @@
     </g>
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell"
+        <rect class="cell streak-cell streak-cell-2025"
           x="102"
           y="85"
           width="14"
@@ -12350,7 +12357,7 @@
     </g>
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell"
+        <rect class="cell streak-cell streak-cell-2025"
           x="119"
           y="85"
           width="14"
@@ -12370,7 +12377,7 @@
     </g>
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell"
+        <rect class="cell streak-cell streak-cell-2025"
           x="136"
           y="85"
           width="14"
@@ -12441,10 +12448,11 @@
           rx="2"
           fill="#c41e2a"
         />
-        <g class="tooltip-group" transform="translate(187, -105)">
-          <rect x="0" y="0" width="280" height="182" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(187, -123)">
+          <rect x="0" y="0" width="280" height="200" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Fri, 21. Mar 2025: 8 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Fri, 21. Mar 2025: 9 items watched</tspan>
+            <tspan x="10" dy="18">• I Want to Eat Your Pancreas (2018)</tspan>
             <tspan x="10" dy="18">• The Garden of Words (2013)</tspan>
             <tspan x="10" dy="18">• Your Name. (2016)</tspan>
             <tspan x="10" dy="18">• Two and a Half Men S06E16 (2003)</tspan>
@@ -12609,13 +12617,11 @@
           rx="2"
           fill="#5c1015"
         />
-        <g class="tooltip-group" transform="translate(323, -15)">
-          <rect x="0" y="0" width="280" height="92" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(323, 21)">
+          <rect x="0" y="0" width="280" height="56" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Fri, 16. May 2025: 3 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Fri, 16. May 2025: 1 item watched</tspan>
             <tspan x="10" dy="18">• Date Movie (2006)</tspan>
-            <tspan x="10" dy="18">• Love, Death &amp; Robots S04E09 (2019)</tspan>
-            <tspan x="10" dy="18">• Love, Death &amp; Robots S04E07 (2019)</tspan>
           </text>
         </g>
       </a>
@@ -12686,10 +12692,11 @@
           rx="2"
           fill="#5c1015"
         />
-        <g class="tooltip-group" transform="translate(391, 3)">
-          <rect x="0" y="0" width="280" height="74" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(391, -15)">
+          <rect x="0" y="0" width="280" height="92" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Fri, 13. Jun 2025: 2 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Fri, 13. Jun 2025: 3 items watched</tspan>
+            <tspan x="10" dy="18">• Companion (2025)</tspan>
             <tspan x="10" dy="18">• The Amateur (2025)</tspan>
             <tspan x="10" dy="18">• Everybody Wants Some!! (2016)</tspan>
           </text>
@@ -12726,10 +12733,12 @@
           rx="2"
           fill="#8b1a22"
         />
-        <g class="tooltip-group" transform="translate(425, -33)">
-          <rect x="0" y="0" width="280" height="110" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(425, -69)">
+          <rect x="0" y="0" width="280" height="146" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Fri, 27. Jun 2025: 4 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Fri, 27. Jun 2025: 6 items watched</tspan>
+            <tspan x="10" dy="18">• Squid Game S03E05 (2021)</tspan>
+            <tspan x="10" dy="18">• Squid Game S03E04 (2021)</tspan>
             <tspan x="10" dy="18">• Squid Game S03E03 (2021)</tspan>
             <tspan x="10" dy="18">• Squid Game S03E02 (2021)</tspan>
             <tspan x="10" dy="18">• The Discounters S02E01 (2021)</tspan>
@@ -12782,7 +12791,7 @@
     </g>
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell streak-cell streak-cell-2025"
+        <rect class="cell"
           x="476"
           y="85"
           width="14"
@@ -12803,7 +12812,7 @@
     </g>
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell streak-cell streak-cell-2025"
+        <rect class="cell"
           x="493"
           y="85"
           width="14"
@@ -12825,61 +12834,54 @@
     </g>
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell streak-cell streak-cell-2025"
+        <rect class="cell"
           x="510"
           y="85"
           width="14"
           height="14"
           rx="2"
-          fill="#5c1015"
+          fill="#161b22"
         />
-        <g class="tooltip-group" transform="translate(510, 21)">
-          <rect x="0" y="0" width="336" height="56" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(510, 39)">
+          <rect x="0" y="0" width="280" height="38" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Fri, 1. Aug 2025: 1 item watched</tspan>
-            <tspan x="10" dy="18">• Georgie &amp; Mandy&apos;s First Marriage S01E06 (2024)</tspan>
+            <tspan x="10" dy="22" font-weight="600">Fri, 1. Aug 2025: 0 items watched</tspan>
           </text>
         </g>
       </a>
     </g>
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell streak-cell streak-cell-2025"
+        <rect class="cell"
           x="527"
           y="85"
           width="14"
           height="14"
           rx="2"
-          fill="#8b1a22"
+          fill="#161b22"
         />
-        <g class="tooltip-group" transform="translate(527, -33)">
-          <rect x="0" y="0" width="280" height="110" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(527, 39)">
+          <rect x="0" y="0" width="280" height="38" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Fri, 8. Aug 2025: 4 items watched</tspan>
-            <tspan x="10" dy="18">• Malcolm in the Middle S06E10 (2000)</tspan>
-            <tspan x="10" dy="18">• Malcolm in the Middle S06E09 (2000)</tspan>
-            <tspan x="10" dy="18">• Malcolm in the Middle S06E08 (2000)</tspan>
-            <tspan x="10" dy="18">• Malcolm in the Middle S06E07 (2000)</tspan>
+            <tspan x="10" dy="22" font-weight="600">Fri, 8. Aug 2025: 0 items watched</tspan>
           </text>
         </g>
       </a>
     </g>
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell streak-cell streak-cell-2025"
+        <rect class="cell"
           x="544"
           y="85"
           width="14"
           height="14"
           rx="2"
-          fill="#5c1015"
+          fill="#161b22"
         />
-        <g class="tooltip-group" transform="translate(544, 3)">
-          <rect x="0" y="0" width="280" height="74" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(544, 39)">
+          <rect x="0" y="0" width="280" height="38" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Fri, 15. Aug 2025: 2 items watched</tspan>
-            <tspan x="10" dy="18">• Malcolm in the Middle S07E12 (2000)</tspan>
-            <tspan x="10" dy="18">• Malcolm in the Middle S07E11 (2000)</tspan>
+            <tspan x="10" dy="22" font-weight="600">Fri, 15. Aug 2025: 0 items watched</tspan>
           </text>
         </g>
       </a>
@@ -12892,12 +12894,13 @@
           width="14"
           height="14"
           rx="2"
-          fill="#161b22"
+          fill="#5c1015"
         />
-        <g class="tooltip-group" transform="translate(561, 39)">
-          <rect x="0" y="0" width="280" height="38" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(561, 21)">
+          <rect x="0" y="0" width="280" height="56" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Fri, 22. Aug 2025: 0 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Fri, 22. Aug 2025: 1 item watched</tspan>
+            <tspan x="10" dy="18">• Walk Hard: The Dewey Cox Story (2007)</tspan>
           </text>
         </g>
       </a>
@@ -12910,17 +12913,12 @@
           width="14"
           height="14"
           rx="2"
-          fill="#8b1a22"
+          fill="#161b22"
         />
-        <g class="tooltip-group" transform="translate(578, -51)">
-          <rect x="0" y="0" width="280" height="128" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(578, 39)">
+          <rect x="0" y="0" width="280" height="38" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Fri, 29. Aug 2025: 5 items watched</tspan>
-            <tspan x="10" dy="18">• Two and a Half Men S01E24 (2003)</tspan>
-            <tspan x="10" dy="18">• Two and a Half Men S01E23 (2003)</tspan>
-            <tspan x="10" dy="18">• Two and a Half Men S01E22 (2003)</tspan>
-            <tspan x="10" dy="18">• Two and a Half Men S01E21 (2003)</tspan>
-            <tspan x="10" dy="18">• Dexter S01E05 (2006)</tspan>
+            <tspan x="10" dy="22" font-weight="600">Fri, 29. Aug 2025: 0 items watched</tspan>
           </text>
         </g>
       </a>
@@ -12939,9 +12937,9 @@
           <rect x="0" y="0" width="280" height="92" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
             <tspan x="10" dy="22" font-weight="600">Fri, 5. Sep 2025: 3 items watched</tspan>
+            <tspan x="10" dy="18">• Two and a Half Men S03E04 (2003)</tspan>
+            <tspan x="10" dy="18">• Two and a Half Men S03E03 (2003)</tspan>
             <tspan x="10" dy="18">• The Paper S01E01 (2025)</tspan>
-            <tspan x="10" dy="18">• Two and a Half Men S02E24 (2003)</tspan>
-            <tspan x="10" dy="18">• Two and a Half Men S02E22 (2003)</tspan>
           </text>
         </g>
       </a>
@@ -12954,14 +12952,12 @@
           width="14"
           height="14"
           rx="2"
-          fill="#5c1015"
+          fill="#161b22"
         />
-        <g class="tooltip-group" transform="translate(612, 3)">
-          <rect x="0" y="0" width="280" height="74" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(612, 39)">
+          <rect x="0" y="0" width="280" height="38" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Fri, 12. Sep 2025: 2 items watched</tspan>
-            <tspan x="10" dy="18">• Two and a Half Men S04E10 (2003)</tspan>
-            <tspan x="10" dy="18">• Two and a Half Men S04E09 (2003)</tspan>
+            <tspan x="10" dy="22" font-weight="600">Fri, 12. Sep 2025: 0 items watched</tspan>
           </text>
         </g>
       </a>
@@ -12980,8 +12976,8 @@
           <rect x="0" y="0" width="301" height="74" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
             <tspan x="10" dy="22" font-weight="600">Fri, 19. Sep 2025: 2 items watched</tspan>
+            <tspan x="10" dy="18">• Paprika (2006)</tspan>
             <tspan x="10" dy="18">• (T)Raumschiff Surprise - Periode 1 (2004)</tspan>
-            <tspan x="10" dy="18">• Two and a Half Men S05E13 (2003)</tspan>
           </text>
         </g>
       </a>
@@ -12994,12 +12990,16 @@
           width="14"
           height="14"
           rx="2"
-          fill="#161b22"
+          fill="#8b1a22"
         />
-        <g class="tooltip-group" transform="translate(646, 39)">
-          <rect x="0" y="0" width="280" height="38" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(646, -33)">
+          <rect x="0" y="0" width="280" height="110" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Fri, 26. Sep 2025: 0 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Fri, 26. Sep 2025: 4 items watched</tspan>
+            <tspan x="10" dy="18">• Two and a Half Men S07E03 (2003)</tspan>
+            <tspan x="10" dy="18">• Two and a Half Men S07E02 (2003)</tspan>
+            <tspan x="10" dy="18">• Two and a Half Men S07E01 (2003)</tspan>
+            <tspan x="10" dy="18">• Dexter S02E05 (2006)</tspan>
           </text>
         </g>
       </a>
@@ -13012,13 +13012,12 @@
           width="14"
           height="14"
           rx="2"
-          fill="#5c1015"
+          fill="#161b22"
         />
-        <g class="tooltip-group" transform="translate(645, 21)">
-          <rect x="0" y="0" width="294" height="56" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(659, 39)">
+          <rect x="0" y="0" width="280" height="38" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Fri, 3. Oct 2025: 1 item watched</tspan>
-            <tspan x="10" dy="18">• Everything Everywhere All at Once (2022)</tspan>
+            <tspan x="10" dy="22" font-weight="600">Fri, 3. Oct 2025: 0 items watched</tspan>
           </text>
         </g>
       </a>
@@ -13217,15 +13216,12 @@
           width="14"
           height="14"
           rx="2"
-          fill="#5c1015"
+          fill="#161b22"
         />
-        <g class="tooltip-group" transform="translate(659, -15)">
-          <rect x="0" y="0" width="280" height="92" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(659, 39)">
+          <rect x="0" y="0" width="280" height="38" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Fri, 19. Dec 2025: 3 items watched</tspan>
-            <tspan x="10" dy="18">• The Simpsons S07E15 (1989)</tspan>
-            <tspan x="10" dy="18">• The Simpsons S07E14 (1989)</tspan>
-            <tspan x="10" dy="18">• The Simpsons S07E13 (1989)</tspan>
+            <tspan x="10" dy="22" font-weight="600">Fri, 19. Dec 2025: 0 items watched</tspan>
           </text>
         </g>
       </a>
@@ -13313,7 +13309,7 @@
     </g>
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell"
+        <rect class="cell streak-cell streak-cell-2025"
           x="51"
           y="102"
           width="14"
@@ -13334,7 +13330,7 @@
     </g>
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell"
+        <rect class="cell streak-cell streak-cell-2025"
           x="68"
           y="102"
           width="14"
@@ -13355,7 +13351,7 @@
     </g>
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell"
+        <rect class="cell streak-cell streak-cell-2025"
           x="85"
           y="102"
           width="14"
@@ -13376,7 +13372,7 @@
     </g>
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell"
+        <rect class="cell streak-cell streak-cell-2025"
           x="102"
           y="102"
           width="14"
@@ -13395,7 +13391,7 @@
     </g>
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell"
+        <rect class="cell streak-cell streak-cell-2025"
           x="119"
           y="102"
           width="14"
@@ -13419,7 +13415,7 @@
     </g>
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell"
+        <rect class="cell streak-cell streak-cell-2025"
           x="136"
           y="102"
           width="14"
@@ -13445,12 +13441,14 @@
           width="14"
           height="14"
           rx="2"
-          fill="#8b1a22"
+          fill="#c41e2a"
         />
-        <g class="tooltip-group" transform="translate(153, -34)">
-          <rect x="0" y="0" width="280" height="128" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(153, -70)">
+          <rect x="0" y="0" width="280" height="164" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Sat, 8. Mar 2025: 5 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Sat, 8. Mar 2025: 7 items watched</tspan>
+            <tspan x="10" dy="18">• Severance S01E05 (2022)</tspan>
+            <tspan x="10" dy="18">• Severance S01E04 (2022)</tspan>
             <tspan x="10" dy="18">• Severance S01E03 (2022)</tspan>
             <tspan x="10" dy="18">• Severance S01E02 (2022)</tspan>
             <tspan x="10" dy="18">• Severance S01E01 (2022)</tspan>
@@ -13470,10 +13468,11 @@
           rx="2"
           fill="#5c1015"
         />
-        <g class="tooltip-group" transform="translate(170, 38)">
-          <rect x="0" y="0" width="280" height="56" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(170, 20)">
+          <rect x="0" y="0" width="280" height="74" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Sat, 15. Mar 2025: 1 item watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Sat, 15. Mar 2025: 2 items watched</tspan>
+            <tspan x="10" dy="18">• Severance S02E07 (2022)</tspan>
             <tspan x="10" dy="18">• This Is 40 (2012)</tspan>
           </text>
         </g>
@@ -13493,12 +13492,12 @@
           <rect x="0" y="0" width="280" height="146" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
             <tspan x="10" dy="22" font-weight="600">Sat, 22. Mar 2025: 6 items watched</tspan>
+            <tspan x="10" dy="18">• The Girl Who Leapt Through Time (2006)</tspan>
             <tspan x="10" dy="18">• A Silent Voice: The Movie (2016)</tspan>
             <tspan x="10" dy="18">• Spider-Man (2002)</tspan>
             <tspan x="10" dy="18">• Two and a Half Men S04E08 (2003)</tspan>
             <tspan x="10" dy="18">• Two and a Half Men S05E12 (2003)</tspan>
             <tspan x="10" dy="18">• Two and a Half Men S05E09 (2003)</tspan>
-            <tspan x="10" dy="18">• I Want to Eat Your Pancreas (2018)</tspan>
           </text>
         </g>
       </a>
@@ -13668,10 +13667,11 @@
           rx="2"
           fill="#5c1015"
         />
-        <g class="tooltip-group" transform="translate(340, 38)">
-          <rect x="0" y="0" width="280" height="56" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(340, 20)">
+          <rect x="0" y="0" width="280" height="74" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Sat, 24. May 2025: 1 item watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Sat, 24. May 2025: 2 items watched</tspan>
+            <tspan x="10" dy="18">• Landman S01E01 (2024)</tspan>
             <tspan x="10" dy="18">• Final Destination Bloodlines (2025)</tspan>
           </text>
         </g>
@@ -13731,9 +13731,9 @@
           <rect x="0" y="0" width="280" height="92" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
             <tspan x="10" dy="22" font-weight="600">Sat, 14. Jun 2025: 3 items watched</tspan>
+            <tspan x="10" dy="18">• The Adjustment Bureau (2011)</tspan>
             <tspan x="10" dy="18">• Phineas and Ferb S05E01 (2007)</tspan>
             <tspan x="10" dy="18">• The Accountant² (2025)</tspan>
-            <tspan x="10" dy="18">• Companion (2025)</tspan>
           </text>
         </g>
       </a>
@@ -13748,10 +13748,11 @@
           rx="2"
           fill="#5c1015"
         />
-        <g class="tooltip-group" transform="translate(408, 38)">
-          <rect x="0" y="0" width="280" height="56" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(408, 20)">
+          <rect x="0" y="0" width="280" height="74" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Sat, 21. Jun 2025: 1 item watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Sat, 21. Jun 2025: 2 items watched</tspan>
+            <tspan x="10" dy="18">• Land of the Lost (2009)</tspan>
             <tspan x="10" dy="18">• Moonfall (2022)</tspan>
           </text>
         </g>
@@ -13765,17 +13766,15 @@
           width="14"
           height="14"
           rx="2"
-          fill="#8b1a22"
+          fill="#5c1015"
         />
-        <g class="tooltip-group" transform="translate(425, -34)">
-          <rect x="0" y="0" width="280" height="128" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(425, 2)">
+          <rect x="0" y="0" width="280" height="92" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Sat, 28. Jun 2025: 5 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Sat, 28. Jun 2025: 3 items watched</tspan>
             <tspan x="10" dy="18">• The Virgin Suicides (2000)</tspan>
             <tspan x="10" dy="18">• Squid Game S03E01 (2021)</tspan>
             <tspan x="10" dy="18">• Squid Game S03E06 (2021)</tspan>
-            <tspan x="10" dy="18">• Squid Game S03E05 (2021)</tspan>
-            <tspan x="10" dy="18">• Squid Game S03E04 (2021)</tspan>
           </text>
         </g>
       </a>
@@ -13801,7 +13800,7 @@
     </g>
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell streak-cell streak-cell-2025"
+        <rect class="cell"
           x="459"
           y="102"
           width="14"
@@ -13826,7 +13825,7 @@
     </g>
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell streak-cell streak-cell-2025"
+        <rect class="cell"
           x="476"
           y="102"
           width="14"
@@ -13847,7 +13846,7 @@
     </g>
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell streak-cell streak-cell-2025"
+        <rect class="cell"
           x="493"
           y="102"
           width="14"
@@ -13869,18 +13868,21 @@
     </g>
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell streak-cell streak-cell-2025"
+        <rect class="cell"
           x="510"
           y="102"
           width="14"
           height="14"
           rx="2"
-          fill="#8b1a22"
+          fill="#c41e2a"
         />
-        <g class="tooltip-group" transform="translate(510, -52)">
-          <rect x="0" y="0" width="308" height="146" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(510, -106)">
+          <rect x="0" y="0" width="308" height="200" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Sat, 2. Aug 2025: 6 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Sat, 2. Aug 2025: 9 items watched</tspan>
+            <tspan x="10" dy="18">• Freaks and Geeks S01E03 (1999)</tspan>
+            <tspan x="10" dy="18">• The Midnight Gospel S01E02 (2020)</tspan>
+            <tspan x="10" dy="18">• The Midnight Gospel S01E01 (2020)</tspan>
             <tspan x="10" dy="18">• The Naked Gun 2½: The Smell of Fear (1991)</tspan>
             <tspan x="10" dy="18">• Money Talks (1997)</tspan>
             <tspan x="10" dy="18">• Malcolm in the Middle S05E07 (2000)</tspan>
@@ -13893,7 +13895,7 @@
     </g>
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell streak-cell streak-cell-2025"
+        <rect class="cell"
           x="527"
           y="102"
           width="14"
@@ -13913,7 +13915,7 @@
     </g>
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell streak-cell streak-cell-2025"
+        <rect class="cell"
           x="544"
           y="102"
           width="14"
@@ -13941,13 +13943,12 @@
           rx="2"
           fill="#5c1015"
         />
-        <g class="tooltip-group" transform="translate(561, 2)">
-          <rect x="0" y="0" width="280" height="92" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(561, 20)">
+          <rect x="0" y="0" width="280" height="74" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Sat, 23. Aug 2025: 3 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Sat, 23. Aug 2025: 2 items watched</tspan>
             <tspan x="10" dy="18">• Medical Police S01E02 (2020)</tspan>
             <tspan x="10" dy="18">• Medical Police S01E01 (2020)</tspan>
-            <tspan x="10" dy="18">• Walk Hard: The Dewey Cox Story (2007)</tspan>
           </text>
         </g>
       </a>
@@ -13960,12 +13961,13 @@
           width="14"
           height="14"
           rx="2"
-          fill="#8b1a22"
+          fill="#c41e2a"
         />
-        <g class="tooltip-group" transform="translate(578, -52)">
-          <rect x="0" y="0" width="280" height="146" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(578, -70)">
+          <rect x="0" y="0" width="280" height="164" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Sat, 30. Aug 2025: 6 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Sat, 30. Aug 2025: 7 items watched</tspan>
+            <tspan x="10" dy="18">• Dexter S01E06 (2006)</tspan>
             <tspan x="10" dy="18">• SpongeBob SquarePants S10E03 (1999)</tspan>
             <tspan x="10" dy="18">• SpongeBob SquarePants S08E45 (1999)</tspan>
             <tspan x="10" dy="18">• SpongeBob SquarePants S07E52 (1999)</tspan>
@@ -13984,16 +13986,15 @@
           width="14"
           height="14"
           rx="2"
-          fill="#8b1a22"
+          fill="#5c1015"
         />
-        <g class="tooltip-group" transform="translate(595, -16)">
-          <rect x="0" y="0" width="280" height="110" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(595, 2)">
+          <rect x="0" y="0" width="280" height="92" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Sat, 6. Sep 2025: 4 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Sat, 6. Sep 2025: 3 items watched</tspan>
+            <tspan x="10" dy="18">• Nobody 2 (2025)</tspan>
             <tspan x="10" dy="18">• Two and a Half Men S03E01 (2003)</tspan>
             <tspan x="10" dy="18">• Two and a Half Men S03E05 (2003)</tspan>
-            <tspan x="10" dy="18">• Two and a Half Men S03E04 (2003)</tspan>
-            <tspan x="10" dy="18">• Two and a Half Men S03E03 (2003)</tspan>
           </text>
         </g>
       </a>
@@ -14024,15 +14025,16 @@
           width="14"
           height="14"
           rx="2"
-          fill="#5c1015"
+          fill="#8b1a22"
         />
-        <g class="tooltip-group" transform="translate(629, 2)">
-          <rect x="0" y="0" width="280" height="92" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(629, -16)">
+          <rect x="0" y="0" width="280" height="110" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Sat, 20. Sep 2025: 3 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Sat, 20. Sep 2025: 4 items watched</tspan>
+            <tspan x="10" dy="18">• Two and a Half Men S05E18 (2003)</tspan>
+            <tspan x="10" dy="18">• Two and a Half Men S05E17 (2003)</tspan>
             <tspan x="10" dy="18">• Two and a Half Men S05E15 (2003)</tspan>
             <tspan x="10" dy="18">• Two and a Half Men S05E14 (2003)</tspan>
-            <tspan x="10" dy="18">• Paprika (2006)</tspan>
           </text>
         </g>
       </a>
@@ -14047,10 +14049,11 @@
           rx="2"
           fill="#ed1c24"
         />
-        <g class="tooltip-group" transform="translate(646, -232)">
-          <rect x="0" y="0" width="280" height="326" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(646, -178)">
+          <rect x="0" y="0" width="280" height="272" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Sat, 27. Sep 2025: 16 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Sat, 27. Sep 2025: 13 items watched</tspan>
+            <tspan x="10" dy="18">• 3 Body Problem S01E01 (2024)</tspan>
             <tspan x="10" dy="18">• Two and a Half Men S07E15 (2003)</tspan>
             <tspan x="10" dy="18">• Two and a Half Men S07E14 (2003)</tspan>
             <tspan x="10" dy="18">• Two and a Half Men S07E13 (2003)</tspan>
@@ -14063,10 +14066,6 @@
             <tspan x="10" dy="18">• Two and a Half Men S07E06 (2003)</tspan>
             <tspan x="10" dy="18">• Two and a Half Men S07E05 (2003)</tspan>
             <tspan x="10" dy="18">• Two and a Half Men S07E04 (2003)</tspan>
-            <tspan x="10" dy="18">• Two and a Half Men S07E03 (2003)</tspan>
-            <tspan x="10" dy="18">• Two and a Half Men S07E02 (2003)</tspan>
-            <tspan x="10" dy="18">• Two and a Half Men S07E01 (2003)</tspan>
-            <tspan x="10" dy="18">• Dexter S02E05 (2006)</tspan>
           </text>
         </g>
       </a>
@@ -14118,10 +14117,11 @@
           rx="2"
           fill="#5c1015"
         />
-        <g class="tooltip-group" transform="translate(659, 20)">
-          <rect x="0" y="0" width="280" height="74" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(659, 2)">
+          <rect x="0" y="0" width="280" height="92" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Sat, 18. Oct 2025: 2 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Sat, 18. Oct 2025: 3 items watched</tspan>
+            <tspan x="10" dy="18">• The A-Team (2010)</tspan>
             <tspan x="10" dy="18">• Angie Tribeca S03E06 (2016)</tspan>
             <tspan x="10" dy="18">• The Paper S01E02 (2025)</tspan>
           </text>
