@@ -1,296 +1,212 @@
-# Trakt Contribution Graph
+# 📺 Trakt Contribution Graph
 
-[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/nichtlegacy/trakt-graph/update-trakt-graph.yml?label=action&style=flat-square)](https://github.com/nichtlegacy/trakt-graph/actions/workflows/update-trakt-graph.yml)
-[![GitHub release](https://img.shields.io/github/release/nichtlegacy/trakt-graph.svg?style=flat-square)](https://github.com/nichtlegacy/trakt-graph/releases/latest)
-![Made with Node.js](https://img.shields.io/badge/Made%20with-Node.js-green?style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=flat-square)
-![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)
+<p align="center">
+  <img src="https://img.shields.io/github/actions/workflow/status/nichtlegacy/trakt-graph/update-trakt-graph.yml?label=action&style=flat-square" alt="GitHub Workflow Status">
+  <img src="https://img.shields.io/github/release/nichtlegacy/trakt-graph.svg?style=flat-square" alt="GitHub Release">
+  <img src="https://img.shields.io/badge/Made%20with-Node.js-green?style=flat-square" alt="Made with Node.js">
+  <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?style=flat-square" alt="JavaScript">
+  <img src="https://img.shields.io/badge/license-MIT-blue?style=flat-square" alt="License">
+</p>
 
-Generates a GitHub-style contribution graph from your Trakt watch history.
+<p align="center">
+  <strong>Transform your Trakt watch history into a beautiful GitHub-style contribution graph</strong>
+</p>
 
-<p align="left">
+<p align="center">
   <a href="https://trakt.tv/users/TheLagacyMiner/" target="_blank">
     <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://github.com/nichtlegacy/trakt-graph/blob/main/images/github-trakt-dark.svg"
-      />
-      <source
-        media="(prefers-color-scheme: light)"
-        srcset="https://github.com/nichtlegacy/trakt-graph/blob/main/images/github-trakt-light.svg"
-      />
-      <img
-        alt="Trakt contribution graph"
-        src="https://github.com/nichtlegacy/trakt-graph/blob/main/images/github-trakt-light.svg"
-      />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/nichtlegacy/trakt-graph/raw/main/images/github-trakt-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/nichtlegacy/trakt-graph/raw/main/images/github-trakt-light.svg">
+      <img alt="Trakt contribution graph" src="https://github.com/nichtlegacy/trakt-graph/raw/main/images/github-trakt-light.svg" width="100%">
     </picture>
   </a>
 </p>
 
-Turn your Trakt watch history (movies and TV shows) into a visually appealing heatmap, styled like GitHub's contribution graph. Display your viewing habits in your GitHub profile README or share them anywhere with light and dark theme SVGs!
+---
 
-## Features
+## ✨ Features
 
-- Fetches your Trakt watch history via the Trakt API.
-- Generates SVG graphs in both light and dark themes for:
-  - Movies only
-  - Shows only
-  - All watch history combined
-- Includes your Trakt profile image and the Trakt logo.
-- Supports customization: choose a specific year, set the week start (Sunday/Monday), and select content types.
-- Interactive tooltips: Hover over a cell to see details of what was watched on that day (viewable in a browser).
+| Feature | Description |
+|---------|-------------|
+| 🎨 **Light & Dark Themes** | Automatically adapts to GitHub's theme preference |
+| 📊 **Activity Heatmap** | GitHub-style contribution graph showing movie & episode activity |
+| 👤 **Profile Integration** | Shows profile picture, display name, and all-time stats |
+| 🎬 **Content Filtering** | Display movies only, shows only, or everything together |
+| 📅 **Multi-Year Support** | Generate vertical graphs spanning multiple years |
+| 🎯 **Streak Highlighting** | Hover over stats to highlight your longest activity streak |
+| 💬 **Interactive Tooltips** | Hover over cells to see specific titles watched that day |
+| 🏎️ **Fast & Efficient** | Uses the Trakt API with intelligent pagination and caching |
+| 🔄 **Daily Updates** | Automated updates via GitHub Actions |
 
-## Usage
+---
 
-### GitHub Action
+## 📸 Examples
 
-Automate graph generation using GitHub Actions.
+### Movies Only
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/nichtlegacy/trakt-graph/raw/main/images/trakt-movies-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/nichtlegacy/trakt-graph/raw/main/images/trakt-movies-light.svg">
+    <img alt="Trakt movies only graph" src="https://github.com/nichtlegacy/trakt-graph/raw/main/images/trakt-movies-light.svg" width="100%">
+  </picture>
+</p>
+
+### Episodes Only
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/nichtlegacy/trakt-graph/raw/main/images/trakt-shows-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/nichtlegacy/trakt-graph/raw/main/images/trakt-shows-light.svg">
+    <img alt="Trakt episodes only graph" src="https://github.com/nichtlegacy/trakt-graph/raw/main/images/trakt-shows-light.svg" width="100%">
+  </picture>
+</p>
+
+---
+
+## 🚀 Quick Start
+
+### 1. Fork this Repository
+
+Click the **Fork** button at the top-right of this page.
+
+### 2. Configure Trakt API
+
+1. Go to [Trakt API App Setup](https://trakt.tv/oauth/applications) and create a new application.
+2. For **Redirect URI**, use `urn:ietf:wg:oauth:2.0:oob`.
+3. Copy your **Client ID**.
+4. In your GitHub repository, go to **Settings** → **Secrets and variables** → **Actions**.
+5. Add a new **Repository secret**:
+   - Name: `TRAKT_API_KEY`
+   - Value: `(Your Trakt Client ID)`
+
+### 3. Update Your Username
+
+Edit `.github/workflows/update-trakt-graph.yml`:
 
 ```yaml
-name: Update Trakt Contribution Graph
-on:
-  schedule:
-    - cron: "0 0 * * *" # Runs daily at midnight UTC
-  workflow_dispatch: # Allows manual triggering
-permissions:
-  contents: write
-jobs:
-  update-trakt-graph:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
-        with:
-          node-version: '20'
-          cache: 'npm'
-      - run: npm ci
-      - run: npm start -u YOUR_TRAKT_USERNAME -a
-        env:
-          TRAKT_API_KEY: ${{ secrets.TRAKT_API_KEY }}
-      - run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add images/github-trakt-*.svg
-          git commit --allow-empty -m "🔄 Update Trakt contribution graph"
-          git push
+env:
+  TRAKT_USERNAME: "YOUR_TRAKT_USERNAME"
 ```
 
-#### Setup Steps
+### 4. Enable GitHub Actions
 
-1. **Fork This Repository**:
-   - Click "Fork" to create a copy under your GitHub account.
+Go to **Actions** tab → Enable workflows if prompted.
 
-2. **Set Up Environment Variables**:
-   - Go to your repository's "Settings" > "Secrets and variables" > "Actions" > "Secrets".
-   - Add `TRAKT_API_KEY` with your Trakt API key (see [Obtaining a Trakt API Key](#obtaining-a-trakt-api-key)).
+### 5. Run the Workflow
 
-3. **Update the Username**:
-   - Open `.github/workflows/update-trakt-graph.yml`.
-   - Replace `YOUR_TRAKT_USERNAME` with your Trakt username:
-     ```yaml
-     run: npm start -u YOUR_TRAKT_USERNAME
-     ```
+The graph updates daily at midnight UTC, or trigger manually via the **Actions** tab.
 
-4. **Enable GitHub Actions**:
-   - Go to the "Actions" tab and enable workflows if prompted.
+---
 
-5. **Customize (Optional)**:
-   - Add flags to the `npm start` command:
-     - `-y YEAR`: Specify a year (e.g., `-y 2024`).
-     - `-w monday`: Start weeks on Monday (default: `sunday`).
-     - `-m`: Filter to movies only.
-     - `-s`: Filter to shows only.
-     - `-a`: Generate all types (`movies`, `shows`, and `all`) at once.
-     Example:
-     ```yaml
-     run: npm start -u YOUR_TRAKT_USERNAME -y 2024 -a
-     ```
-
-6. **Update the README**:
-   - Replace placeholders in the `<picture>` tag with your GitHub and Trakt usernames:
-     ```html
-     <p align="left">
-       <a href="https://trakt.tv/users/YOUR_TRAKT_USERNAME/" target="_blank">
-         <picture>
-           <source
-             media="(prefers-color-scheme: dark)"
-             srcset="https://github.com/YOUR_USERNAME/trakt-graph/blob/main/images/github-trakt-dark.svg"
-           />
-           <source
-             media="(prefers-color-scheme: light)"
-             srcset="https://github.com/YOUR_USERNAME/trakt-graph/blob/main/images/github-trakt-light.svg"
-           />
-           <img
-             alt="Trakt contribution graph"
-             src="https://github.com/YOUR_USERNAME/trakt-graph/blob/main/images/github-trakt-light.svg"
-           />
-         </picture>
-       </a>
-     </p>
-     ```
-
-7. **Run the Action**:
-   - Wait for the daily run or trigger it manually via the "Actions" tab.
-
-### Local Usage
-
-Generate the graph locally:
+## 📖 CLI Usage
 
 ```bash
-# Clone the repo
-git clone https://github.com/nichtlegacy/trakt-graph.git
-cd trakt-graph
-
 # Install dependencies
 npm install
 
-# Generate the graph
-npm start -u YOUR_TRAKT_USERNAME
+# Set your API Key (Client ID)
+$env:TRAKT_API_KEY = "your_client_id" # Windows PowerShell
+# export TRAKT_API_KEY="your_client_id" # Linux/macOS
+
+# Basic usage
+node src/cli.js <username>
+
+# With options
+node src/cli.js <username> [options]
 ```
 
-The SVGs will be saved to the `images/` directory. Add optional flags like `-y 2024` or `-w monday`.
+### Arguments
 
-## Prerequisites
+| Flag | Description | Default |
+|------|-------------|---------|
+| `-y <years>` | Year(s) to generate, comma-separated (e.g. `2025,2024`) | Current year |
+| `-t <type>` | Content type: `movies`, `shows`, or `all` | `all` |
+| `-w <day>` | Week start: `sunday` or `monday` | `sunday` |
+| `-o <path>` | Output path (without extension) | `images/github-trakt` |
+| `-g <bool>` | Enable username gradient: `true` or `false` | `true` |
+| `-p` | Export PNG files in addition to SVG | Disabled |
 
-- A public Trakt profile with watch history.
-- A Trakt API key (see below).
-- Node.js v18+ (for local use).
-- GitHub account with Actions enabled (for automation).
+---
 
-## Obtaining a Trakt API Key
+## 🔧 GitHub Actions Setup
 
-To use this project, you’ll need a Trakt API key (Client ID) from Trakt.tv. Follow these steps to obtain one:
+### 1. Repository Secret
 
-1. Sign in to [Trakt.tv](https://trakt.tv).
-2. Go to [Settings > API > New Application](https://trakt.tv/oauth/applications/new).
-3. Fill out the application form:
-   - **Name**: "Trakt Contribution Graph" (or any name you prefer).
-   - **Icon**: Leave unselected (no icon required).
-     - *Note*: If you choose to upload one, use a transparent PNG, square, and at least 256x256 pixels.
-   - **Description**: Optional (e.g., "Generates a contribution graph from Trakt watch history"). This appears in the Connected Apps section when users grant access.
-   - **Redirect URI**: Enter `urn:ietf:wg:oauth:2.0:oob` (for Device authentication, as no redirect is needed for this script).
-     - Enter this exactly as shown, one URI per line, without query strings.
-   - **Javascript (CORS) Origins**: Leave blank (not required for this project).
-   - **Permissions**: Check both:
-     - `/checkin`
-     - `/scrobble`
-     - *Note*: These permissions are selected for completeness, though this script only requires read access to your history.
-4. Click "Save" to create the application.
-5. Copy the **Client ID** from the application details page — this is your `TRAKT_API_KEY`.
-6. For local use, add it to a `.env` file in the project root:
-   ```
-   TRAKT_API_KEY=your-client-id-here
-   ```
-7. For GitHub Actions, add it as a repository secret:
-   - Go to "Settings" > "Secrets and variables" > "Actions" > "Secrets".
-   - Add a new secret named `TRAKT_API_KEY` with the Client ID as the value (see [Setup Steps](#setup-steps)).
+To use the automated workflow, you must provide your Trakt API Key as a GitHub Secret:
 
-## Project Structure
+1. Go to your repository on GitHub.
+2. Navigate to **Settings** → **Secrets and variables** → **Actions**.
+3. Create a **New repository secret**.
+4. Set the name to `TRAKT_API_KEY` and the value to your Trakt **Client ID**.
+
+### 2. Workflow File
+
+Full configuration is available in the workflow file header:
+
+```yaml
+env:
+  TRAKT_USERNAME: "TheLagacyMiner"
+  YEARS: ""              # e.g. "2025,2024" or empty for current
+  CONTENT_TYPE: "all"    # "movies", "shows", or "all"
+  WEEK_START: "sunday"
+  GRADIENT: "true"
+```
+
+---
+
+## 📂 Project Structure
 
 ```
 trakt-graph/
-├── images/              # Output directory for generated SVGs
-├── .github/            # GitHub Actions workflows
+├── .github/
 │   └── workflows/
 │       └── update-trakt-graph.yml
-├── standalone.js            # Main script
-├── package.json        # Dependencies and scripts
-├── package-lock.json   # Dependency lock file
-└── README.md           # This file
+├── fonts/               # Required for SVG text measurement
+├── images/              # Target directory for generated graphs
+├── src/
+│   ├── cli.js           # CLI entry point
+│   ├── fetcher.js       # Trakt API interaction
+│   ├── generator.js     # SVG layout and rendering
+│   ├── stats.js         # Activity calculations
+│   └── exporter.js      # PNG export (Sharp)
+├── package.json
+└── README.md
 ```
 
-- **`standalone.js`**: Core logic for fetching Trakt data, processing it, and generating SVGs.
-- **`images/`**: Default output directory for `github-trakt-dark.svg` and `github-trakt-light.svg`.
+---
 
-## API Routes
+## 🖼️ Embed in Your README
 
-The script uses the following Trakt API endpoints:
-- **`GET /users/{username}?extended=full`**: Fetches user profile data (display name, avatar).
-- **`GET /users/{username}/history`**: Retrieves all watch history (paginated).
-- **`GET /users/{username}/history/movies`**: Retrieves movie watch history.
-- **`GET /users/{username}/history/shows`**: Retrieves show watch history.
-
-Requests are authenticated with the `TRAKT_API_KEY` via the `trakt-api-key` header.
-
-## Logging
-
-The script includes console logs for debugging and monitoring:
-- **Profile Fetch Errors**: Warns if profile data fetch fails, using fallback values.
-- **Image Conversion Errors**: Warns if Base64 conversion fails (e.g., for avatars or logos).
-- **History Fetch**: Logs page-by-page progress (e.g., "Fetched page 1: 100 items").
-- **History Processing**: Logs the selected year, year-wise counts, total items, and day count stats.
-- **Output Confirmation**: Confirms SVG file generation.
-
-These logs are useful for troubleshooting API issues or verifying data processing.
-
-## Screenshots
-
-Below are example outputs with automatic light/dark switching:
-
-### All (Default View)
-<p align="left">
-  <a href="https://trakt.tv/users/TheLagacyMiner" target="_blank">
+```html
+<p align="center">
+  <a href="https://trakt.tv/users/YOUR_TRAKT_USERNAME/" target="_blank">
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="images/github-trakt-dark.svg"
+        srcset="https://github.com/YOUR_GITHUB_USERNAME/trakt-graph/blob/main/images/github-trakt-dark.svg"
       />
       <source
         media="(prefers-color-scheme: light)"
-        srcset="images/github-trakt-light.svg"
+        srcset="https://github.com/YOUR_GITHUB_USERNAME/trakt-graph/blob/main/images/github-trakt-light.svg"
       />
       <img
-        alt="Trakt contribution graph (all)"
-        src="images/github-trakt-light.svg"
+        alt="Trakt contribution graph"
+        src="https://github.com/YOUR_GITHUB_USERNAME/trakt-graph/blob/main/images/github-trakt-light.svg"
       />
     </picture>
   </a>
 </p>
+```
 
-### Movies Only
-<p align="left">
-  <a href="https://trakt.tv/users/TheLagacyMiner" target="_blank">
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="images/github-trakt-movies-dark.svg"
-      />
-      <source
-        media="(prefers-color-scheme: light)"
-        srcset="images/github-trakt-movies-light.svg"
-      />
-      <img
-        alt="Trakt contribution graph (movies)"
-        src="images/github-trakt-movies-light.svg"
-      />
-    </picture>
-  </a>
-</p>
+---
 
-### Shows Only
-<p align="left">
-  <a href="https://trakt.tv/users/TheLagacyMiner" target="_blank">
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="images/github-trakt-shows-dark.svg"
-      />
-      <source
-        media="(prefers-color-scheme: light)"
-        srcset="images/github-trakt-shows-light.svg"
-      />
-      <img
-        alt="Trakt contribution graph (shows)"
-        src="images/github-trakt-shows-light.svg"
-      />
-    </picture>
-  </a>
-</p>
+## 🛠️ Requirements
 
-## Contributing
+- **Node.js** v18 or higher
+- **Trakt API Key** (Client ID)
+- **GitHub Actions** enabled for automation
 
-Have ideas or improvements? Open an issue or submit a pull request! Contributions are welcome.
+---
 
-## License
+## 🤝 Contributing & License
 
-MIT License - see [LICENSE](LICENSE) for details.
+MIT License. Contributions are welcome!

@@ -1,8 +1,31 @@
-name: Update Trakt Contribution Graph
+name: Update Trakt Graph
+
+# ╔════════════════════════════════════════════════════════════════╗
+# ║  CONFIGURATION - Edit these values for your Trakt profile      ║
+# ╚════════════════════════════════════════════════════════════════╝
+env:
+  TRAKT_USERNAME: "TheLagacyMiner"     # Your Trakt username
+  YEARS: "2026,2025"                           # Years to generate (e.g. "2025,2024" or leave empty for current)
+  CONTENT_TYPE: "all"                 # "movies", "shows", or "all"
+  EXPORT_PNG: "false"                 # Set to "true" to also generate PNG files
+  WEEK_START: "sunday"                # "sunday" or "monday"
+  GRADIENT: "true"                    # "true" for colored name, "false" for white
 
 on:
+  # Daily at midnight UTC
   schedule:
     - cron: "0 0 * * *"
+  
+  # On push to main
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - 'README.md'
+      - 'LICENSE'
+      - '.gitignore'
+  
+  # Manual trigger
   workflow_dispatch:
 
 permissions:
@@ -13,22 +36,47 @@ jobs:
     runs-on: ubuntu-latest
     env:
       TRAKT_API_KEY: ${{ secrets.TRAKT_API_KEY }}
-
+    
     steps:
-      - uses: actions/checkout@v4
-
-      - uses: actions/setup-node@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
           node-version: '20'
           cache: 'npm'
+      
+      - name: Install dependencies
+        run: npm ci
+      
+      - name: Generate Graph
+        run: |
+          # Build command based on configuration
+          CMD="node src/cli.js ${{ env.TRAKT_USERNAME }} -o images/github-trakt"
+          
+          if [ -n "${{ env.YEARS }}" ]; then CMD="$CMD -y ${{ env.YEARS }}"; fi
+          if [ "${{ env.CONTENT_TYPE }}" != "all" ]; then CMD="$CMD -t ${{ env.CONTENT_TYPE }}"; fi
+          if [ "${{ env.WEEK_START }}" = "monday" ]; then CMD="$CMD -w monday"; fi
+          if [ "${{ env.GRADIENT }}" = "false" ]; then CMD="$CMD -g false"; fi
+          if [ "${{ env.EXPORT_PNG }}" = "true" ]; then CMD="$CMD -p"; fi
+          
+          echo "Running: $CMD"
+          eval $CMD
 
-      - run: npm ci
-
-      - run: node standalone.js -u TheLagacyMiner -a
-
-      - run: |
+      - name: Commit and push changes
+        run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add images/github-trakt-*.svg
-          git commit --allow-empty -m "🔄 Update Trakt graph"
-          git push
+          
+          # Add all generated files
+          git add images/
+          
+          # Check if there are changes
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M UTC")
+            git commit -m "Update Trakt graph - $TIMESTAMP"
+            git push
+          fi
