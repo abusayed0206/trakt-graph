@@ -84,7 +84,7 @@
       <tspan fill="#656d76"> Movies</tspan>
       
       <tspan dx="5" fill="#656d76">•</tspan>
-      <tspan dx="5" fill="#1f2328">585</tspan>
+      <tspan dx="5" fill="#1f2328">587</tspan>
       <tspan fill="#656d76"> Episodes</tspan>
       
     </text>
@@ -101,12 +101,12 @@
     <text x="0" y="20" font-size="16" font-weight="600" fill="#1f2328">2026</text>
     <!-- Items count (static, no tooltip) -->
     <g transform="translate(60, 5)">
-      <text x="0" y="15" font-size="14" font-weight="500" fill="#656d76">33 Items</text>
+      <text x="0" y="15" font-size="14" font-weight="500" fill="#656d76">35 Items</text>
     </g>
     
     <!-- Days Active with hover tooltip -->
     <g class="days-active-group" transform="translate(180, 5)">
-      <text x="0" y="15" font-size="14" font-weight="500" fill="#656d76">12 Days Active</text>
+      <text x="0" y="15" font-size="14" font-weight="500" fill="#656d76">13 Days Active</text>
       <g class="days-active-tooltip" transform="translate(-20, -115)">
         <rect x="0" y="0" width="200" height="105" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
         <text x="100" y="18" font-size="11" font-weight="600" fill="#1f2328" text-anchor="middle">Weekly Distribution</text>
@@ -120,8 +120,8 @@
         <text x="75" y="62" font-size="9" fill="#1f2328" text-anchor="middle">3</text>
         <rect x="68" y="65" width="14" height="15" rx="2" fill="#ed4c55"/>
         <text x="75" y="100" font-size="9" fill="#1f2328" text-anchor="middle">T</text>
-        <text x="99" y="67" font-size="9" fill="#1f2328" text-anchor="middle">2</text>
-        <rect x="92" y="70" width="14" height="10" rx="2" fill="#ed4c55"/>
+        <text x="99" y="57" font-size="9" fill="#1f2328" text-anchor="middle">4</text>
+        <rect x="92" y="60" width="14" height="20" rx="2" fill="#ed4c55"/>
         <text x="99" y="100" font-size="9" fill="#1f2328" text-anchor="middle">W</text>
         <text x="123" y="37" font-size="9" fill="#1f2328" text-anchor="middle">8</text>
         <rect x="116" y="40" width="14" height="40" rx="2" fill="#ed4c55"/>
@@ -3025,12 +3025,14 @@
           width="14"
           height="14"
           rx="2"
-          fill="#ebedf0"
+          fill="#ff8a8f"
         />
-        <g class="tooltip-group" transform="translate(34, 5)">
-          <rect x="0" y="0" width="280" height="38" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(34, -31)">
+          <rect x="0" y="0" width="280" height="74" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#1f2328">
-            <tspan x="10" dy="22" font-weight="600">Wed, 14. Jan 2026: 0 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Wed, 14. Jan 2026: 2 items watched</tspan>
+            <tspan x="10" dy="18">• The Middle S02E15 (2009)</tspan>
+            <tspan x="10" dy="18">• The Middle S02E14 (2009)</tspan>
           </text>
         </g>
       </a>
