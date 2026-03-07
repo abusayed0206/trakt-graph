@@ -84,7 +84,7 @@
       <tspan fill="#656d76"> Movies</tspan>
       
       <tspan dx="5" fill="#656d76">•</tspan>
-      <tspan dx="5" fill="#1f2328">731</tspan>
+      <tspan dx="5" fill="#1f2328">736</tspan>
       <tspan fill="#656d76"> Episodes</tspan>
       
     </text>
@@ -101,12 +101,12 @@
     <text x="0" y="20" font-size="16" font-weight="600" fill="#1f2328">2026</text>
     <!-- Items count (static, no tooltip) -->
     <g transform="translate(60, 5)">
-      <text x="0" y="15" font-size="14" font-weight="500" fill="#656d76">189 Items</text>
+      <text x="0" y="15" font-size="14" font-weight="500" fill="#656d76">194 Items</text>
     </g>
     
     <!-- Days Active with hover tooltip -->
     <g class="days-active-group" transform="translate(180, 5)">
-      <text x="0" y="15" font-size="14" font-weight="500" fill="#656d76">58 Days Active</text>
+      <text x="0" y="15" font-size="14" font-weight="500" fill="#656d76">60 Days Active</text>
       <g class="days-active-tooltip" transform="translate(-20, -115)">
         <rect x="0" y="0" width="200" height="105" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
         <text x="100" y="18" font-size="11" font-weight="600" fill="#1f2328" text-anchor="middle">Weekly Distribution</text>
@@ -123,11 +123,11 @@
         <text x="99" y="56" font-size="9" fill="#1f2328" text-anchor="middle">22</text>
         <rect x="92" y="59" width="14" height="21" rx="2" fill="#ed4c55"/>
         <text x="99" y="100" font-size="9" fill="#1f2328" text-anchor="middle">W</text>
-        <text x="123" y="54" font-size="9" fill="#1f2328" text-anchor="middle">24</text>
-        <rect x="116" y="57" width="14" height="23" rx="2" fill="#ed4c55"/>
+        <text x="123" y="51" font-size="9" fill="#1f2328" text-anchor="middle">28</text>
+        <rect x="116" y="54" width="14" height="26" rx="2" fill="#ed4c55"/>
         <text x="123" y="100" font-size="9" fill="#1f2328" text-anchor="middle">T</text>
-        <text x="147" y="68" font-size="9" fill="#1f2328" text-anchor="middle">10</text>
-        <rect x="140" y="71" width="14" height="9" rx="2" fill="#ed4c55"/>
+        <text x="147" y="67" font-size="9" fill="#1f2328" text-anchor="middle">11</text>
+        <rect x="140" y="70" width="14" height="10" rx="2" fill="#ed4c55"/>
         <text x="147" y="100" font-size="9" fill="#1f2328" text-anchor="middle">F</text>
         <text x="171" y="51" font-size="9" fill="#1f2328" text-anchor="middle">28</text>
         <rect x="164" y="54" width="14" height="26" rx="2" fill="#ed4c55"/>
@@ -138,10 +138,10 @@
     <g class="streak-group streak-group-2026" transform="translate(320, 5)">
       <path d="M8.5 14.5A2.5 2.5 0 0 0 11 12c0-1.38-.5-2-1-3-1.072-2.143-.224-4.054 2-6 .5 2.5 2 4.9 4 6.5 2 1.6 3 3.5 3 5.5a7 7 0 1 1-14 0c0-1.153.433-2.294 1-3a2.5 2.5 0 0 0 2.5 2.5z"
             stroke="#ed1c24" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" fill="#ed1c24" fill-opacity="0.2" transform="scale(0.75)"/>
-      <text x="18" y="13" font-size="14" font-weight="500" fill="#656d76">19 Day Streak</text>
+      <text x="18" y="13" font-size="14" font-weight="500" fill="#656d76">21 Day Streak</text>
       <g class="streak-tooltip" transform="translate(0, -45)">
         <rect x="-10" y="0" width="180" height="36" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
-        <text x="5" y="23" font-size="12" fill="#1f2328">2026-02-14 → 2026-03-04</text>
+        <text x="5" y="23" font-size="12" fill="#1f2328">2026-02-14 → 2026-03-06</text>
       </g>
     </g>
     <g transform="translate(800, 0)">
@@ -4231,18 +4231,22 @@
     </g>
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell"
+        <rect class="cell streak-cell streak-cell-2026"
           x="153"
           y="68"
           width="14"
           height="14"
           rx="2"
-          fill="#ebedf0"
+          fill="#ff8a8f"
         />
-        <g class="tooltip-group" transform="translate(153, 22)">
-          <rect x="0" y="0" width="280" height="38" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(153, -50)">
+          <rect x="0" y="0" width="280" height="110" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#1f2328">
-            <tspan x="10" dy="22" font-weight="600">Thu, 5. Mar 2026: 0 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Thu, 5. Mar 2026: 4 items watched</tspan>
+            <tspan x="10" dy="18">• The Middle S08E11 (2009)</tspan>
+            <tspan x="10" dy="18">• The Middle S08E10 (2009)</tspan>
+            <tspan x="10" dy="18">• The Middle S08E09 (2009)</tspan>
+            <tspan x="10" dy="18">• The Middle S08E08 (2009)</tspan>
           </text>
         </g>
       </a>
@@ -5195,18 +5199,19 @@
     </g>
     <g class="cell-group">
       <a href="https://trakt.tv/users/TheLagacyMiner/history" target="_blank">
-        <rect class="cell"
+        <rect class="cell streak-cell streak-cell-2026"
           x="153"
           y="85"
           width="14"
           height="14"
           rx="2"
-          fill="#ebedf0"
+          fill="#ffc9cc"
         />
-        <g class="tooltip-group" transform="translate(153, 39)">
-          <rect x="0" y="0" width="280" height="38" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(153, 21)">
+          <rect x="0" y="0" width="280" height="56" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#1f2328">
-            <tspan x="10" dy="22" font-weight="600">Fri, 6. Mar 2026: 0 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Fri, 6. Mar 2026: 1 item watched</tspan>
+            <tspan x="10" dy="18">• The Middle S08E12 (2009)</tspan>
           </text>
         </g>
       </a>
