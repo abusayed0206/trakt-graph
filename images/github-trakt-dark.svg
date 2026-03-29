@@ -80,7 +80,7 @@
       </a>
       
       <tspan dx="5" fill="#7d8590">•</tspan>
-      <tspan dx="5" fill="#e6edf3">377</tspan>
+      <tspan dx="5" fill="#e6edf3">378</tspan>
       <tspan fill="#7d8590"> Movies</tspan>
       
       <tspan dx="5" fill="#7d8590">•</tspan>
@@ -97,7 +97,7 @@
     <text x="0" y="20" font-size="16" font-weight="600" fill="#e6edf3">2026</text>
     <!-- Items count (static, no tooltip) -->
     <g transform="translate(60, 5)">
-      <text x="0" y="15" font-size="14" font-weight="500" fill="#7d8590">267 Items</text>
+      <text x="0" y="15" font-size="14" font-weight="500" fill="#7d8590">268 Items</text>
     </g>
     
     <!-- Days Active with hover tooltip -->
@@ -125,8 +125,8 @@
         <text x="147" y="67" font-size="9" fill="#f0f6fc" text-anchor="middle">14</text>
         <rect x="140" y="70" width="14" height="10" rx="2" fill="#c41e2a"/>
         <text x="147" y="100" font-size="9" fill="#e6edf3" text-anchor="middle">F</text>
-        <text x="171" y="42" font-size="9" fill="#f0f6fc" text-anchor="middle">48</text>
-        <rect x="164" y="45" width="14" height="35" rx="2" fill="#c41e2a"/>
+        <text x="171" y="41" font-size="9" fill="#f0f6fc" text-anchor="middle">49</text>
+        <rect x="164" y="44" width="14" height="36" rx="2" fill="#c41e2a"/>
         <text x="171" y="100" font-size="9" fill="#e6edf3" text-anchor="middle">S</text>
       </g>
     </g>
@@ -6290,10 +6290,11 @@
           rx="2"
           fill="#c41e2a"
         />
-        <g class="tooltip-group" transform="translate(204, -34)">
-          <rect x="0" y="0" width="315" height="128" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(204, -52)">
+          <rect x="0" y="0" width="315" height="146" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Sat, 28. Mar 2026: 5 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Sat, 28. Mar 2026: 6 items watched</tspan>
+            <tspan x="10" dy="18">• Peaky Blinders: The Immortal Man (2026)</tspan>
             <tspan x="10" dy="18">• iCarly S02E14 (2007)</tspan>
             <tspan x="10" dy="18">• iCarly S06E05 (2007)</tspan>
             <tspan x="10" dy="18">• iCarly S03E02 (2007)</tspan>
