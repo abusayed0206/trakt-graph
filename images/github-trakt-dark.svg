@@ -80,11 +80,11 @@
       </a>
       
       <tspan dx="5" fill="#7d8590">•</tspan>
-      <tspan dx="5" fill="#e6edf3">376</tspan>
+      <tspan dx="5" fill="#e6edf3">377</tspan>
       <tspan fill="#7d8590"> Movies</tspan>
       
       <tspan dx="5" fill="#7d8590">•</tspan>
-      <tspan dx="5" fill="#e6edf3">802</tspan>
+      <tspan dx="5" fill="#e6edf3">807</tspan>
       <tspan fill="#7d8590"> Episodes</tspan>
       
     </text>
@@ -97,12 +97,12 @@
     <text x="0" y="20" font-size="16" font-weight="600" fill="#e6edf3">2026</text>
     <!-- Items count (static, no tooltip) -->
     <g transform="translate(60, 5)">
-      <text x="0" y="15" font-size="14" font-weight="500" fill="#7d8590">261 Items</text>
+      <text x="0" y="15" font-size="14" font-weight="500" fill="#7d8590">267 Items</text>
     </g>
     
     <!-- Days Active with hover tooltip -->
     <g class="days-active-group" transform="translate(180, 5)">
-      <text x="0" y="15" font-size="14" font-weight="500" fill="#7d8590">79 Days Active</text>
+      <text x="0" y="15" font-size="14" font-weight="500" fill="#7d8590">80 Days Active</text>
       <g class="days-active-tooltip" transform="translate(-20, -115)">
         <rect x="0" y="0" width="200" height="105" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
         <text x="100" y="18" font-size="11" font-weight="600" fill="#f0f6fc" text-anchor="middle">Weekly Distribution</text>
@@ -122,11 +122,11 @@
         <text x="123" y="54" font-size="9" fill="#f0f6fc" text-anchor="middle">32</text>
         <rect x="116" y="57" width="14" height="23" rx="2" fill="#c41e2a"/>
         <text x="123" y="100" font-size="9" fill="#e6edf3" text-anchor="middle">T</text>
-        <text x="147" y="68" font-size="9" fill="#f0f6fc" text-anchor="middle">13</text>
-        <rect x="140" y="71" width="14" height="9" rx="2" fill="#c41e2a"/>
+        <text x="147" y="67" font-size="9" fill="#f0f6fc" text-anchor="middle">14</text>
+        <rect x="140" y="70" width="14" height="10" rx="2" fill="#c41e2a"/>
         <text x="147" y="100" font-size="9" fill="#e6edf3" text-anchor="middle">F</text>
-        <text x="171" y="46" font-size="9" fill="#f0f6fc" text-anchor="middle">43</text>
-        <rect x="164" y="49" width="14" height="31" rx="2" fill="#c41e2a"/>
+        <text x="171" y="42" font-size="9" fill="#f0f6fc" text-anchor="middle">48</text>
+        <rect x="164" y="45" width="14" height="35" rx="2" fill="#c41e2a"/>
         <text x="171" y="100" font-size="9" fill="#e6edf3" text-anchor="middle">S</text>
       </g>
     </g>
@@ -5309,10 +5309,11 @@
           rx="2"
           fill="#5c1015"
         />
-        <g class="tooltip-group" transform="translate(204, 21)">
-          <rect x="0" y="0" width="280" height="56" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(204, 3)">
+          <rect x="0" y="0" width="280" height="74" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Fri, 27. Mar 2026: 1 item watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Fri, 27. Mar 2026: 2 items watched</tspan>
+            <tspan x="10" dy="18">• Malcolm in the Middle S03E12 (2000)</tspan>
             <tspan x="10" dy="18">• Malcolm in the Middle S03E11 (2000)</tspan>
           </text>
         </g>
@@ -6287,12 +6288,17 @@
           width="14"
           height="14"
           rx="2"
-          fill="#161b22"
+          fill="#c41e2a"
         />
-        <g class="tooltip-group" transform="translate(204, 56)">
-          <rect x="0" y="0" width="280" height="38" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(204, -34)">
+          <rect x="0" y="0" width="315" height="128" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
-            <tspan x="10" dy="22" font-weight="600">Sat, 28. Mar 2026: 0 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Sat, 28. Mar 2026: 5 items watched</tspan>
+            <tspan x="10" dy="18">• iCarly S02E14 (2007)</tspan>
+            <tspan x="10" dy="18">• iCarly S06E05 (2007)</tspan>
+            <tspan x="10" dy="18">• iCarly S03E02 (2007)</tspan>
+            <tspan x="10" dy="18">• Malcolm in the Middle S03E13 (2000)</tspan>
+            <tspan x="10" dy="18">• Nirvanna the Band the Show the Movie (2026)</tspan>
           </text>
         </g>
       </a>
