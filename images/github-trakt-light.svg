@@ -80,11 +80,11 @@
       </a>
       
       <tspan dx="5" fill="#656d76">•</tspan>
-      <tspan dx="5" fill="#1f2328">401</tspan>
+      <tspan dx="5" fill="#1f2328">402</tspan>
       <tspan fill="#656d76"> Movies</tspan>
       
       <tspan dx="5" fill="#656d76">•</tspan>
-      <tspan dx="5" fill="#1f2328">926</tspan>
+      <tspan dx="5" fill="#1f2328">911</tspan>
       <tspan fill="#656d76"> Episodes</tspan>
       
     </text>
@@ -97,12 +97,12 @@
     <text x="0" y="20" font-size="16" font-weight="600" fill="#1f2328">2026</text>
     <!-- Items count (static, no tooltip) -->
     <g transform="translate(60, 5)">
-      <text x="0" y="15" font-size="14" font-weight="500" fill="#656d76">410 Items</text>
+      <text x="0" y="15" font-size="14" font-weight="500" fill="#656d76">396 Items</text>
     </g>
     
     <!-- Days Active with hover tooltip -->
     <g class="days-active-group" transform="translate(180, 5)">
-      <text x="0" y="15" font-size="14" font-weight="500" fill="#656d76">124 Days Active</text>
+      <text x="0" y="15" font-size="14" font-weight="500" fill="#656d76">123 Days Active</text>
       <g class="days-active-tooltip" transform="translate(-20, -115)">
         <rect x="0" y="0" width="200" height="105" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
         <text x="100" y="18" font-size="11" font-weight="600" fill="#1f2328" text-anchor="middle">Weekly Distribution</text>
@@ -119,11 +119,11 @@
         <text x="99" y="52" font-size="9" fill="#1f2328" text-anchor="middle">48</text>
         <rect x="92" y="55" width="14" height="25" rx="2" fill="#ed4c55"/>
         <text x="99" y="100" font-size="9" fill="#1f2328" text-anchor="middle">W</text>
-        <text x="123" y="48" font-size="9" fill="#1f2328" text-anchor="middle">54</text>
-        <rect x="116" y="51" width="14" height="29" rx="2" fill="#ed4c55"/>
+        <text x="123" y="55" font-size="9" fill="#1f2328" text-anchor="middle">41</text>
+        <rect x="116" y="58" width="14" height="22" rx="2" fill="#ed4c55"/>
         <text x="123" y="100" font-size="9" fill="#1f2328" text-anchor="middle">T</text>
-        <text x="147" y="66" font-size="9" fill="#1f2328" text-anchor="middle">20</text>
-        <rect x="140" y="69" width="14" height="11" rx="2" fill="#ed4c55"/>
+        <text x="147" y="67" font-size="9" fill="#1f2328" text-anchor="middle">19</text>
+        <rect x="140" y="70" width="14" height="10" rx="2" fill="#ed4c55"/>
         <text x="147" y="100" font-size="9" fill="#1f2328" text-anchor="middle">F</text>
         <text x="171" y="34" font-size="9" fill="#1f2328" text-anchor="middle">82</text>
         <rect x="164" y="37" width="14" height="43" rx="2" fill="#ed4c55"/>
@@ -4575,25 +4575,12 @@
           width="14"
           height="14"
           rx="2"
-          fill="#ed4c55"
+          fill="#ebedf0"
         />
-        <g class="tooltip-group" transform="translate(340, -212)">
-          <rect x="0" y="0" width="280" height="272" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(340, 22)">
+          <rect x="0" y="0" width="280" height="38" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#1f2328">
-            <tspan x="10" dy="22" font-weight="600">Thu, 21. May 2026: 13 items watched</tspan>
-            <tspan x="10" dy="18">• Mr. Robot S01E02 (2015)</tspan>
-            <tspan x="10" dy="18">• Mr. Robot S01E01 (2015)</tspan>
-            <tspan x="10" dy="18">• Smallville S04E16 (2001)</tspan>
-            <tspan x="10" dy="18">• Smallville S04E15 (2001)</tspan>
-            <tspan x="10" dy="18">• Smallville S04E14 (2001)</tspan>
-            <tspan x="10" dy="18">• Scrubs S01E03 (2026)</tspan>
-            <tspan x="10" dy="18">• Scrubs S01E02 (2026)</tspan>
-            <tspan x="10" dy="18">• Smallville S04E13 (2001)</tspan>
-            <tspan x="10" dy="18">• Scrubs S01E01 (2026)</tspan>
-            <tspan x="10" dy="18">• The Mandalorian S03E04 (2019)</tspan>
-            <tspan x="10" dy="18">• The Boys S05E04 (2019)</tspan>
-            <tspan x="10" dy="18">• Blue Mountain State S01E09 (2010)</tspan>
-            <tspan x="10" dy="18">• One Piece S09E332 (1999)</tspan>
+            <tspan x="10" dy="22" font-weight="600">Thu, 21. May 2026: 0 items watched</tspan>
           </text>
         </g>
       </a>
@@ -5562,12 +5549,11 @@
           rx="2"
           fill="#ffc9cc"
         />
-        <g class="tooltip-group" transform="translate(340, 3)">
-          <rect x="0" y="0" width="280" height="74" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(340, 21)">
+          <rect x="0" y="0" width="280" height="56" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#1f2328">
-            <tspan x="10" dy="22" font-weight="600">Fri, 22. May 2026: 2 items watched</tspan>
-            <tspan x="10" dy="18">• Mr. Robot S01E04 (2015)</tspan>
-            <tspan x="10" dy="18">• Mr. Robot S01E03 (2015)</tspan>
+            <tspan x="10" dy="22" font-weight="600">Fri, 22. May 2026: 1 item watched</tspan>
+            <tspan x="10" dy="18">• It&apos;s What&apos;s Inside (2024)</tspan>
           </text>
         </g>
       </a>
