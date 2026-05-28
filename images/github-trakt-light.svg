@@ -7175,10 +7175,10 @@
         <text x="99" y="42" font-size="9" fill="#1f2328" text-anchor="middle">132</text>
         <rect x="92" y="45" width="14" height="35" rx="2" fill="#ed4c55"/>
         <text x="99" y="100" font-size="9" fill="#1f2328" text-anchor="middle">W</text>
-        <text x="123" y="48" font-size="9" fill="#1f2328" text-anchor="middle">108</text>
+        <text x="123" y="48" font-size="9" fill="#1f2328" text-anchor="middle">109</text>
         <rect x="116" y="51" width="14" height="29" rx="2" fill="#ed4c55"/>
         <text x="123" y="100" font-size="9" fill="#1f2328" text-anchor="middle">T</text>
-        <text x="147" y="50" font-size="9" fill="#1f2328" text-anchor="middle">102</text>
+        <text x="147" y="50" font-size="9" fill="#1f2328" text-anchor="middle">101</text>
         <rect x="140" y="53" width="14" height="27" rx="2" fill="#ed4c55"/>
         <text x="147" y="100" font-size="9" fill="#1f2328" text-anchor="middle">F</text>
         <text x="171" y="41" font-size="9" fill="#1f2328" text-anchor="middle">136</text>
@@ -11936,14 +11936,15 @@
           rx="2"
           fill="#ff8a8f"
         />
-        <g class="tooltip-group" transform="translate(323, -68)">
-          <rect x="0" y="0" width="280" height="128" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(323, -86)">
+          <rect x="0" y="0" width="280" height="146" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#1f2328">
-            <tspan x="10" dy="22" font-weight="600">Thu, 15. May 2025: 5 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Thu, 15. May 2025: 6 items watched</tspan>
             <tspan x="10" dy="18">• Love, Death &amp; Robots S04E09 (2019)</tspan>
             <tspan x="10" dy="18">• Love, Death &amp; Robots S04E07 (2019)</tspan>
             <tspan x="10" dy="18">• A Working Man (2025)</tspan>
             <tspan x="10" dy="18">• The Cat in the Hat (2003)</tspan>
+            <tspan x="10" dy="18">• The Craft (1996)</tspan>
             <tspan x="10" dy="18">• The Craft (1996)</tspan>
           </text>
         </g>
@@ -12748,12 +12749,11 @@
           rx="2"
           fill="#ffc9cc"
         />
-        <g class="tooltip-group" transform="translate(119, 3)">
-          <rect x="0" y="0" width="280" height="74" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(119, 21)">
+          <rect x="0" y="0" width="280" height="56" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#1f2328">
-            <tspan x="10" dy="22" font-weight="600">Fri, 21. Feb 2025: 2 items watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Fri, 21. Feb 2025: 1 item watched</tspan>
             <tspan x="10" dy="18">• The Simpsons S06E04 (1989)</tspan>
-            <tspan x="10" dy="18">• Booksmart (2019)</tspan>
           </text>
         </g>
       </a>
